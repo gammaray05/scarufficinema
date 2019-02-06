@@ -98,7 +98,6 @@ RATING;DIRECTOR;MOVIE
 7.4;Asghar Farhadi;Darbareye Elly/ About Elly
 7.4;Apichatpong Weerasethakul;Uncle Boonmee Who Can Recall His Past Lives
 7.4;Aki Kaurismaki;The Man Without a Past
-7.3;Gaspar Noe;Enter the Void
 7.3;Zhangke Jia;The World
 7.3;Wong Kar-wai;In the Mood For Love
 7.3;Wong Kar-wai;2046
@@ -134,6 +133,7 @@ RATING;DIRECTOR;MOVIE
 7.3;Jacques Audiard;De Battre Mon Cour S'Est Arrete'/ The Beat That My Heart Skipped
 7.3;Hong Sang-soo;Oh Soojung/ Virgin Stripped Bare by Her Bachelors
 7.3;Gerardo Naranjo;Miss Bala
+7.3;Gaspar Noe;Enter the Void
 7.3;Cristi Puiu;Sieranevada
 7.3;Corneliu Porumboiu;Police Adjective
 7.3;Claire Denis;The Intruder
@@ -1111,7 +1111,6 @@ RATING;DIRECTOR;MOVIE
 7.0;Brad Bird;The Incredibles
 7.0;Brad Anderson;The Machinist
 7.0;Bouli Lanners;Eldorado
-7.0;Boots Riley;Sorry to Bother You
 7.0;Bing Liu;Minding the Gap
 7.0;Bi Gan;Kaili Blues
 7.0;Bertrand Bonello;Nocturama
@@ -1471,6 +1470,7 @@ RATING;DIRECTOR;MOVIE
 6.9;Brillante Mendoza;Tirador/ Slingshot
 6.9;Brian Goodman;What Doesn's Kill You
 6.9;Brian DePalma;Femme Fatale
+6.9;Boots Riley;Sorry to Bother You
 6.9;Bill Oliver;Jonathan
 6.9;Bill Morrison;Dawson City  Frozen Time
 6.9;Bilge Ebiri;New Guy
@@ -2161,6 +2161,7 @@ RATING;DIRECTOR;MOVIE
 6.6;David Sandberg;Annabelle - Creation
 6.6;David Rabe;Hurlyburly (1998)
 6.6;David Ayer;Bright
+6.6;Danny Boyle;Slumdog Millionaire
 6.6;Danis Tanovic;Death in Sarajevo
 6.6;Daniel Robbins;Pledge
 6.6;Courtney Hunt;Frozen River
@@ -2749,6 +2750,7 @@ RATING;DIRECTOR;MOVIE
 6.5;Daniele Thompson;Change of Plans
 6.5;Daniel and Diego Vega;Octubre
 6.5;Daniel Nettheim;The Hunter
+6.5;Dan Gilroy;Nightcrawler
 6.5;Damian Harris;Gardens of the Night
 6.5;Cyrus Nowrasteh;The Stoning of Soraya M.
 6.5;Curtis Hanson;8 Mile
@@ -2821,7 +2823,6 @@ RATING;DIRECTOR;MOVIE
 6.5;Brett Haley;I'll See You in My Dreams
 6.5;Brad Bird;Ratatouille
 6.5;Brad Anderson;Session 9
-6.5;Boots Riley;Sorry to Bother You
 6.5;Bob Clark;Now & Forever
 6.5;Boaz Yakin;Death in Love
 6.5;Bo Burnham;Eighth Grade
@@ -3225,9 +3226,7 @@ RATING;DIRECTOR;MOVIE
 6.2;David Cronenberg;Map to the Stars
 6.2;David Cronenberg;Cosmopolis
 6.2;Darnell Martin;Cadillac Records
-6.2;Danny Boyle;Slumdog Millionaire
 6.2;Dan Roos;The Opposite Of Sex (1998)
-6.2;Dan Gilroy;Nightcrawler
 6.2;Dan Fogelman;Life Itself
 6.2;Craig Goodwill;Patch Town
 6.2;Clint Eastwood ;Hereafter
