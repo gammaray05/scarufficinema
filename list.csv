@@ -55,7 +55,6 @@ RATING;DIRECTOR;MOVIE
 7.5;Joon-ho Bong;Mother
 7.5;Jia Zhang-Ke;Sanxia Haoren/ Still Life
 7.5;Jafar Panahi;Taxi
-7.5;Hirokazu Kore-eda;Manbiki Kazoku/ Shoplifters
 7.5;Eskil Vogt;Blind
 7.5;Emir Kusturica;Black Cat White Cat (1998)
 7.5;Christopher Nolan;Following
@@ -237,6 +236,8 @@ RATING;DIRECTOR;MOVIE
 7.2;Ciro Guerra;Embrace of the Serpent
 7.2;Christian Petzold;Gespenster/ Ghosts
 7.2;Bruno Dumont;La Vie de Jesus / The Life of Jesus (1997)
+7.2;Bi Gan;Lu Bian Ye Can/ Kaili Blues 
+7.2;Bi Gan;Long Day's Journey into Night
 7.2;Arnaud Desplechin;Rois et Reine/ Kings and Queen
 7.2;Arnaud Desplechin;Les Fantomes d'Ismael/ Ismael's Ghosts
 7.2;Apichatpong Weerasethakul;Sud Sanaeha/ Blissfully Yours
@@ -360,9 +361,11 @@ RATING;DIRECTOR;MOVIE
 7.1;Jafar Panahi;This Is Not a Film
 7.1;Jafar Panahi;Talaye Sorkh/ Crimson Gold
 7.1;Jafar Panahi;Dayereh/The Circle
+7.1;Hu Bo;Da Xiang Xidi Erzuo/ An Elephant Sitting Still 
 7.1;Hsiao-hsien Hou;Nie Yinniang/ The Assassin
 7.1;Hong Sang-soo;Oki's Movie
 7.1;Hirokazu Kore-eda;Still Walking
+7.1;Hirokazu Kore-eda;Manbiki Kazoku/ Shoplifters
 7.1;Hayao Miyazaki;Ponyo
 7.1;Harmony Korine;Mister Lonely
 7.1;Guy Maddin;The Forbidden Room
@@ -991,6 +994,7 @@ RATING;DIRECTOR;MOVIE
 7.0;Fatih Akin;Soul Kitchen
 7.0;Fatih Akin;Aus dem Nichts/ In the Fade
 7.0;Fatih Akin;Auf der Anderen Seite/ The Edge of Heaven
+7.0;Fangfang Li;Wu Wen Xi Dong/ Forever Young 
 7.0;Evan Glodell;Bellflower
 7.0;Eva Husson;Girls of the Sun
 7.0;Eugene Green;Le Pont des Arts
@@ -1081,7 +1085,6 @@ RATING;DIRECTOR;MOVIE
 7.0;Christian Volckman;Renaissance
 7.0;Christian Schwochow;West
 7.0;Christian Schwochow;The Tower
-7.0;Christian Petzold;Transit
 7.0;Christian Gudegast;Den of Thieves
 7.0;Christian Desmares & Franck Ekinci;Avril et le Monde Truque/ April and the Extraordinary World
 7.0;Christian Alvart;Pandorum
@@ -1764,6 +1767,7 @@ RATING;DIRECTOR;MOVIE
 6.8;Jenniphr Goodman;The Tao Of Steve
 6.8;Jeffrey Blitz;Rocket Science
 6.8;Jeff Lipsky;Twelve Thirty
+6.8;Jeethu Joseph;Drishyam
 6.8;Jean-Pierre and Luc Dardenne;Lorna's Silence
 6.8;Jean-Pierre Marois;Live Virgin
 6.8;Jay Duplass;Baghead
@@ -1869,6 +1873,7 @@ RATING;DIRECTOR;MOVIE
 6.8;Chuck Russell;Bless The Child
 6.8;Christophe Gans;Brotherhood Of The Wolf
 6.8;Christina Choe;Nancy
+6.8;Christian Petzold;Transit
 6.8;Christian Carion;Farewell
 6.8;Chris Smith;The Pool
 6.8;Chris Eigeman;Turn the River
@@ -4893,6 +4898,7 @@ RATING;DIRECTOR;MOVIE
 5.5;Oliver Parker;The Importance of Being Earnest
 5.5;Oliver Parker;An Ideal Husband
 5.5;Norton Virgien;The Rugrat's Movie (1998)
+5.5;Nishikant Kamat;Drishyam
 5.5;Nir Bergman;Broken Wings
 5.5;Nick Cassavetes;John Q
 5.5;Neil Marshall;Centurion
