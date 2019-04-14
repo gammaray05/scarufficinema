@@ -156,6 +156,7 @@ RATING;DIRECTOR;MOVIE
 7.2;Steven Spielberg;Minority Report
 7.2;Sophie Barthes;Cold Souls
 7.2;Sofia Coppola;Somewhere
+7.2;Sheng Qiu;Suburban Birds
 7.2;Shane Carruth;Primer
 7.2;Shane Black;Kiss Kiss Bang Bang
 7.2;Sergey Dvortsevoy;Tulpan
@@ -399,6 +400,7 @@ RATING;DIRECTOR;MOVIE
 7.1;Claudia Llosa;La Teta Asustada/ The Milk Of Sorrow
 7.1;Claire Denis;White Material
 7.1;Claire Denis;Beau Travail
+7.1;Claire Denis;Bastards
 7.1;Christopher Munch;Letters From the Big Man
 7.1;Christoffer Boe;Reconstruction
 7.1;Christian Petzold;Toter Mann / Something To Remind Me
@@ -1077,7 +1079,6 @@ RATING;DIRECTOR;MOVIE
 7.0;Claude Chabrol;A Girl Cut in Two
 7.0;Claire Denis;High Life
 7.0;Claire Denis;Beau Travail
-7.0;Claire Denis;Bastards
 7.0;Christopher Nolan;The Prestige
 7.0;Christopher Nolan;Interstellar
 7.0;Christopher McQuarrie;The Way of The Gun
