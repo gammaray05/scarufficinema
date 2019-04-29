@@ -60,6 +60,7 @@ RATING;DIRECTOR;MOVIE
 7.5;Christopher Nolan;Following
 7.5;Christian Petzold;Yella
 7.5;Christian Petzold;Barbara
+7.5;Bi Gan;Long Day's Journey into Night
 7.5;Bela Tarr;The Turin Horse
 7.5;Alejandro Gonzales Inarritu;Amores Perros
 7.4;Zhang-Ke Jia;Zhantai/ Platform
@@ -238,7 +239,6 @@ RATING;DIRECTOR;MOVIE
 7.2;Christian Petzold;Gespenster/ Ghosts
 7.2;Bruno Dumont;La Vie de Jesus / The Life of Jesus (1997)
 7.2;Bi Gan;Lu Bian Ye Can/ Kaili Blues 
-7.2;Bi Gan;Long Day's Journey into Night
 7.2;Arnaud Desplechin;Rois et Reine/ Kings and Queen
 7.2;Arnaud Desplechin;Les Fantomes d'Ismael/ Ismael's Ghosts
 7.2;Apichatpong Weerasethakul;Sud Sanaeha/ Blissfully Yours
@@ -1365,7 +1365,6 @@ RATING;DIRECTOR;MOVIE
 6.9;Lenny Abrahamson;Frank
 6.9;Lena Dunham;Tiny Furniture
 6.9;Leigh Whannell;Upgrade
-6.9;Lars von Trier;The House That Jack Built
 6.9;Kristina Grozeva and Petar Valchanov;The Lesson
 6.9;Kristian Levring;The Salvation
 6.9;Kornel Mundruczo;Delta
@@ -4598,6 +4597,7 @@ RATING;DIRECTOR;MOVIE
 5.9;Martin Scorsese;Shutter Island
 5.9;Louis Mourneau;Bats
 5.9;Liza Johnson;Return
+5.9;Lars von Trier;The House That Jack Built
 5.9;Krutin Patel;Behind Enemy Lines
 5.9;Kirk Jones;Nanny McPhee
 5.9;Khyentse Norbu;Cup
@@ -6479,7 +6479,6 @@ RATING;DIRECTOR;MOVIE
 4.8;Megan Griffiths;Eden
 4.8;Len Wiseman;Total Recall
 4.8;Leigh Whannell;Upgrade
-4.8;Lars von Trier;The House That Jack Built
 4.8;Josh Heald;Hot Tub Time Machine 2
 4.8;Jonathan Watson;Arizona
 4.8;Jonathan Lynn;Whole Nine Yards
