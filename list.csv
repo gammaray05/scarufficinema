@@ -110,7 +110,7 @@ RATING;DIRECTOR;MOVIE
 7.3;Radu Jude;Aferim
 7.3;Peter Weir;Truman Show (1998)
 7.3;Paolo Sorrentino;L'Amico di Famiglia
-7.3;Nuri Bilge Ceylan;Winter Sleep
+7.5;Nuri Bilge Ceylan;Winter Sleep
 7.3;Nuri Bilge Ceylan;Uc Maymum/ Three Monkeys
 7.3;Neil Labute;Nurse Betty
 7.3;Nadine Labaki;Capernaum
@@ -249,7 +249,7 @@ RATING;DIRECTOR;MOVIE
 7.2;Andrea Arnold;Fish Tank
 7.2;Ama Lily Amirpour;The Bad Batch
 7.2;Alonso Ruizpalacios;Museum/ Museo
-7.2;Alice Rohrwacher;Lazzaro Felice/ Happy as Lazzaro
+7.8;Alice Rohrwacher;Lazzaro Felice/ Happy as Lazzaro
 7.2;Ali Abbasi;Border
 7.2;Alex de la Iglesia;Last Circus
 7.2;Alex Perry;Listen Up Philip
@@ -455,7 +455,7 @@ RATING;DIRECTOR;MOVIE
 7.0;Yuri Bykov;The Fool
 7.0;Yousry Nasrallah;The Gate of the Sun
 7.0;Yoshinari Nishikori;Tatara Samurai
-7.0;Yorgos Lanthimos;Dogtooth
+7.2;Yorgos Lanthimos;Dogtooth
 7.0;Yorgos Lanthimos;Alps
 7.0;Yoji Yamada;Kabei
 7.0;Yasuhiro Yoshiura;Patema Inverted
@@ -1182,10 +1182,11 @@ RATING;DIRECTOR;MOVIE
 7.0;Amat Escalante;La Region Salvaje
 7.0;Alireza Khatami;Los Versos del Olvido/ Oblivion Verses
 7.0;Alice Winocour;Augustine
-7.0;Alice Rohrwacher;The Wonders
+7.2;Alice Rohrwacher;The Wonders
+7.0;Alice Rohrwacher;Corpo Celeste/ Heavenly Body
 7.0;Alfonso Cuaron;Solo con Tu Pareja
 7.0;Alfonso Cuaron;Children of Men
-7.0;Alexei Popogrebsky;How I Ended This Summer
+7.0;Alexei Popogrebsky;How I Enged This Summer
 7.0;Alexandros Avranas;Miss Violence
 7.0;Alexandra Lipsitz;Air Guitar Nation
 7.0;Alexander Zeidovich;Target
