@@ -163,6 +163,7 @@ RATING;DIRECTOR;MOVIE
 7.2;Sergey Dvortsevoy;Tulpan
 7.2;Satoshi Kon;Tokyo Godfathers (2003)
 7.2;Sang-soo Hong;Right Now Wrong Then
+7.2;Ryusuke Hamaguchi;Happi Awa/ Happy Hour
 7.2;Robert Lepage;Far Side of the Moon
 7.2;Raul Ruiz;Comedie de l'innocence/ Comedy of Innocence (2000)
 7.2;Ramin Bahrani;Man Push Cart
@@ -173,7 +174,7 @@ RATING;DIRECTOR;MOVIE
 7.2;Pablo Trapero;El Clan
 7.2;Orson Welles;The Other Side of the Wind
 7.2;Nimrod Antal;Kontroll
-7.2;Myroslav Slaboshpytskiy;The Tribe
+7.4;Myroslav Slaboshpytskiy;The Tribe
 7.2;Miranda July;The Future
 7.2;Ming-liang Tsai;Afternoon
 7.2;Ming-Liang Tsai;Hei Yan Quan/ I Don't Want to Sleep Alone
@@ -201,7 +202,7 @@ RATING;DIRECTOR;MOVIE
 7.2;Kenneth Lonergan;You Can Count On Me
 7.2;Kenneth Lonergan;Manchester by the Sea
 7.2;Julia Ducournau;Raw
-7.2;Jordan Peele;Get Out
+7.4;Jordan Peele;Get Out
 7.2;Jonas Akerlund;Spun
 7.2;John Singleton;Four Brothers
 7.2;John Maringouin;Ghostbox Cowboy’
@@ -210,13 +211,13 @@ RATING;DIRECTOR;MOVIE
 7.2;Jem Cohen;Museum Hours
 7.2;Jafar Panahi;Closed Curtain
 7.2;Jacques Audiard;Un Prophete/ A Prophet
-7.2;JC Chandor;A Most Violent Year
+7.0;JC Chandor;A Most Violent Year
 7.2;Ira Sachs;Forty Shades of Blue
 7.2;Hu Bo;An Elephant Sitting Still
 7.2;Hirokazu Kore-eda;Soshite Chichi ni Naru/ Like Father Like Son
 7.2;Gyorgy Palfi;Taxidermia
 7.2;Guillermo Del Toro;Pan's Labyrinth
-7.2;Grimur Hakonarson;Hrutar/ Rams
+7.1;Grimur Hakonarson;Hrutar/ Rams
 7.2;Greg Zglinski;Animals
 7.2;Goran Paskaljevic;Cabaret Balkan
 7.2;Garin Nugroho;Opera Jawa
@@ -255,6 +256,7 @@ RATING;DIRECTOR;MOVIE
 7.2;Alex Perry;Listen Up Philip
 7.2;Alex De La Iglesia;El Crimen Perfecto
 7.2;Albert Serra;El Cant dels Ocells/ Birdsong
+7.2;Agusti Vila;La Mosquitera/ The Mosquito Net
 7.2;Agnieszka Holland;Spoor
 7.2;Abderrahmane Sissako;Waiting for Happiness
 7.2;Abbas Kiarostami;The Wind Will Carry Us
@@ -384,8 +386,7 @@ RATING;DIRECTOR;MOVIE
 7.1;Francois Ozon;L'Amant Double/ Double Lover
 7.1;Francois Favrat;Le Role de sa Vie/ The Role of Her Life
 7.1;Francis Lawrence;Red Sparrow
-7.1;Ferzan Ozpetek;La Finestra di Fronte/ Facing Windows
-7.1;Ferzan Ozpetek;Facing Windows
+7.2;Ferzan Ozpetek;La Finestra di Fronte/ Facing Windows
 7.1;Fernando Coimbra;A Wolf at the Door
 7.1;Eugene Green;Le Fils de Joseph/ The Son of Joseph
 7.1;Eric Mendelsohn;Judy Berlin
@@ -406,7 +407,7 @@ RATING;DIRECTOR;MOVIE
 7.1;Christopher Munch;Letters From the Big Man
 7.1;Christoffer Boe;Reconstruction
 7.1;Christian Petzold;Toter Mann / Something To Remind Me
-7.1;Christian Petzold;Phoenix
+7.2;Christian Petzold;Phoenix
 7.1;Christian Petzold;Dreileben
 7.1;Caroline Bottaro;Queen to Play
 7.1;Buddhadeb Dasgupta;Uttara
@@ -647,6 +648,8 @@ RATING;DIRECTOR;MOVIE
 7.0;Philip Groening;My Brother's Name Is Robert and He Is an Idiot
 7.0;Phil Morrison;All Is Bright
 7.0;Peter Strickland;The Duke of Burgundy
+7.0;Peter Strickland;Katalin Varga
+7.0;Peter Strickland;Berberian Sound Studio
 7.0;Peter Kosminsky;White Oleander
 7.0;Peter Greenaway;Eisenstein in Guanajuato
 7.0;Peter Greenaway;8 1/2 Women
@@ -920,7 +923,7 @@ RATING;DIRECTOR;MOVIE
 7.0;Jake Paltrow;Young Ones
 7.0;Jacques Nolot;Before i Forget
 7.0;Jacques Audiard;Dheepan
-7.0;JC Chandor;All Is Lost
+7.1;JC Chandor;All Is Lost
 7.0;Ivo Trajkov;Golemata Voda/ The Great Water
 7.0;Ivan Engler;Cargo
 7.0;Ira Sachs;Little Men
@@ -1383,7 +1386,7 @@ RATING;DIRECTOR;MOVIE
 6.9;Jessica Oreck;The Vanquishing of the Witch Baba Yaga
 6.9;Jerome Reybaud;4 Days in France
 6.9;Jeremy Saulnier;Hold the Dark
-6.9;Jennifer Kent;The Babadook
+7.1;Jennifer Kent;The Babadook
 6.9;Jean-Pierre and Luc Dardenne;L'Enfant/ The Unknown Girl
 6.9;Jean-Luc Godard;Film Socialisme
 6.9;Javier Rebollo;The Dead Man and Being Happy
@@ -1846,7 +1849,7 @@ RATING;DIRECTOR;MOVIE
 6.8;Chuck Russell;Bless The Child
 6.8;Christophe Gans;Brotherhood Of The Wolf
 6.8;Christina Choe;Nancy
-6.8;Christian Petzold;Transit
+7.3;Christian Petzold;Transit
 6.8;Christian Carion;Farewell
 6.8;Chris Smith;The Pool
 6.8;Chris Eigeman;Turn the River
@@ -2220,7 +2223,7 @@ RATING;DIRECTOR;MOVIE
 6.5;Takashi Miike;The Great Yokai War
 6.5;Svetozar Ristovski;Iluzija/ Mirage
 6.5;Susanne Bier;Things We Lost in the Fire
-6.5;Susanne Bier;After the Wedding
+6.9;Susanne Bier;After the Wedding
 6.5;Sue Brooks;Japanese Story
 6.5;Steven Soderbergh;The Girlfriend Experience
 6.5;Steven Soderbergh;Ocean's Twelve
@@ -2290,7 +2293,7 @@ RATING;DIRECTOR;MOVIE
 6.5;Rob Reiner;The Magic of Belle Isle
 6.5;Rob Reiner;Flipped
 6.5;Ridley Scott;Matchstick Men
-6.5;Rick Alverson;Entertainment
+7.0;Rick Alverson;Entertainment
 6.5;Richard Loncraine;My One And Only
 6.5;Richard Linklater;School of Rock
 6.5;Richard Eyre;Iris
