@@ -2,7 +2,7 @@
 ## CSV list and Telegram Bot implementation
 
 A time-to-time updated and data miners-friendly list of movie ratings by Piero Scaruffi (scaruffi.com), from 1998 to present (why 1998? Because it is the first year that Piero posted movie ratings for every year with numbers and not just with simple rankings).
-Parsed by copy and paste and then formatted into columns using Excel. 
+Parsed by parser.py. 
 Columns are ratings, directors and movies (for now).
 
 
@@ -15,4 +15,3 @@ There is also the "standard" version of the Bot that does not rely on Webhook Te
 **What to do next**
 
 If someone can help me parsing movies metadata that would be great: years of the movies above all, but it would be fun to compare with Metascore's ratings also.
-But, most importantly, I need to find a way to parse data dynamically from the site. 
