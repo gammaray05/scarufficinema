@@ -99,7 +99,7 @@ def telegram_webhook():
 
 
         url="https://raw.githubusercontent.com/gammaray05/scarufficinema/master/list.csv"
-        master = pd.read_csv(url, sep=';', names = ['RATING', 'DIRECTOR', 'MOVIE'])
+        master = pd.read_csv(url, sep=',', names = ['RATING', 'DIRECTOR', 'MOVIE'])
         result = master[ master['DIRECTOR'].str.contains(text, case=False, regex=False) | master['MOVIE'].str.contains(text, case=False, regex=False) ]
         resultlist = result.values.T.tolist()
         zippedlist = list(zip(*resultlist))
