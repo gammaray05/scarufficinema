@@ -93,7 +93,7 @@ def telegram_webhook():
 
 
         if text == "/start":
-            bot.sendMessage(chat_id, "Please, type a movie (English title) or a director to search ratings from scaruffi.com. Only movies from 1998 to present are listed. \n \nOr you can use commands like /best1980s, /best1970s, etc.. to retrieve the list of the best movies of a decade.\n \nSearch is case insensitive.\nFor example, you can search: \nLynch \nallen \nAnderson \ngreat beauty \nYouth")
+            bot.sendMessage(chat_id, "Please, type a movie (English title) or a director to search ratings from scaruffi.com. Only movies from 1998 to present are listed. \n \nOr you can use commands like /best1980s, /best1970s, etc.. to retrieve the list of the best movies of a decade.\n \nSearch is case insensitive. For example, you can search: \nLynch \nallen \nAnderson \ngreat beauty \nYouth \n\n Developer: @salvdelg. You can find the git on https://bit.ly/2SSr9Fx" )
             return "OK"
 
 
