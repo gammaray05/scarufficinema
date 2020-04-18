@@ -100,6 +100,8 @@ def telegram_webhook():
 
 
         url="https://raw.githubusercontent.com/gammaray05/scarufficinema/master/list.csv"
+        tsurl = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/timestamp.txt"
+        timestamp = requests.get(tsurl)
         master = pd.read_csv(url, sep=',', names = ['RATING', 'DIRECTOR', 'MOVIE'])
         result = master[ master['DIRECTOR'].str.contains(text, case=False, regex=False) | master['MOVIE'].str.contains(text, case=False, regex=False) ]
         resultlist = result.values.T.tolist()
@@ -109,5 +111,5 @@ def telegram_webhook():
             bot.sendMessage(chat_id, "No results found. Check the title or the name. Please remember to use the English title of the movie and that only movies from 1998 to present are listed.")
             return "OK"
         else:
-            bot.sendMessage(chat_id, final)
+            bot.sendMessage(chat_id, final + "\n\nLast updated on: " + timestamp.text)
             return "OK"
