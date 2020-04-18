@@ -1,5 +1,5 @@
 # Scaruffi Cinema Ratings 
-## What is that
+## What is this
 
 A time-to-time updated and data miners-friendly list of movie ratings by Piero Scaruffi (scaruffi.com), from 1998 to present (why 1998? Because it is the first year that Piero posted movie ratings for every year with numbers and not just with simple rankings).
 Parsed by parser.py. 
