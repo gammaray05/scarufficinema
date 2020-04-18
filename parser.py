@@ -5,13 +5,19 @@ import csv
 from csv import writer
 import operator
 import os
-import time
+from datetime import datetime
 from bs4 import BeautifulSoup, NavigableString, Tag
 
+#create timestamp for last updated message
+now = datetime.now()
+timestamp = now.strftime("%d %B %Y")
+with open("c:/Users/pc/Desktop/PROGETTI/scaruffi cinema bot/scarufficinema/timestamp.txt", "w") as file:
+    file.write(timestamp)
 
+#urls list
 urls = ['https://www.scaruffi.com/cinema/best98.html', 'https://www.scaruffi.com/cinema/best99.html', 'https://www.scaruffi.com/cinema/best00.html', 'https://www.scaruffi.com/cinema/best01.html', 'https://www.scaruffi.com/cinema/best02.html', 'https://www.scaruffi.com/cinema/best03.html', 'https://www.scaruffi.com/cinema/best04.html', 'https://www.scaruffi.com/cinema/best05.html', 'https://www.scaruffi.com/cinema/best06.html', 'https://www.scaruffi.com/cinema/best07.html', 'https://www.scaruffi.com/cinema/best08.html', 'https://www.scaruffi.com/cinema/best09.html', 'https://www.scaruffi.com/cinema/best10.html', 'https://www.scaruffi.com/cinema/best11.html', 'https://www.scaruffi.com/cinema/best12.html', 'https://www.scaruffi.com/cinema/best13.html','https://www.scaruffi.com/cinema/best14.html', 'https://www.scaruffi.com/cinema/best15.html', 'https://www.scaruffi.com/cinema/best16.html', 'https://www.scaruffi.com/cinema/best17.html', 'https://www.scaruffi.com/cinema/best18.html', 'https://www.scaruffi.com/cinema/best19.html', 'https://www.scaruffi.com/cinema/best20.html']
 
-# csv writer
+# csv writer function
 def append_list_as_row(file_name, list_of_elem):
     headers = ["RATING","DIRECTOR","MOVIE"]
     with open(file_name, 'a+', newline='', encoding='utf8') as write_obj:
@@ -23,7 +29,7 @@ def append_list_as_row(file_name, list_of_elem):
 
 os.remove("c:/Users/pc/Desktop/PROGETTI/scaruffi cinema bot/unsortedlist.csv")
 
-# parse the urls and search for ratings, then append to csv
+# parse the urls list and search for ratings, then append to csv
 for url in urls:
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'lxml')
@@ -42,7 +48,7 @@ for url in urls:
 # sort the csv by ratings
 data = csv.reader(open('c:/Users/pc/Desktop/PROGETTI/scaruffi cinema bot/unsortedlist.csv'),delimiter=',')
 sortedlist = sorted(data, reverse=True, key=operator.itemgetter(0))
-with open("c:/Users/pc/Desktop/PROGETTI/scaruffi cinema bot/list.csv", "w") as f:
+with open("c:/Users/pc/Desktop/PROGETTI/scaruffi cinema bot/scarufficinema/list.csv", "w") as f:
     fileWriter = csv.writer(f, delimiter=',', lineterminator='\n')
     for row in sortedlist:
         fileWriter.writerow(row)
