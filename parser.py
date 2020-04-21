@@ -10,7 +10,7 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 
 #create timestamp for last updated message
 now = datetime.now()
-timestamp = now.strftime("%d %B %Y")
+timestamp = now.strftime("%B %d, %Y")
 with open("c:/Users/pc/Desktop/PROGETTI/scaruffi cinema bot/scarufficinema/timestamp.txt", "w") as file:
     file.write(timestamp)
 
