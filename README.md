@@ -17,4 +17,4 @@ Deployed to PythonAnywhere *(very nice free service that requires one login ever
 ### What to do next
 
 * Parsing movies metadata, especially for showing movie years in search results. 
-* Show other ratings, like Metascore or IMDB.
+* Show other ratings, like Metascore or IMDB, for comparison.
