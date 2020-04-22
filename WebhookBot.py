@@ -93,7 +93,7 @@ def telegram_webhook():
 
 
         if text == "/start":
-            bot.sendMessage(chat_id, "Please, type a movie (English title) or a director to search ratings from scaruffi.com. Only movies from 1998 to present are listed. Use correctly the '-' if you're searching for directors with it in the name (e.g. asian directors).\nSearch is case insensitive. \n\nFor example, you can search: \nLynch \nallen \nAnderson \ngreat beauty \nChan-wook \n \nOr you can use commands like /best1980s, /best1970s, etc.. to retrieve the list of the best movies of a decade.\n\nDeveloper: @salvdelg. You can find the git on https://github.com/gammaray05/scarufficinema")
+            bot.sendMessage(chat_id, "Please, type a movie (English title) OR a director to search ratings from scaruffi.com. Only movies from 1998 to present are listed. Use correctly the '-' if you're searching for directors with it in the name (e.g. asian directors).\nSearch is case insensitive. \n\nFor example, you can search: \nLynch \nallen \nAnderson \ngreat beauty \nChan-wook \n \nOr you can use commands like /best1980s, /best1970s, etc.. to retrieve the list of the best movies of a decade.\n\nDeveloper: @salvdelg. You can find the git on https://github.com/gammaray05/scarufficinema")
 
             return "OK"
 
@@ -109,7 +109,7 @@ def telegram_webhook():
         zippedlist = list(zip(*resultlist))
         final = "\n".join([" - ".join(tup) for tup in zippedlist])
         if not final:
-            bot.sendMessage(chat_id, "No results found. Check the title or the name. \nPlease remember to use the English title of the movie and that only movies from 1998 to present are listed. Use correctly the '-' if you're searching for directors with it in the name (e.g. 'Chan-Wook', 'Joon-ho').")
+            bot.sendMessage(chat_id, "No results found. Check the title or the name. \n\nPlease:\n* Don't search for a director and a movie together\n* Use the English title of a movie\n* Remember that only movies from 1998 to present are listed\n* Use correctly the '-' if you're searching for directors with it in the name (e.g. 'Chan-Wook', 'Joon-ho').")
             return "OK"
         else:
             bot.sendMessage(chat_id, final + "\n\nLast updated on: " + timestamp.text)
