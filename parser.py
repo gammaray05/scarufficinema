@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 #create timestamp for last updated message
 now = datetime.now()
 timestamp = now.strftime("%B %d, %Y")
-with open("c:/Users/pc/Desktop/PROGETTI/scaruffi cinema bot/scarufficinema/timestamp.txt", "w") as file:
+with open("timestamp.txt", "w") as file:
     file.write(timestamp)
 
 #urls list
@@ -27,7 +27,7 @@ def append_list_as_row(file_name, list_of_elem):
             csv_writer.writerow(headers)
         csv_writer.writerow(list_of_elem)
 
-os.remove("c:/Users/pc/Desktop/PROGETTI/scaruffi cinema bot/unsortedlist.csv")
+os.remove("../unsortedlist.csv")
 
 # parse the urls list and search for ratings, then append to csv
 for url in urls:
@@ -43,12 +43,12 @@ for url in urls:
                     e = [e.rstrip() for e in d]
                 except IndexError:
                     print("Movie with formatting error")
-                append_list_as_row('c:/Users/pc/Desktop/PROGETTI/scaruffi cinema bot/unsortedlist.csv', e)
+                append_list_as_row('../unsortedlist.csv', e)
 
 # sort the csv by ratings
-data = csv.reader(open('c:/Users/pc/Desktop/PROGETTI/scaruffi cinema bot/unsortedlist.csv'),delimiter=',')
+data = csv.reader(open('../unsortedlist.csv'),delimiter=',')
 sortedlist = sorted(data, reverse=True, key=operator.itemgetter(0))
-with open("c:/Users/pc/Desktop/PROGETTI/scaruffi cinema bot/scarufficinema/list.csv", "w") as f:
+with open("list.csv", "w") as f:
     fileWriter = csv.writer(f, delimiter=',', lineterminator='\n')
     for row in sortedlist:
         fileWriter.writerow(row)
