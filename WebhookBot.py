@@ -93,7 +93,7 @@ def telegram_webhook():
 
 
         if text == "/start":
-            bot.sendMessage(chat_id, "Please, type a movie (English title) or a director to search ratings from scaruffi.com. Only movies from 1998 to present are listed. \n \nOr you can use commands like /best1980s, /best1970s, etc.. to retrieve the list of the best movies of a decade.\n \nSearch is case insensitive. For example, you can search: \nLynch \nallen \nAnderson \ngreat beauty \nYouth \n\nDeveloper: @salvdelg. You can find the git on https://github.com/gammaray05/scarufficinema")
+            bot.sendMessage(chat_id, "Please, type a movie (English title) or a director to search ratings from scaruffi.com. Only movies from 1998 to present are listed. Use correctly the '-' if you're searching for directors with it in the name (e.g. asian directors)\n \nSearch is case insensitive. For example, you can search: \nLynch \nallen \nAnderson \ngreat beauty \nChan-wook \n \nOr you can use commands like /best1980s, /best1970s, etc.. to retrieve the list of the best movies of a decade.\n\nDeveloper: @salvdelg. You can find the git on https://github.com/gammaray05/scarufficinema")
 
             return "OK"
 
@@ -102,13 +102,14 @@ def telegram_webhook():
         url="https://raw.githubusercontent.com/gammaray05/scarufficinema/master/list.csv"
         tsurl = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/timestamp.txt"
         timestamp = requests.get(tsurl)
+        reversetext = " ".join(text.split(" ")[::-1])
         master = pd.read_csv(url, sep=',', names = ['RATING', 'DIRECTOR', 'MOVIE'])
-        result = master[ master['DIRECTOR'].str.contains(text, case=False, regex=False) | master['MOVIE'].str.contains(text, case=False, regex=False) ]
+        result = master[master['DIRECTOR'].str.contains(text, case=False, regex=False) | master['DIRECTOR'].str.contains(reversetext, case=False, regex=False) | master['MOVIE'].str.contains(text, case=False, regex=False)]
         resultlist = result.values.T.tolist()
         zippedlist = list(zip(*resultlist))
         final = "\n".join([" - ".join(tup) for tup in zippedlist])
         if not final:
-            bot.sendMessage(chat_id, "No results found. Check the title or the name. Please remember to use the English title of the movie and that only movies from 1998 to present are listed.")
+            bot.sendMessage(chat_id, "No results found. Check the title or the name. Please remember to use the English title of the movie and that only movies from 1998 to present are listed. Use correctly the '-' if you're searching for directors with it in the name (e.g. asian directors).")
             return "OK"
         else:
             bot.sendMessage(chat_id, final + "\n\nLast updated on: " + timestamp.text)
