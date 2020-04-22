@@ -1,18 +1,18 @@
-1 - Charles Chaplin: Modern Times
-2 - Josef von Sternberg: Das Blaue Engel/ The Blue Angel
-3 - Howard Hawks: Bringing Up Baby
-4 - Fritz Lang: M
-5 - Jean Renoir: La Grande Illusion
-6 - John Ford: Stagecoach
-7 - Sergei Eisenstein: Aleksandr Nevskii
-8 - Leo McCarey (Marx Brothers): Duck Soup
-9 - Frank Capra: Mr. Smith Goes to Washington
-10 - Fritz Lang: Das Testament des Dr Mabuse/ Crime of Dr Mabuse (1932)
-11 - Kenji Mizoguchi: Zangiku Monogatari/ Story of the Last Chrysanthemum
-12 - Alexander Dovzhenko: Zemlja/ Earth
-13 - Fritz Lang: Fury
-14 - Lewis Milestone: Front Page
-15 - Charles Chaplin: City Lights
-16 - Frank Capra: Lady for a Day
-17 - Yasujiro Ozu: Ukigusa Monogatari/ Floating Weeds
-18 - Jean Renoir: La Regle du Jeu/ The Rules of the Game
+1. Charles Chaplin: Modern Times
+2. Josef von Sternberg: Das Blaue Engel/ The Blue Angel
+3. Howard Hawks: Bringing Up Baby
+4. Fritz Lang: M
+5. Jean Renoir: La Grande Illusion
+6. John Ford: Stagecoach
+7. Sergei Eisenstein: Aleksandr Nevskii
+8. Leo McCarey (Marx Brothers): Duck Soup
+9. Frank Capra: Mr. Smith Goes to Washington
+10. Fritz Lang: Das Testament des Dr Mabuse/ Crime of Dr Mabuse (1932)
+11. Kenji Mizoguchi: Zangiku Monogatari/ Story of the Last Chrysanthemum
+12. Alexander Dovzhenko: Zemlja/ Earth
+13. Fritz Lang: Fury
+14. Lewis Milestone: Front Page
+15. Charles Chaplin: City Lights
+16. Frank Capra: Lady for a Day
+17. Yasujiro Ozu: Ukigusa Monogatari/ Floating Weeds
+18. Jean Renoir: La Regle du Jeu/ The Rules of the Game

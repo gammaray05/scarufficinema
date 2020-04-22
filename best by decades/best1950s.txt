@@ -1,38 +1,38 @@
-1 - Orson Welles: Touch Of Evil
-2 - Alfred Hitchcock: North By Northwest
-3 - Akira Kurosawa: Ikiru/To live (1952)
-4 - Fritz Lang: The Big Heat
-5 - Ingmar Bergman: Det Sjunde Inseglet/ Seventh Seal
-6 - Orson Welles: Mr Arkadin/ Rapporto Confidenziale
-7 - Charles Chaplin: Limelight
-8 - George Stevens: Giant
-9 - Billy Wilder: Sunset Boulevard
-10 - Alfred Hitchcock: Vertigo
-11 - Elia Kazan: On The Waterfront
-12 - Vittorio DeSica: Miracolo a Milano/ Miracle in Milan
-13 - Alfred Hitchcock: Rear Window
-14 - Federico Fellini: La Strada
-15 - Ingmar Bergman: Smultronstallet/ Wild Strawberries
-16 - Elia Kazan: A Face in the Crowd
-17 - Akira Kurosawa: Shichinin No Samurai/ The Seven Samurai
-18 - Alfred Hitchcock: To Catch A Thief
-19 - Carl Theodor Dreyer: Ordet
-20 - Vittorio DeSica: Umberto D
-21 - Federico Fellini: Nights of Cabiria
-22 - Ingmar Bergman: Ansiktet/ Magician/ Volto
-23 - Yasujiro Ozu: Bakushu/ Early Summer (1951)
-24 - Akira Kurosawa: Rashomon
-25 - Joseph Mankiewicz: All About Eve
-26 - Don Siegel: Invasion of the Body Snatchers
-27 - Fritz Lang: While the City Sleeps
-28 - Richard Quine: Bell Book and Candle/ Una Strega in Paradiso
-29 - Mario Monicelli: I Soliti Ignoti/ Big Deal on Madonna Street
-30 - Mario Monicelli: La Grande Guerra/ Great War (1959)
-31 - Billy Wilder: Some Like It Hot (1959)
-32 - Alain Resnais: Hiroshima Mon Amour (1959)
-33 - Jean-Luc Godard: A Bout de Souffle/ Breathless(1959)
-34 - Guru Dutt: Kaagaz/ Paper Flowers (1959)
-35 - Richard Quine: It Happened to Jane (1959)
-36 - John Cassavetes: Shadows(1959)
-37 - Satyajit Ray: Pather Panchali
-38 - Akira Kurosawa: Kakushi Toride no San-akunin/Hidden Fortress
+1. Orson Welles: Touch Of Evil
+2. Alfred Hitchcock: North By Northwest
+3. Akira Kurosawa: Ikiru/To live (1952)
+4. Fritz Lang: The Big Heat
+5. Ingmar Bergman: Det Sjunde Inseglet/ Seventh Seal
+6. Orson Welles: Mr Arkadin/ Rapporto Confidenziale
+7. Charles Chaplin: Limelight
+8. George Stevens: Giant
+9. Billy Wilder: Sunset Boulevard
+10. Alfred Hitchcock: Vertigo
+11. Elia Kazan: On The Waterfront
+12. Vittorio DeSica: Miracolo a Milano/ Miracle in Milan
+13. Alfred Hitchcock: Rear Window
+14. Federico Fellini: La Strada
+15. Ingmar Bergman: Smultronstallet/ Wild Strawberries
+16. Elia Kazan: A Face in the Crowd
+17. Akira Kurosawa: Shichinin No Samurai/ The Seven Samurai
+18. Alfred Hitchcock: To Catch A Thief
+19. Carl Theodor Dreyer: Ordet
+20. Vittorio DeSica: Umberto D
+21. Federico Fellini: Nights of Cabiria
+22. Ingmar Bergman: Ansiktet/ Magician/ Volto
+23. Yasujiro Ozu: Bakushu/ Early Summer (1951)
+24. Akira Kurosawa: Rashomon
+25. Joseph Mankiewicz: All About Eve
+26. Don Siegel: Invasion of the Body Snatchers
+27. Fritz Lang: While the City Sleeps
+28. Richard Quine: Bell Book and Candle/ Una Strega in Paradiso
+29. Mario Monicelli: I Soliti Ignoti/ Big Deal on Madonna Street
+30. Mario Monicelli: La Grande Guerra/ Great War (1959)
+31. Billy Wilder: Some Like It Hot (1959)
+32. Alain Resnais: Hiroshima Mon Amour (1959)
+33. Jean-Luc Godard: A Bout de Souffle/ Breathless (1959)
+34. Guru Dutt: Kaagaz/ Paper Flowers (1959)
+35. Richard Quine: It Happened to Jane (1959)
+36. John Cassavetes: Shadows (1959)
+37. Satyajit Ray: Pather Panchali
+38. Akira Kurosawa: Kakushi Toride no San-akunin/Hidden Fortress

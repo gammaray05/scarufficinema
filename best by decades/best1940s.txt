@@ -1,27 +1,27 @@
-1 - Orson Welles: Citizen Kane
-2 - Orson Welles: The Magnificent Ambersons
-3 - Orson Welles: Lady from Shanghai
-4 - Howard Hawks: The Big Sleep
-5 - Josef von Sternberg: Shanghai Gesture
-6 - William Wyler: The Best Years of Our Lives
-7 - Billy Wilder: Double Indemnity
-8 - Otto Preminger: Laura
-9 - Alfred Hitchcock: Spellbound
-10 - Marcel Carne`: Les Enfants du Paradis/ Children of Paradise
-11 - Michael Powell: Red Shoes
-12 - John Huston: The Treasure of the Sierra Madre (1948)
-13 - Charles Chaplin: The Great Dictator
-14 - Ernst Lubitsch: To Be or Not to Be
-15 - Frank Capra: Meet John Doe (1941)
-16 - Preston Sturges: Sullivan's Travels
-17 - Howard Hawks: His Girl Friday
-18 - Alfred Hitchcock: Shadow of a Doubt
-19 - Yasujiro Ozu: Banshum/ Late Spring
-20 - Sergei Eisenstein: Ivan Groznyi/ Ivan the Terrible
-21 - Ernst Lubitsch: Heaven Can Wait
-22 - Vittorio DeSica: Ladri di Biciclette/ Bicycle Thieves
-23 - Michael Curtiz: Casablanca
-24 - Frank Capra: It's A Wonderful Life
-25 - Preston Sturges: Hail the Conquering Hero
-26 - Rene` Clair: It Happened Tomorrow
-27 - Howard Hawks: I Was a Male War Bride
+1. Orson Welles: Citizen Kane
+2. Orson Welles: The Magnificent Ambersons
+3. Orson Welles: Lady from Shanghai
+4. Howard Hawks: The Big Sleep
+5. Josef von Sternberg: Shanghai Gesture
+6. William Wyler: The Best Years of Our Lives
+7. Billy Wilder: Double Indemnity
+8. Otto Preminger: Laura
+9. Alfred Hitchcock: Spellbound
+10. Marcel Carne`: Les Enfants du Paradis/ Children of Paradise
+11. Michael Powell: Red Shoes
+12. John Huston: The Treasure of the Sierra Madre (1948)
+13. Charles Chaplin: The Great Dictator
+14. Ernst Lubitsch: To Be or Not to Be
+15. Frank Capra: Meet John Doe (1941)
+16. Preston Sturges: Sullivan's Travels
+17. Howard Hawks: His Girl Friday
+18. Alfred Hitchcock: Shadow of a Doubt
+19. Yasujiro Ozu: Banshum/ Late Spring
+20. Sergei Eisenstein: Ivan Groznyi/ Ivan the Terrible
+21. Ernst Lubitsch: Heaven Can Wait
+22. Vittorio DeSica: Ladri di Biciclette/ Bicycle Thieves
+23. Michael Curtiz: Casablanca
+24. Frank Capra: It's A Wonderful Life
+25. Preston Sturges: Hail the Conquering Hero
+26. Rene` Clair: It Happened Tomorrow
+27. Howard Hawks: I Was a Male War Bride
