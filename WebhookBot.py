@@ -1,116 +1,118 @@
 from flask import Flask, request
 import requests
-import telepot
+import telebot
 import pandas as pd
 import urllib3
+import os
 
+url="https://raw.githubusercontent.com/gammaray05/scarufficinema/master/list.csv"
+tsurl = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/timestamp.txt"
+timestamp = requests.get(tsurl)
+master = pd.read_csv(url, sep=',', names = ['RATING', 'DIRECTOR', 'MOVIE'])
 
-proxy_url = "http://proxy.server:3128"
-telepot.api._pools = {
-    'default': urllib3.ProxyManager(proxy_url=proxy_url, num_pools=3, maxsize=10, retries=False, timeout=30),
-}
-telepot.api._onetime_pool_spec = (urllib3.ProxyManager, dict(proxy_url=proxy_url, num_pools=1, maxsize=1, retries=False, timeout=30))
+dieci = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1910s.txt"
+diecit = requests.get(dieci)
+venti = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1920s.txt"
+ventit = requests.get(venti)
+trenta = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1930s.txt"
+trentat = requests.get(trenta)
+quaranta = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1940s.txt"
+quarantat = requests.get(quaranta)
+cinquanta = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1950s.txt"
+cinquantat = requests.get(cinquanta)
+sessanta = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1960s.txt"
+sessantat = requests.get(sessanta)
+settanta = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1970s.txt"
+settantat = requests.get(settanta)
+ottanta = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1980s.txt"
+ottantat = requests.get(ottanta)
+novanta = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1990s.txt"
+novantat = requests.get(novanta)
+zerozero = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best2000s.txt"
+zerozerot = requests.get(zerozero)
+zerodieci = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best2010s.txt"
+zerodiecit = requests.get(zerodieci)
 
-secret = "SECRET"
-bot = telepot.Bot('TOKEN')
-bot.setWebhook("https://gammaray05.pythonanywhere.com/{}".format(secret), max_connections=40)
+TOKEN = os.environ["TOKEN"]
+URL = os.environ["URL"]
+
+bot = telebot.TeleBot(TOKEN)
 
 app = Flask(__name__)
 
-@app.route('/{}'.format(secret), methods=["POST"])
-def telegram_webhook():
-    update = request.get_json()
+@bot.message_handler(commands=['start'])
+def start(message):
+    bot.reply_to(message, "Please, type a movie (English title) OR a director to search ratings from scaruffi.com. Only movies from 1998 to present are listed. Use correctly the '-' if you're searching for directors with it in the name (e.g. asian directors).\nSearch is case insensitive. \n\nFor example, you can search: \nLynch \nallen \nAnderson \ngreat beauty \nChan-wook \n \nOr you can use commands like /best1980s, /best1970s, etc.. to retrieve the list of the best movies of a decade.\n\nDeveloper: @salvdelg. You can find the git on https://github.com/gammaray05/scarufficinema")
 
-    if "message" in update:
-        text = update["message"]["text"]
-        chat_id = update["message"]["chat"]["id"]
+@bot.message_handler(commands=['best1910s'])
+def start(message):
+    bot.reply_to(message, diecit.text)
 
-        if text == "/best1910s":
-            link = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1910s.txt"
-            f = requests.get(link)
-            bot.sendMessage(chat_id, f.text)
-            return "OK"
+@bot.message_handler(commands=['best1920s'])
+def start(message):
+    bot.reply_to(message, ventit.text)
 
-        if text == "/best1920s":
-            link = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1920s.txt"
-            f = requests.get(link)
-            bot.sendMessage(chat_id, f.text)
-            return "OK"
+@bot.message_handler(commands=['best1930s'])
+def start(message):
+    bot.reply_to(message, trentat.text)
 
-        if text == "/best1930s":
-            link = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1930s.txt"
-            f = requests.get(link)
-            bot.sendMessage(chat_id, f.text)
-            return "OK"
+@bot.message_handler(commands=['best1940s'])
+def start(message):
+    bot.reply_to(message, quarantat.text)
 
-        if text == "/best1940s":
-            link = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1940s.txt"
-            f = requests.get(link)
-            bot.sendMessage(chat_id, f.text)
-            return "OK"
+@bot.message_handler(commands=['best1950s'])
+def start(message):
+    bot.reply_to(message, cinquantat.text)
 
-        if text == "/best1950s":
-            link = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1950s.txt"
-            f = requests.get(link)
-            bot.sendMessage(chat_id, f.text)
-            return "OK"
+@bot.message_handler(commands=['best1960s'])
+def start(message):
+    bot.reply_to(message, sessantat.text)
 
-        if text == "/best1960s":
-            link = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1960s.txt"
-            f = requests.get(link)
-            bot.sendMessage(chat_id, f.text)
-            return "OK"
+@bot.message_handler(commands=['best1970s'])
+def start(message):
+    bot.reply_to(message, settantat.text)
 
-        if text == "/best1970s":
-            link = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1970s.txt"
-            f = requests.get(link)
-            bot.sendMessage(chat_id, f.text)
-            return "OK"
+@bot.message_handler(commands=['best1980s'])
+def start(message):
+    bot.reply_to(message, ottantat.text)
 
-        if text == "/best1980s":
-            link = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1980s.txt"
-            f = requests.get(link)
-            bot.sendMessage(chat_id, f.text)
-            return "OK"
+@bot.message_handler(commands=['best1990s'])
+def start(message):
+    bot.reply_to(message, novantat.text)
 
-        if text == "/best1990s":
-            link = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1990s.txt"
-            f = requests.get(link)
-            bot.sendMessage(chat_id, f.text)
-            return "OK"
+@bot.message_handler(commands=['best2000s'])
+def start(message):
+    bot.reply_to(message, zerozerot.text)
 
-        if text == "/best2000s":
-            link = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best2000s.txt"
-            f = requests.get(link)
-            bot.sendMessage(chat_id, f.text)
-            return "OK"
+@bot.message_handler(commands=['best2010s'])
+def start(message):
+    bot.reply_to(message, zerodiecit.text)
 
-        if text == "/best2010s":
-            link = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best2010s.txt"
-            f = requests.get(link)
-            bot.sendMessage(chat_id, f.text)
-            return "OK"
+@bot.message_handler(func=lambda message: True, content_types=['text'])
+def start(message):
+    text = message.text
+    reversetext = " ".join(text.split(" ")[::-1])
+    result = master[master['DIRECTOR'].str.contains(text, case=False, regex=False) | master['DIRECTOR'].str.contains(reversetext, case=False, regex=False) | master['MOVIE'].str.contains(text, case=False, regex=False)]
+    resultlist = result.values.T.tolist()
+    zippedlist = list(zip(*resultlist))
+    final = "\n".join([" - ".join(tup) for tup in zippedlist])
+    if not final:
+        bot.reply_to(message, "No results found. Check the title or the name. \n\nPlease:\n* Don't search for a director and a movie together\n* Use the English title of a movie\n* Remember that only movies from 1998 to present are listed\n* Use correctly the '-' if you're searching for directors with it in the name (e.g. 'Chan-Wook', 'Joon-ho').")
+    else:
+        bot.reply_to(message, final + "\n\nLast updated on: " + timestamp.text)
 
 
-        if text == "/start":
-            bot.sendMessage(chat_id, "Please, type a movie (English title) OR a director to search ratings from scaruffi.com. Only movies from 1998 to present are listed. Use correctly the '-' if you're searching for directors with it in the name (e.g. asian directors).\nSearch is case insensitive. \n\nFor example, you can search: \nLynch \nallen \nAnderson \ngreat beauty \nChan-wook \n \nOr you can use commands like /best1980s, /best1970s, etc.. to retrieve the list of the best movies of a decade.\n\nDeveloper: @salvdelg. You can find the git on https://github.com/gammaray05/scarufficinema")
+@app.route('/' + TOKEN, methods=['POST'])
+def getMessage():
+    bot.process_new_updates([telebot.types.Update.de_json(request.stream.read().decode("utf-8"))])
+    return "!", 200
 
-            return "OK"
 
+@app.route("/")
+def webhook():
+    bot.remove_webhook()
+    bot.set_webhook(url=URL + TOKEN)
+    return "!", 200
 
-
-        url="https://raw.githubusercontent.com/gammaray05/scarufficinema/master/list.csv"
-        tsurl = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/timestamp.txt"
-        timestamp = requests.get(tsurl)
-        reversetext = " ".join(text.split(" ")[::-1])
-        master = pd.read_csv(url, sep=',', names = ['RATING', 'DIRECTOR', 'MOVIE'])
-        result = master[master['DIRECTOR'].str.contains(text, case=False, regex=False) | master['DIRECTOR'].str.contains(reversetext, case=False, regex=False) | master['MOVIE'].str.contains(text, case=False, regex=False)]
-        resultlist = result.values.T.tolist()
-        zippedlist = list(zip(*resultlist))
-        final = "\n".join([" - ".join(tup) for tup in zippedlist])
-        if not final:
-            bot.sendMessage(chat_id, "No results found. Check the title or the name. \n\nPlease:\n* Don't search for a director and a movie together\n* Use the English title of a movie\n* Remember that only movies from 1998 to present are listed\n* Use correctly the '-' if you're searching for directors with it in the name (e.g. 'Chan-Wook', 'Joon-ho').")
-            return "OK"
-        else:
-            bot.sendMessage(chat_id, final + "\n\nLast updated on: " + timestamp.text)
-            return "OK"
+if __name__ == "__main__":
+   app.run()
