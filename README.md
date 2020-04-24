@@ -12,7 +12,7 @@ In WebhookBot.py you can find a simple Telegram bot made using Telepot library a
 Start the bot, then you can type a movie (using the English title) or a director
 and you will obtain the search results with ratings. Or you can use commands like */best1970s*, */best1980s*, etc.. to retrieve the best by decade lists.
 
-Deployed to PythonAnywhere *(very nice free service that requires one login every 3 months to mantain the bot running, much better than the 30 minutes timeout and complexities of Heroku)*.
+Deployed to Heroku.
 
 ### What to do next
 
