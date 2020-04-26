@@ -10,17 +10,22 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 from git import Repo, remote
 
 #defining git pushing function
-path_git = "./.git"
+path_git = r".\.git"
 commit_msg = 'added gitpython to automate pushing of updated list'
 def git_push():
     try:
         repo = Repo(path_git)
         repo.git.add(update=True)
+        print("Committing..")
         repo.index.commit(commit_msg)
         origin = repo.remote(name='origin')
+        print("Pushing...")
         origin.push()
+        print("OK")
     except:
         print('Error while pushing to git')    
+
+git_push()
 
 #create timestamp for last updated message
 now = datetime.now()
@@ -69,4 +74,3 @@ with open("list.csv", "w") as f:
 
 
 #git push
-git_push()
