@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup, NavigableString, Tag
 def git_push():
     try:
         os.system('cmd /c "git add ."')
-        os.system('cmd /c "git commit -m "automate git pushing""')
+        os.system('cmd /c "git commit -m "updated list""')
         os.system('cmd /c "git push -u origin master -f"')
         print("Success")
     except:
