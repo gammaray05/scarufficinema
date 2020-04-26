@@ -7,6 +7,22 @@ import operator
 import os
 from datetime import datetime
 from bs4 import BeautifulSoup, NavigableString, Tag
+from git import Repo, remote
+
+#defining git pushing function
+path_git = "./.git"
+commit_msg = 'added gitpython to automate pushing of updated list'
+def git_push():
+    try:
+        repo = Repo(path_git)
+        repo.git.add(update=True)
+        repo.index.commit(commit_msg)
+        origin = repo.remote(name='origin')
+        origin.push()
+    except:
+        print('Error while pushing to git')    
+
+git_push()
 
 #create timestamp for last updated message
 now = datetime.now()
@@ -52,3 +68,6 @@ with open("list.csv", "w") as f:
     fileWriter = csv.writer(f, delimiter=',', lineterminator='\n')
     for row in sortedlist:
         fileWriter.writerow(row)
+
+
+#git push
