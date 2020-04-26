@@ -15,9 +15,9 @@ commit_msg = 'added gitpython to automate pushing of updated list'
 def git_push():
     try:
         repo = Repo(path_git)
-        repo.git.add(update=True)
+        repo.git.add(A=True)
         print("Committing..")
-        repo.index.commit(commit_msg)
+        repo.git.commit('-m', commit_msg)
         origin = repo.remote(name='origin')
         print("Pushing...")
         origin.push()
