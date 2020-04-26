@@ -7,23 +7,16 @@ import operator
 import os
 from datetime import datetime
 from bs4 import BeautifulSoup, NavigableString, Tag
-from git import Repo, remote
 
 #defining git pushing function
-path_git = "/"
-commit_msg = 'added gitpython to automate pushing of updated list'
 def git_push():
     try:
-        repo = Repo(path_git)
-        repo.git.add(A=True)
-        print("Committing..")
-        repo.git.commit('-m', commit_msg)
-        origin = repo.remote(name='origin')
-        print("Pushing...")
-        origin.push()
-        print("OK")
+        os.system('cmd /c "git add ."')
+        os.system('cmd /c "git commit -m "automate git pushing""')
+        os.system('cmd /c "git push -u origin master -f"')
+        print("Success")
     except:
-        print('Error while pushing to git')    
+        print("Error while git automating")
 
 #create timestamp for last updated message
 now = datetime.now()
