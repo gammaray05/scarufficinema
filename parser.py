@@ -22,8 +22,6 @@ def git_push():
     except:
         print('Error while pushing to git')    
 
-git_push()
-
 #create timestamp for last updated message
 now = datetime.now()
 timestamp = now.strftime("%B %d, %Y")
@@ -71,3 +69,4 @@ with open("list.csv", "w") as f:
 
 
 #git push
+git_push()
