@@ -37,7 +37,8 @@ def append_list_as_row(file_name, list_of_elem):
             csv_writer.writerow(headers)
         csv_writer.writerow(list_of_elem)
 
-os.remove("../unsortedlist.csv")
+if os.path.exists("../unsortedlist.csv"):
+    os.remove("../unsortedlist.csv")
 
 # parse the urls list and search for ratings, then append to csv
 for url in urls:
