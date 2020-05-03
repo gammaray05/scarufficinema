@@ -287,6 +287,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Joanna Hogg,The Souvenir
 7.2, Nadav Lapid,Synonyms
 7.2, Kantemir Balagov,Dilda/ Beanpole
+7.2, Quentin Dupieux,Deerskin Review: Swayed by Suede
 7.2, Ilya Khrzhanovskiy,DAU Natasha
 7.2, Mohammad Rasoulof,There Is No Evil
 7.2, Lee Isaac Chung,Minari
@@ -385,12 +386,15 @@ RATING,DIRECTOR,MOVIE
 7.1, Veiko Ounpuu,The Temptation of St. Tony
 7.1, Paul McGuigan,Push
 7.1, Shane Acker,9
+7.1, Fatih Akin,Soul Kitchen
 7.1, Caroline Bottaro,Queen to Play
 7.1, Hong Sang-soo,Oki's Movie
 7.1, Joanna Hogg,Archipelago
 7.1, Mahamat-Saleh Haroun,The Screaming Man
 7.1, Darren Aronofsky,Black Swan
 7.1, Mike Mills,Beginners
+7.1, Abdellatif Kechiche,Venus Noire/ Black Venus
+7.1, Bertrand Bonello,L'Apollonide/ House of Pleasures
 7.1, Jafar Panahi,This Is Not a Film
 7.1, Sion Sono,Koi no Tsumi/ Guilty of Romance
 7.1, Christopher Munch,Letters From the Big Man
@@ -866,7 +870,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Benny and Josh Safdie,Daddy Longlegs
 7.0, Pedro Gonzalez-Rubio,Alamar
 7.0, Todd Solondz,Life During Wartime
-7.0, Fatih Akin,Soul Kitchen
 7.0, Christophe Honore,Making Plans for Lena
 7.0, Jan Hrebejk,Kawasaki's Rose
 7.0, Johnny To,Vengeance
@@ -891,7 +894,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Maren Ade,Alle Anderen/ Everyone Else
 7.0, Jerzy Skolimowski,Essential Killing
 7.0, Hongqi Li, Winter Vacation
-7.0, Abdellatif Kechiche,Venus Noire/ Black Venus
 7.0, Matias Pineiro,Rosalinda
 7.0, Liu Jian,Piercing I
 7.0, Hong Sang-soo,Hahaha
@@ -950,7 +952,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Markus Schleinzer,Michael
 7.0, Jang Hun,Front Line
 7.0, Xavier Gens,The Divide
-7.0, Bertrand Bonello,L'Apollonide/ House of Pleasures
 7.0, Julia Leigh,Sleeping Beauty
 7.0, George Nolfi,Adjustment Bureau
 7.0, Lavinia Currier,Oka
@@ -1740,6 +1741,7 @@ RATING,DIRECTOR,MOVIE
 6.9, Nadav Lapid,Synonyms
 6.9, Carlo Mirabella-Davis,Swallow
 6.9, Makoto Shinkai,Weathering With You
+6.9, Makoto Shinkai,Weathering With You
 6.8, Pat O'Connor,Dancing at Lughnasa (1998)
 6.8, Francois Ozon,Sitcom  (1998)
 6.8, Steven Soderbergh,Out Of Sight  (1998)
@@ -2188,6 +2190,8 @@ RATING,DIRECTOR,MOVIE
 6.8, Edward Norton,Motherless Brooklyn
 6.8, Fatih Akin,The Golden Glove
 6.8, Meghna Gulzar,Chhapaak
+6.8, Jeff Barnaby,Blood Quantum
+6.8, Alice Wu,The Half of It
 6.8, Ant Timpson,Come to Daddy
 6.8, Sally Potter,The Roads Not Taken
 6.8, Richard Stanley,Color Out of Space
@@ -3215,6 +3219,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Natalie Erika James,Relic
 6.5, Brandon Cronenberg,Possessor
 6.5, Giuseppe Capotondi,The Burnt Orange Heresy
+6.5, Joe Robert Cole,All Day and a Night
 6.4, Bryan Singer,Apt Pupil (1998)
 6.4, Tamara Jenkins,Slums of Beverly Hills (1998)
 6.4, Chris Columbus,Stepmom (1998)
@@ -3603,6 +3608,8 @@ RATING,DIRECTOR,MOVIE
 6.2, Brian Kirk,21 Bridges
 6.2, Alexandra McGuinness,She's Missing
 6.2, Andrew Desmond,The Sonata
+6.2, Brett Pierce & Drew Pierce,The Wretched
+6.2, Cory Finley,Bad Education
 6.1, Carl Franklin,One True Thing (1998)
 6.1, Warren Beatty,Bulworth (1998)
 6.1, Mike Nichols,Primary Colors  (1998)
@@ -6896,6 +6903,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Levan Akin,And Then We Danced
 5.0, Marc Meyers,Human Capital
 5.0, Ben Cookson,Waiting for Anya
+5.0, Annie Silverstein,Bull
 4.9, Luis Galvao Teles,Elles
 4.9, Shane Meadows,A Room For Romeo Brass
 4.9, Thomas Lee,Supernova
