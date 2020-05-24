@@ -42,7 +42,6 @@ RATING,DIRECTOR,MOVIE
 7.6, Leos Carax,Holy Motors
 7.6, Ama Lily Amirpour,Dokhtari dar sab Tanha be Xane Miravad/ A Girl Walks Home Alone at Night
 7.6, Joachim Trier,Thelma
-7.6, Bong Joon-ho,Gisaengchung/ Parasite
 7.5, Emir Kusturica,Black Cat White Cat (1998)
 7.5, Theo Angelopoulos,Eternity And A Day (1998)
 7.5, Walter Salles,Central Station (1998)
@@ -111,6 +110,7 @@ RATING,DIRECTOR,MOVIE
 7.4, Chang-dong Lee,Beoning/ Burning
 7.4, Patrick Wang,A Bread Factory
 7.4, Yorgos Lanthimos,The Favourite
+7.4, Joon-ho Bong,Gisaengchung/ Parasite
 7.3, Peter Weir,Truman Show  (1998)
 7.3,  Tsai Ming-Liang,Dong/ The Hole (1998)
 7.3, Veit Helmer,Tuvalu
@@ -236,6 +236,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Edgar Wright,Scott Pilgrim vs the World
 7.2, Alex de la Iglesia,Last Circus
 7.2, Manoel de Oliveira,The Strange Case of Angelica
+7.2, Christopher Nolan,Inception
 7.2, Everardo Gout,Days of Grace
 7.2, Miranda July,The Future
 7.2, Matteo Garrone,Reality
@@ -1418,6 +1419,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Faraz Shariat,Futur Drei/ No Hard Feelings
 7.0, Angela Schanelec,I Was at Home but
 7.0, Tayarisha Poe,Selah and the Spades
+7.0, Sasie Sealy,Lucky Grandma
 6.9, Stephen Frears,The Hi-Lo Country  (1998)
 6.9, Takashi Miike,The Bird People in China
 6.9, Paul Auster,Lulu on the Bridge
@@ -2976,7 +2978,6 @@ RATING,DIRECTOR,MOVIE
 6.5, John Wells,The Company Men
 6.5, Nicolas Philibert,Nenette
 6.5, Alejandro Gonzalez Inarritu,Biutiful
-6.5, Christopher Nolan,Inception
 6.5, Celine Sciamma,Tomboy
 6.5, Hirokazu Kore-eda,Kiseki/ I Wish
 6.5, Jean-Pierre Ameris,Les Emotifs Anonymes
@@ -3222,6 +3223,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Giuseppe Capotondi,The Burnt Orange Heresy
 6.5, Joe Robert Cole,All Day and a Night
 6.5, Robert Jury,Working Man
+6.5, Peter Cattaneo,Military Wives
 6.4, Bryan Singer,Apt Pupil (1998)
 6.4, Tamara Jenkins,Slums of Beverly Hills (1998)
 6.4, Chris Columbus,Stepmom (1998)
@@ -7339,6 +7341,8 @@ RATING,DIRECTOR,MOVIE
 4.5, Bridget Savage Cole & Danielle Krudy,Blow the Man Down
 4.5, Katharine O'Brien,Lost Transmissions
 4.5, David & Alex Pastor,The Occupant
+4.5, Michael Winterbottom,The Trip to Greece
+4.5, Matt Eskandari,Survive the Night
 4.4, Mike Mitchell,Deuce Bigalow Male Gigolo
 4.4, Eric Weber,Suits
 4.4, Joan Chen,Autumn In New York
@@ -7406,6 +7410,7 @@ RATING,DIRECTOR,MOVIE
 4.2, Vincent D'Onofrio,The Kid
 4.2, Dallas Jackson,Thriller
 4.2, Ang Lee,Gemini Man
+4.2, Michael Showalter,The Lovebirds
 4.1, Arlene Sanford,I'll Be Home For Christmas (1998)
 4.1, Agnes Merlet,Quest for Camelot  (1998)
 4.1, Joel Schumaker,Flawless
