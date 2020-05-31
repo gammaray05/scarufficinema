@@ -142,11 +142,13 @@ RATING,DIRECTOR,MOVIE
 7.3, Corneliu Porumboiu,Police Adjective
 7.3, Michael Haneke,The White Ribbon
 7.3, Claire Denis,White Material
+7.3, Giorgos Lanthimos,Kynodontas/ Dogtooth
 7.3, Raul Ruiz,Misterios de Lisboa/ Mysteries of Lisbon
 7.3, Gerardo Naranjo,Miss Bala
 7.3, Miguel Gomes,Tabu
 7.3, Shane Carruth,Upstream Color
 7.3, Jane Campion,Top of the Lake
+7.3, Denis Villeneuve,Enemy
 7.3, Roy Andersson,A Pigeon Sat On a Branch Reflecting On Existence
 7.3, Andrey Zvyagintsev,Leviathan
 7.3, Lav Diaz,Mula sa Kung Ano ang Noon/ From What Is Before
@@ -178,6 +180,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Abbas Kiarostami,The Wind Will Carry Us
 7.2, Yimou Zhang,Not One Less
 7.2, Harmony Korine,Julien Donkey Boy
+7.2, Steven Soderbergh,The Limey
 7.2, Darren Aronofsky,Requiem For A Dream
 7.2, Kenneth Lonergan,You Can Count On Me
 7.2, Francois Ozon,Gouttes d'Eau Sur Pierres Brulantes/ Water Drops On Burning Rocks
@@ -189,6 +192,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Lee Simyung,2009 Lost Memories
 7.2, Abderrahmane Sissako,Waiting for Happiness
 7.2, Steven Spielberg,Minority Report
+7.2, Lynne Ramsay,Morvern Callar
 7.2, Marco-Tullio Giordana,La Meglio Gioventu'/ The Best of Youth
 7.2, Andrej Zvjagintsev,Vozvrashcheniye/ The Return
 7.2, Satoshi Kon,Tokyo Godfathers
@@ -229,7 +233,6 @@ RATING,DIRECTOR,MOVIE
 7.2, Sophie Barthes,Cold Souls
 7.2, Vimukthi Jayasundara,Between Two Worlds
 7.2, Pietro Marcello,The Mouth of the Wolf
-7.2, Giorgos Lanthimos,Kynodontas/ Dogtooth
 7.2, Sofia Coppola,Somewhere
 7.2, Agusti Vila,La Mosquitera/ The Mosquito Net  (2010)
 7.2, Michelangelo Frammartino,Le Quattro Volte
@@ -249,6 +252,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Kornel Mundruczo,White God
 7.2, Sang-soo Hong, Right Now Wrong Then
 7.2, Alice Rohrwacher,Le Meraviglie/ The Wonders
+7.2, Sang-soo Hong,Jigeumeun Matgo Geuddaeneun Teullida/ Right Now Wrong Then
 7.2, Ciro Guerra,Embrace of the Serpent
 7.2, Ryusuke Hamaguchi,Happi Awa/ Happy Hour
 7.2, Christian Vincent,L'Hermine/ Courted (2015)
@@ -439,6 +443,7 @@ RATING,DIRECTOR,MOVIE
 7.1, Pawel Pawlikowski,Ida
 7.1, Sebastian Lelio,Gloria
 7.1, James Gray,The Immigrant
+7.1, Isao Takahata,The Tale Of Princess Kaguya
 7.1, Raj Amit Kumar,Unfreedom
 7.1, Jonas Alexander Arnby,When Animals Dream
 7.1, Jean-Pierre and Luc Dardenne,Two Days One Night
@@ -458,6 +463,7 @@ RATING,DIRECTOR,MOVIE
 7.1, Guy Maddin,The Forbidden Room
 7.1, Adam McKay,The Big Short
 7.1, Rick Alverson,Entertainment
+7.1, Josh and Benny Safdie,Heaven Knows What
 7.1, Joao Pedro Rodrigues,The Ornithologist
 7.1, Ralitza Petrova,Godless
 7.1, Cristian Mungiu,Bacalaureat/ Graduation
@@ -500,6 +506,7 @@ RATING,DIRECTOR,MOVIE
 7.1, Radu Jude,Imi Este Indiferent Daca in Istorie vom Intra ca Barbari/ I Do Not Care If We Go Down in History as Barbarians
 7.1, Alex Ross Perry,Her Smell
 7.1, Bruno Dumont,Coincoin et les Z'Inhumains/ CoinCoin and the Extra-Humans
+7.1, Josephine Decker,Madeline's Madeline
 7.1, Quentin Tarantino,Once Upon a Time in Hollywood
 7.1, Ken Loach,Sorry We Missed You
 7.1, Joe Talbot,The Last Black Man in San Francisco
@@ -539,7 +546,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Soren Kragh-Jacobsen,Mifune
 7.0, Don McKellar,Last Night
 7.0, Michael Mann,The Insider
-7.0, Steven Soderbergh,The Limey
 7.0, Mike Leigh,Topsy Turvy
 7.0, Atom Egoyan,Felicia's Journey
 7.0, John Sayles,Limbo
@@ -621,7 +627,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Alexander Payne,About Schmidt
 7.0, Hilary Birmingham,Tully
 7.0, Todd Haynes,Far From Heaven
-7.0, Lynne Ramsay,Morvern Callar
 7.0, Steven Spielberg,Catch Me if You
 7.0, Stephen Daldry,The Hours
 7.0, Satoshi Kon,Sennen Joyu/ Millennium Actress
@@ -850,6 +855,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Joachim Trier,Reprise
 7.0, Claire Denis,35 Rhums/ 35 Shots of Rum
 7.0, Radu Muntean,Boogie (2008)
+7.0, Wachowski Brothers,Speed Racer
 7.0, Arnaud & Jean-Marie Larrieu,Les Derniers Jours du Monde/ Happy End
 7.0, Takeshi Koike,Redline
 7.0, Peter Strickland,Katalin Varga
@@ -1320,7 +1326,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Pete Billington,Wolves in the Walls
 7.0, Karyn Kusama,Destroyer
 7.0, Brady Corbet,Vox Lux
-7.0, Josephine Decker,Madeline's Madeline
 7.0, Ava DuVernay,A Wrinkle in Time
 7.0, Marcelo Martinessi,The Heiresses
 7.0, Wes Anderson,Isle Of Dogs
@@ -2010,7 +2015,6 @@ RATING,DIRECTOR,MOVIE
 6.8, Scott McGehee and David Siegel,What Maisie Knew
 6.8, Richard Linklater,Before Midnight
 6.8, Joel and Ethan Coen,Inside Llewyn Davis
-6.8, Isao Takahata,The Tale Of Princess Kaguya
 6.8, Felix Van Groeningen,The Broken Circle Breakdown
 6.8, Kim Ki-duk,Moebius
 6.8, Dante Ariola,Arthur Newman
@@ -3316,7 +3320,6 @@ RATING,DIRECTOR,MOVIE
 6.4, Ross Partridge,Lamb
 6.4, Jon Watts,Cop Car
 6.4, Guy Ritchie,The Man From U.N.C.L.E.
-6.4, Josh and Benny Safdie,Heaven Knows What
 6.4, Amy Berg,Every Secret Thing
 6.4, Hernan Guerschuny,The Film Critic
 6.4, Agnes Trouble,My Name Is Hmmm
@@ -3910,6 +3913,7 @@ RATING,DIRECTOR,MOVIE
 6.0, Kurt Wimmer,Equilibrium
 6.0, Jon Amiel,The Core
 6.0, Wachowski Brothers,The Matrix Revolutions
+6.0, Hsiao-hsien Hou,Cafe Lumiere
 6.0, Jon Favreau,Elf
 6.0, John Sayles,Casa de los Babys
 6.0, Catharine Hardwicke,Thirteen
@@ -4060,7 +4064,7 @@ RATING,DIRECTOR,MOVIE
 6.0, Werner Herzog,The White Diamond
 6.0, Ken Kwapis,The Sisterhood of the Traveling Pants
 6.0,  Pierre Salvadori,Apres Vous
-6.0, Hou Hsiao-hsien,Cafe Lumiere
+6.0, Hsiao-hsien Hou,Three Times
 6.0, Alexandre Aja,High Tension
 6.0, Chris Terrio,Heights
 6.0, Lucia Murat,Almost Brothers
@@ -4265,7 +4269,6 @@ RATING,DIRECTOR,MOVIE
 6.0, Daniele Luchetti,My Brother is an Only Child
 6.0, Pierre Salvadori,Priceless
 6.0, Santosh Sivan,Before the Rains
-6.0, Wachowski Brothers,Speed Racer
 6.0, Xavier Gens,Frontier(s)
 6.0, Anna Biller,Viva
 6.0, Steven Conrad,The Promotion
