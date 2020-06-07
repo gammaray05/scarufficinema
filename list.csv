@@ -142,13 +142,11 @@ RATING,DIRECTOR,MOVIE
 7.3, Corneliu Porumboiu,Police Adjective
 7.3, Michael Haneke,The White Ribbon
 7.3, Claire Denis,White Material
-7.3, Giorgos Lanthimos,Kynodontas/ Dogtooth
 7.3, Raul Ruiz,Misterios de Lisboa/ Mysteries of Lisbon
 7.3, Gerardo Naranjo,Miss Bala
 7.3, Miguel Gomes,Tabu
 7.3, Shane Carruth,Upstream Color
 7.3, Jane Campion,Top of the Lake
-7.3, Denis Villeneuve,Enemy
 7.3, Roy Andersson,A Pigeon Sat On a Branch Reflecting On Existence
 7.3, Andrey Zvyagintsev,Leviathan
 7.3, Lav Diaz,Mula sa Kung Ano ang Noon/ From What Is Before
@@ -232,6 +230,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Jacques Audiard,Un Prophete/ A Prophet
 7.2, Sophie Barthes,Cold Souls
 7.2, Vimukthi Jayasundara,Between Two Worlds
+7.2, Giorgos Lanthimos,Kynodontas/ Dogtooth
 7.2, Pietro Marcello,The Mouth of the Wolf
 7.2, Sofia Coppola,Somewhere
 7.2, Agusti Vila,La Mosquitera/ The Mosquito Net  (2010)
@@ -245,6 +244,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Matteo Garrone,Reality
 7.2, Cristian Mungiu,Beyond the Hills
 7.2, Jem Cohen,Museum Hours
+7.2, Denis Villeneuve,Enemy
 7.2, Denis Villeneuve,Prisoners
 7.2, Hirokazu Kore-eda,Soshite Chichi ni Naru/ Like Father Like Son
 7.2, Jafar Panahi,Closed Curtain
@@ -1398,6 +1398,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Pietro Marcello,Martin Eden
 7.0, Chinonye Chukwu,Clemency
 7.0, Lorcan Finnegan,Vivarium
+7.0, Andrew Patterson,The Vast of Night
 7.0, Galder Gaztelu-Urrutia,The Platform
 7.0, Christian Petzold,Undine
 7.0, Craig Zobel,The Hunt
