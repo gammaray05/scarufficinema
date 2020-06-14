@@ -56,6 +56,7 @@ RATING,DIRECTOR,MOVIE
 7.5, Matthew Ryan Hoge,The United States of Leland
 7.5, Sion Sono,Noriko no Shokutaku/ Noriko's Dinner Table
 7.5, Jia Zhang-Ke,Sanxia Haoren/ Still Life
+7.5, Satoshi Kon,Paprika
 7.5, Christian Petzold,Yella
 7.5, Joon-ho Bong,Mother
 7.5, Chang-dong Lee,Poetry
@@ -129,7 +130,6 @@ RATING,DIRECTOR,MOVIE
 7.3, Zhangke Jia,The World
 7.3, Lav Diaz,Ebolusyon ng Isang Pamilyang Pilipino/ Evolution of a Filipino Family
 7.3, Jacques Audiard,De Battre Mon Cour S'Est Arrete'/ The Beat That My Heart Skipped
-7.3, Satoshi Kon,Paprika
 7.3, Joon-Ho Bong,Gwoemul/ The Host
 7.3, Paolo Sorrentino,L'Amico di Famiglia
 7.3, Chan-wook Park,Ssaibogeujiman Gwaenchana/ I'm a Cyborg but that's OK
@@ -166,6 +166,7 @@ RATING,DIRECTOR,MOVIE
 7.3, Mariano Llinas,La Flor
 7.3, Celine Sciamma,Portrait de la Jeune Fille en Feu/ Portrait of a Lady on Fire
 7.3, Mati Diop,Atlantique
+7.3, Kirill Mikhanovsky,Give Me Liberty
 7.3, Sang-soo Hong,Domangchin Yeoja/ The Woman Who Ran
 7.2, Hsiao-Hsien Hou,Haishang Hua/ Flowers of Shangai
 7.2, Joel Coen,Big Lebowski  (1998)
@@ -248,6 +249,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Denis Villeneuve,Prisoners
 7.2, Hirokazu Kore-eda,Soshite Chichi ni Naru/ Like Father Like Son
 7.2, Jafar Panahi,Closed Curtain
+7.2, Isao Takahata,Kaguya-hime no Monogatari/ The Tale Of Princess Kaguya
 7.2, Lisandro Alonso,Jauja
 7.2, Kornel Mundruczo,White God
 7.2, Sang-soo Hong, Right Now Wrong Then
@@ -284,7 +286,6 @@ RATING,DIRECTOR,MOVIE
 7.2, Lukas Feigelfeld,Hagazussa - A Heathen's Curse
 7.2, Shannon Murphy,Babyteeth
 7.2, Pedro Costa,Vitalina Varela
-7.2, Kirill Mikhanovsky,Give Me Liberty
 7.2, Kelly Reichardt,First Cow
 7.2, Corneliu Porumboiu,La Gomera/ Whistlers
 7.2, Jordan Peele,Us
@@ -443,7 +444,6 @@ RATING,DIRECTOR,MOVIE
 7.1, Pawel Pawlikowski,Ida
 7.1, Sebastian Lelio,Gloria
 7.1, James Gray,The Immigrant
-7.1, Isao Takahata,The Tale Of Princess Kaguya
 7.1, Raj Amit Kumar,Unfreedom
 7.1, Jonas Alexander Arnby,When Animals Dream
 7.1, Jean-Pierre and Luc Dardenne,Two Days One Night
@@ -478,7 +478,6 @@ RATING,DIRECTOR,MOVIE
 7.1, Francois Ozon,L'Amant Double/ Double Lover
 7.1, Xavier Legrand,Jusqu'a la Garde/ Custody
 7.1, Sebastian Lelio,A Fantastic Woman
-7.1, Lynne Ramsay,You Were Never Really Here
 7.1, Michael Almereyda,Marjorie Prime
 7.1, Steven Soderbergh,Logan Lucky
 7.1, Robin Campillo,BPM (Beats Per Minute)
@@ -1426,6 +1425,8 @@ RATING,DIRECTOR,MOVIE
 7.0, Angela Schanelec,I Was at Home but
 7.0, Tayarisha Poe,Selah and the Spades
 7.0, Sasie Sealy,Lucky Grandma
+7.0, Josephine Decker,Shirley
+7.0, Spike Lee,Da 5 Bloods
 6.9, Stephen Frears,The Hi-Lo Country  (1998)
 6.9, Takashi Miike,The Bird People in China
 6.9, Paul Auster,Lulu on the Bridge
@@ -2334,6 +2335,7 @@ RATING,DIRECTOR,MOVIE
 6.7, Mike Schwartz and Tyler Nilson,The Peanut Butter Falcon
 6.7, Dan Krauss,The Kill Team
 6.7, John Turturro,The Jesus Rolls
+6.7, Abel Ferrara,Tommaso
 6.6, John Dahl,Rounders (1998)
 6.6, Abel Ferrara,Blackout  (1997)
 6.6, David Rabe,Hurlyburly (1998)
@@ -2455,6 +2457,7 @@ RATING,DIRECTOR,MOVIE
 6.6, Jim Hosking,The Greasy Strangler
 6.6, Mel Gibson,Hacksaw Ridge
 6.6, Aaron Sorkin,Mollys Game
+6.6, Lynne Ramsay,You Were Never Really Here
 6.6, David Ayer,Bright
 6.6, Peter Chelsom,The Space Between Us
 6.6, James Mangold,Logan
@@ -3469,6 +3472,7 @@ RATING,DIRECTOR,MOVIE
 6.3, Ken Scott,The Extraordinary Journey of the Fakir
 6.3, Wash Westmoreland,Earthquake Bird
 6.3, Deborah Kampmeier,Tape
+6.3, Judd Apatow,The King of Staten Island
 6.2, Bruce McDonald,Hard Core Logo (1998)
 6.2, Wayne Wang,Chinese Box  (1998)
 6.2, Ted Demme,Monument Avenue (1998)
@@ -5569,6 +5573,7 @@ RATING,DIRECTOR,MOVIE
 5.4, Kim Farrant,Angel of Mine
 5.4, Destin Daniel Cretton,Just Mercy
 5.4, Jonathan Jakubowicz,Resistance
+5.4, Andrew Wonder,Feral
 5.3, Samo Hung,Mr Nice Guy  (1998)
 5.3, Kevin Rodney Sullivan,How Stella Got Her Groove Back (1998)
 5.3, John Roberts,Paulie  (1998)
@@ -5594,6 +5599,7 @@ RATING,DIRECTOR,MOVIE
 5.3, Lisa Addario & Joe Syracuse, Dear Dictator
 5.3, Bill Holderman,Book Club
 5.3, Fred Durst,The Fanatic
+5.3, Gary Lundgren,Phoenix Oregon
 5.3, Andrew Heckler,Burden
 5.2, Volker Schlondorff,Palmetto  (1998)
 5.2, Kurt Russell,Soldier (1998)
@@ -5646,6 +5652,7 @@ RATING,DIRECTOR,MOVIE
 5.2, Adam Stein & Zach Lipovsky,Freaks
 5.2, Christopher Morris,The Day Shall Come
 5.2, Jon Abrahams,Clover
+5.2, Kenneth Branagh,Artemis Fowl
 5.1, Sandra Goldbacher,Governess (1998)
 5.1, Forest Whitaker,Hope Floats (1998)
 5.1, Frank Whaley,Joe The King
