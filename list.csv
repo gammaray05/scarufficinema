@@ -228,6 +228,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Mike Leigh,Happy-Go-Lucky
 7.2, Michelange Quay,"Eat, for This Is My Body"
 7.2, Lisandro Alonso,Liverpool
+7.2, Arnaud Desplechin,Un Conte de Noel/ A Christmas Tale
 7.2, Jacques Audiard,Un Prophete/ A Prophet
 7.2, Sophie Barthes,Cold Souls
 7.2, Vimukthi Jayasundara,Between Two Worlds
@@ -267,6 +268,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Alejandro Jodorowsky,Poesia sin Fin/ Endless Poetry
 7.2, Anocha Suwichakornpong,By the Time It Gets Dark
 7.2, Paolo Genovese,Perfetti sconosciuti/ Perfect Strangers
+7.2, Olivier Assayas,Personal Shopper
 7.2, Chloe Zhao,The Rider
 7.2, Lucrecia Martel,Zama
 7.2, Andrey Zvyagintsev,Nelyubov/ Loveless
@@ -471,7 +473,6 @@ RATING,DIRECTOR,MOVIE
 7.1, Ala Eddine Slim,The Last of Us
 7.1, Eugene Green,Le Fils de Joseph/ The Son of Joseph
 7.1, Asghar Farhadi,Forushande/ The Salesman
-7.1, Olivier Assayas,Personal Shopper
 7.1, Paul Schrader,First Reformed
 7.1, Valeska Grisebach,Western
 7.1, Luca Guadagnino,Call Me by Your Name
@@ -847,7 +848,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Azazel Jacobs,Momma's Man
 7.0, Henrik Ruben Genz,Terribly Happy
 7.0, David Fincher,The Curious Case of Benjamin Button
-7.0, Arnaud Desplechin,Un Conte de Noel/ A Christmas Tale
 7.0, Gianni Di Gregorio,Mid-August Lunch
 7.0, Tomas Alfredson,Lat den Ratte Komma In
 7.0, Matteo Garrone,Gomorrah
@@ -984,6 +984,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Dee Rees,Pariah
 7.0, Joe Cornish,Attack the Block
 7.0, Harmony Korine,Spring Breakers
+7.0, Noah Baumbach,Frances Ha
 7.0, Peter Strickland,Berberian Sound Studio (2012)
 7.0, Joshua Oppenheimer,The Act of Killing (2012)
 7.0, Christian Schwochow,The Tower
@@ -3440,7 +3441,6 @@ RATING,DIRECTOR,MOVIE
 6.3, Taika Waititi,Boy
 6.3, Lasse Hallstrom,Salmon Fishing in the Yemen
 6.3, Paul Weitz,Admission
-6.3, Noah Baumbach,Frances Ha
 6.3, Philipp Kadelbach,Generation War
 6.3, Wally Pfister,Transcendence
 6.3, Kelly Reichardt,Night Moves
