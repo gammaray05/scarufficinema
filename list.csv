@@ -234,7 +234,6 @@ RATING,DIRECTOR,MOVIE
 7.2, Vimukthi Jayasundara,Between Two Worlds
 7.2, Giorgos Lanthimos,Kynodontas/ Dogtooth
 7.2, Pietro Marcello,The Mouth of the Wolf
-7.2, Sofia Coppola,Somewhere
 7.2, Agusti Vila,La Mosquitera/ The Mosquito Net  (2010)
 7.2, Michelangelo Frammartino,Le Quattro Volte
 7.2, Edgar Wright,Scott Pilgrim vs the World
@@ -821,7 +820,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Tamara Jenkins,The Savages
 7.0, Francis Ford Coppola, Youth Without Youth
 7.0, Ramin Bahrani,Chop Shop
-7.0, Quentin Tarantino,Death Proof
 7.0, Quentin Dupieux,Steak
 7.0, Yoji Yamada,Kabei
 7.0, Ruben Ostlund,Involuntary
@@ -1428,6 +1426,9 @@ RATING,DIRECTOR,MOVIE
 7.0, Sasie Sealy,Lucky Grandma
 7.0, Josephine Decker,Shirley
 7.0, Spike Lee,Da 5 Bloods
+7.0, Agnieszka Holland,Mr Jones
+7.0, Bora Kim,House of Hummingbird
+7.0, Christopher Munch,The 11th Green
 6.9, Stephen Frears,The Hi-Lo Country  (1998)
 6.9, Takashi Miike,The Bird People in China
 6.9, Paul Auster,Lulu on the Bridge
@@ -1753,6 +1754,7 @@ RATING,DIRECTOR,MOVIE
 6.9, Carlo Mirabella-Davis,Swallow
 6.9, Makoto Shinkai,Weathering With You
 6.9, Makoto Shinkai,Weathering With You
+6.9, Guillaume Pierret,Lost Bullet
 6.8, Pat O'Connor,Dancing at Lughnasa (1998)
 6.8, Francois Ozon,Sitcom  (1998)
 6.8, Steven Soderbergh,Out Of Sight  (1998)
@@ -2200,6 +2202,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Edward Norton,Motherless Brooklyn
 6.8, Fatih Akin,The Golden Glove
 6.8, Meghna Gulzar,Chhapaak
+6.8, Gaspar Antillo,Nobody Knows Im Here
 6.8, Jeff Barnaby,Blood Quantum
 6.8, Alice Wu,The Half of It
 6.8, Ant Timpson,Come to Daddy
@@ -2207,6 +2210,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Richard Stanley,Color Out of Space
 6.8, Michael Winterbottom,Greed
 6.8, Tyler Cornack,Butt Boy
+6.8, Olivier Assayas,Wasp Network
 6.7,  Eric Rohmer,Comte d'Automne/ Autumn Tale (1998)
 6.7, Bertrand Bonello,Something Organic
 6.7, Amos Gitai,Yom Yom
@@ -2267,6 +2271,7 @@ RATING,DIRECTOR,MOVIE
 6.7, Jessica Bendinger,Stick It
 6.7, Carlos Sorin,El Perro
 6.7, Maria Maggenti,Puccini for Beginners
+6.7, Quentin Tarantino,Death Proof
 6.7, Wes Anderson,The Darjeeling Limited
 6.7, Michael Winterbottom,A Mighty Heart
 6.7, Lars von Trier,The Boss of It All
@@ -2335,6 +2340,7 @@ RATING,DIRECTOR,MOVIE
 6.7, Gurinda Chadha,Blinded by the Light
 6.7, Mike Schwartz and Tyler Nilson,The Peanut Butter Falcon
 6.7, Dan Krauss,The Kill Team
+6.7, Ina Weisse,The Audition
 6.7, John Turturro,The Jesus Rolls
 6.7, Abel Ferrara,Tommaso
 6.6, John Dahl,Rounders (1998)
@@ -3233,6 +3239,8 @@ RATING,DIRECTOR,MOVIE
 6.5, Joe Robert Cole,All Day and a Night
 6.5, Robert Jury,Working Man
 6.5, Peter Cattaneo,Military Wives
+6.5, Channing Godfrey Peoples,Miss Juneteenth
+6.5, Brian Welsh,Beats
 6.4, Bryan Singer,Apt Pupil (1998)
 6.4, Tamara Jenkins,Slums of Beverly Hills (1998)
 6.4, Chris Columbus,Stepmom (1998)
@@ -3384,6 +3392,7 @@ RATING,DIRECTOR,MOVIE
 6.4, Alejandro Landes,Monos
 6.4, Larry Fessenden,Depraved
 6.4, Fernando Meirelles,The Two Popes
+6.4, Sherry Hormann,A Regular Woman
 6.4, Dan Scanlon,Onward
 6.4, Pema Tseden,Jinpa
 6.4, Veronika Franz  & Severin Fiala,The Lodge
@@ -3435,6 +3444,7 @@ RATING,DIRECTOR,MOVIE
 6.3, Rakeysh Omprakash Mehra,Delhi-6
 6.3, Todd Phillips,The Hangover
 6.3, Lasse Hallstrom,Dear John
+6.3, Sofia Coppola,Somewhere
 6.3, Harvey Wang,The Last New Yorker
 6.3, Lee Unkrich,Toy Story 3
 6.3, Michael Roskam,Rundskop/ Bullhead
@@ -4967,6 +4977,7 @@ RATING,DIRECTOR,MOVIE
 6.0, George Nolfi,The Banker
 6.0, Rapman,Blue Story
 6.0, Christophe Honore',Chambre 212/ On a Magical Night
+6.0, Shannon Murphy,Babyteeth
 5.9, Alan Rudolph,Breakfast of Champions (1998)
 5.9, Woody Allen,Celebrity (1998)
 5.9, Mike Van Diem,Character  (1998)
@@ -5519,6 +5530,7 @@ RATING,DIRECTOR,MOVIE
 5.5, Oz Perkins,Gretel & Hansel
 5.5, Stephanie Turner,Justine
 5.5, Prentice Penny,Uncorked
+5.5, David Dobkin,Eurovision Song Contest
 5.4, Neil Abramson,Ringmaster (1998)
 5.4, Steve Miner,Halloween: H2O (1998)
 5.4, Randall Wallace,Man With The Iron Mask  (1998)
@@ -5676,6 +5688,7 @@ RATING,DIRECTOR,MOVIE
 5.1, Simon Hunter,Edie
 5.1, Noah Hawley,Lucy in the Sky
 5.1, Benjamin Kasulke,Banana Split
+5.1, Peter Segal,My Spy
 5.0, Zalman King,In God's Hands  (1998)
 5.0, Tommy O'Haver,Billy's Hollywood Screen Kiss (1998)
 5.0, Thomas Mazziotti,Charlie Hoboken (1998)
@@ -6912,6 +6925,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Wilson Yip,Ip Man 4 The Finale
 5.0, Wilson Yip,The Song of Names
 5.0, Floria Sigismondi,The Turning
+5.0, Elissa Down,Feel the Beat
 5.0, Mike Doyle,Almost Love
 5.0, Nick Peet,Lazy Susan
 5.0, Aaron Fisher,Inside the Rain
