@@ -44,7 +44,6 @@ RATING,DIRECTOR,MOVIE
 7.6, Joachim Trier,Thelma
 7.5, Emir Kusturica,Black Cat White Cat (1998)
 7.5, Theo Angelopoulos,Eternity And A Day (1998)
-7.5, Walter Salles,Central Station (1998)
 7.5, Christopher Nolan,Following
 7.5, Takeshi Miike,Deddo oa Araibu/ Dead or Alive
 7.5, Alejandro Gonzales Inarritu,Amores Perros
@@ -112,6 +111,7 @@ RATING,DIRECTOR,MOVIE
 7.4, Patrick Wang,A Bread Factory
 7.4, Yorgos Lanthimos,The Favourite
 7.4, Joon-ho Bong,Gisaengchung/ Parasite
+7.3, Walter Salles,Central Station (1998)
 7.3, Peter Weir,Truman Show  (1998)
 7.3,  Tsai Ming-Liang,Dong/ The Hole (1998)
 7.3, Veit Helmer,Tuvalu
@@ -450,6 +450,7 @@ RATING,DIRECTOR,MOVIE
 7.1, Jean-Pierre and Luc Dardenne,Two Days One Night
 7.1, Diao Yinan,"Bai Ri Yan Huo/ Black Coal, Thin Ice"
 7.1, Olivier Assayas,Clouds of Sils Maria
+7.1, David Robert Mitchell,It Follows
 7.1, Jennifer Kent,The Babadook
 7.1, Grimur Hakonarson,Hrutar/ Rams  (2015)
 7.1, Clement Cogitore, Neither Heaven Nor Earth
@@ -1117,7 +1118,6 @@ RATING,DIRECTOR,MOVIE
 7.0,  David and Nathan Zellner,Kumiko the Treasure Hunter
 7.0, Haik Kocharian,Please Be Normal
 7.0, Zaza Urushadze,Tangerine
-7.0, David Robert Mitchell,It Follows
 7.0, Peter Strickland,The Duke of Burgundy
 7.0, Andrej Konchalovskij,The Postman's White Nights
 7.0, Lisa Cholodenko,Olive Kitteridge
@@ -1755,6 +1755,7 @@ RATING,DIRECTOR,MOVIE
 6.9, Makoto Shinkai,Weathering With You
 6.9, Makoto Shinkai,Weathering With You
 6.9, Guillaume Pierret,Lost Bullet
+6.9, Gerardo Naranjo,Viena and the Fantomes
 6.8, Pat O'Connor,Dancing at Lughnasa (1998)
 6.8, Francois Ozon,Sitcom  (1998)
 6.8, Steven Soderbergh,Out Of Sight  (1998)
@@ -3305,6 +3306,7 @@ RATING,DIRECTOR,MOVIE
 6.4, Bertrand Tavernier,The Princess of Montpensier
 6.4, Rupert Wyatt, Rise of the Planet of the Apes
 6.4, Jacob Aaron Estes,The Details
+6.4,  Chen Kaige,Caught in the Web (2012)
 6.4, Julia Loktev,The Loneliest Planet
 6.4, Yaron Zilberman,A Late Quartet
 6.4, Daniel Espinosa,Safe House
@@ -3396,6 +3398,7 @@ RATING,DIRECTOR,MOVIE
 6.4, Dan Scanlon,Onward
 6.4, Pema Tseden,Jinpa
 6.4, Veronika Franz  & Severin Fiala,The Lodge
+6.4, Hirokazu Kore-eda,The Truth
 6.3, S.R.Bindler,Hands On A Hard Body (1998)
 6.3, Andre` Techine`,Alice And Martin
 6.3, Robert Duvall,Apostle  (1997)
@@ -3631,6 +3634,7 @@ RATING,DIRECTOR,MOVIE
 6.2, Alexandra McGuinness,She's Missing
 6.2, Andrew Desmond,The Sonata
 6.2, Brett Pierce & Drew Pierce,The Wretched
+6.2, Rod Lurie,The Outpost
 6.2, Cory Finley,Bad Education
 6.1, Carl Franklin,One True Thing (1998)
 6.1, Warren Beatty,Bulworth (1998)
@@ -4978,6 +4982,7 @@ RATING,DIRECTOR,MOVIE
 6.0, Rapman,Blue Story
 6.0, Christophe Honore',Chambre 212/ On a Magical Night
 6.0, Shannon Murphy,Babyteeth
+6.0, Thomas Kail,Hamilton
 5.9, Alan Rudolph,Breakfast of Champions (1998)
 5.9, Woody Allen,Celebrity (1998)
 5.9, Mike Van Diem,Character  (1998)
@@ -6925,6 +6930,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Wilson Yip,Ip Man 4 The Finale
 5.0, Wilson Yip,The Song of Names
 5.0, Floria Sigismondi,The Turning
+5.0, Andy de Emmony,Four Kids and It
 5.0, Elissa Down,Feel the Beat
 5.0, Mike Doyle,Almost Love
 5.0, Nick Peet,Lazy Susan
