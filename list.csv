@@ -29,6 +29,7 @@ RATING,DIRECTOR,MOVIE
 7.7, Pedro Almodovar,Todo Sobre Mi Madre/ All About My Mother
 7.7, Christian Petzold,Die Innere Sicherheit/ The State I Am In (Germany)
 7.7, David Lynch,Mulholland Drive
+7.7, Satoshi Kon,Sennen Joyu/ Millennium Actress
 7.7, Fatih Akin,Gegen die Wand/ Head On
 7.7, Theo Angelopoulos,The Weeping Meadow
 7.7, Carlos Reygadas,Post Tenebras Lux
@@ -252,7 +253,6 @@ RATING,DIRECTOR,MOVIE
 7.2, Isao Takahata,Kaguya-hime no Monogatari/ The Tale Of Princess Kaguya
 7.2, Lisandro Alonso,Jauja
 7.2, Kornel Mundruczo,White God
-7.2, Sang-soo Hong, Right Now Wrong Then
 7.2, Alice Rohrwacher,Le Meraviglie/ The Wonders
 7.2, Sang-soo Hong,Jigeumeun Matgo Geuddaeneun Teullida/ Right Now Wrong Then
 7.2, Ciro Guerra,Embrace of the Serpent
@@ -360,6 +360,7 @@ RATING,DIRECTOR,MOVIE
 7.1, Emmanuel Carrere,La Moustache
 7.1, Sion Sono,Kimyo no Circus/ Strange Circus
 7.1, Gregg Araki,Mysterious Skin
+7.1, David Cronenberg,A History of Violence
 7.1, Aki Kaurismaki,Laitakaupungin Valot/ Lights in the Dusk
 7.1, Radu Muntean,Hartia va fi Albastra/ The Paper Will Be Blue
 7.1, Jens Lien,The Bothersome Man
@@ -526,6 +527,7 @@ RATING,DIRECTOR,MOVIE
 7.1, Lawrence Michael Levine,Black Bear
 7.1, Eliza Hittman,Never Rarely Sometimes Always
 7.1, Johann Johannsson,Last and First Men
+7.1, Max Barbakow,Palm Springs
 7.0, Sang-soo Hong,Kangwon-do Ui Him/ The Power of Kangwon Province (1998)
 7.0, Barry Levinson,Wag the Dog  (1998)
 7.0, Vincent Gallo,Buffalo '66 (1998)
@@ -575,6 +577,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Mike Hodges,Croupier
 7.0, Raul Ruiz,Combat d'Amour en Songe/ Love Torn in a Dream
 7.0, Malgorzata Szumowska,33 sceny z zycia/ 33 Scenes from Life
+7.0, Hou Hsiao-hsien,Millennium Mambo
 7.0, Bertrand Bonello,The Pornographer
 7.0, Lucrecia Martel,La Cienaga
 7.0, Todd Field,In The Bedroom
@@ -593,7 +596,6 @@ RATING,DIRECTOR,MOVIE
 7.0,  Bertha Bay-Sa Pan,Face
 7.0, Michael Haneke,Cone Inconnu/ Code Unknown
 7.0, Manoel de Oliveira,I'm Going Home
-7.0, Hou Hsiao-hsien,Millennium Mambo
 7.0, Takashi Miike,Visitor Q
 7.0, Zhangke Jia,Unknown Pleasures
 7.0, Carlos Reygadas,Japon
@@ -684,7 +686,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Hirokazu Kore-eda,Nobody Knows
 7.0, James Brooks,Spanglish
 7.0, Lucile Hadzihalilovic,Innocence
-7.0, David Cronenberg,A History of Violence
 7.0, Pablo Larrain,Fuga
 7.0, Rodrigo Garcia,Nine Lives
 7.0, Jean-Pierre and Luc Dardenne,L'Enfant/ The Child
@@ -810,7 +811,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Talia Lugacy,Descent
 7.0, Mike Cahill,King of California
 7.0, Mai Tominaga,Wool 100%
-7.0, David Cronenberg,Eastern Promises
 7.0, Craig Gillespie,Lars and the Real Girl
 7.0, Crispin Hellion Glover,It Is Fine! Everything Is Fine
 7.0, Julien Temple,Joe Strummer: The Future Is Unwritten
@@ -1522,6 +1522,7 @@ RATING,DIRECTOR,MOVIE
 6.9, Karen Moncrieff,The Dead Girl
 6.9, Shosuke Murakami,Densha Otoko/ Train Man
 6.9, Francois Ozon,Le Temps Qui Reste/ Time to Leave
+6.9, David Cronenberg,Eastern Promises
 6.9, Sean Penn,Into the Wild
 6.9, Andre Techine,Les Temoins/ The Witnesses
 6.9, Deborah Kampmeier,Hounddog
@@ -2212,6 +2213,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Michael Winterbottom,Greed
 6.8, Tyler Cornack,Butt Boy
 6.8, Olivier Assayas,Wasp Network
+6.8, Atom Egoyan,Guest of Honour
 6.7,  Eric Rohmer,Comte d'Automne/ Autumn Tale (1998)
 6.7, Bertrand Bonello,Something Organic
 6.7, Amos Gitai,Yom Yom
@@ -2419,6 +2421,7 @@ RATING,DIRECTOR,MOVIE
 6.6, Sheldon Candis,Luv
 6.6, Martin McDonagh,Seven Psychopaths
 6.6, Francois Ozon,Dans la Maison/ In the House
+6.6, David Cronenberg,Cosmopolis
 6.6, Bryan Singer,Jack the Giant Slayer
 6.6, Corneliu Porumboiu,"""Cand se lasa seara peste Bucuresti sau metabolism (/ When Evening Falls on Bucharest or Metabolism"""
 6.6, Abdellatif Kechiche,La Vie d'Adele/ Blue is the Warmest Color
@@ -3485,6 +3488,7 @@ RATING,DIRECTOR,MOVIE
 6.3, Ken Scott,The Extraordinary Journey of the Fakir
 6.3, Wash Westmoreland,Earthquake Bird
 6.3, Deborah Kampmeier,Tape
+6.3, Jeffrey Brown,The Beach House
 6.3, Judd Apatow,The King of Staten Island
 6.2, Bruce McDonald,Hard Core Logo (1998)
 6.2, Wayne Wang,Chinese Box  (1998)
@@ -3552,7 +3556,6 @@ RATING,DIRECTOR,MOVIE
 6.2, Jannicke Systad Jacobsen,Turn Me On Dammit
 6.2, John Madden,The Best Exotic Marigold Hotel
 6.2, Zal Batmanglij,Sound of My Voice
-6.2, David Cronenberg,Cosmopolis
 6.2, Nicholas Jarecki,Arbitrage
 6.2, Luis Prieto,Pusher
 6.2, Matthias Schweighoefer,What a Man
@@ -5033,6 +5036,7 @@ RATING,DIRECTOR,MOVIE
 5.9, Lars von Trier,The House That Jack Built
 5.9, Nicolai Fuglsig,12 Strong
 5.9, Richard Wong,Come as You Are
+5.9, Gina Prince-Bythewood,The Old Guard
 5.8, Stephen Norrington,Blade (1998)
 5.8, Robert Zemeckis,Contact  (1998)
 5.8, Jonathan Kaufer,Bad manners (1998)
@@ -5181,6 +5185,7 @@ RATING,DIRECTOR,MOVIE
 5.7, Dexter Fletcher,Rocketman
 5.7, Michael Dowse,Stuber
 5.7, William Teitler,Bad Therapy
+5.7, Aaron Schneider,Greyhound
 5.6, Peter O'Fallon,Suicide Kings  (1998)
 5.6, Night Shyamalan,Wide Awake  (1998)
 5.6, Nicholas Hytner,Object Of My Affection  (1998)
