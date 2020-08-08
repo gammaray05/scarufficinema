@@ -294,7 +294,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Joanna Hogg,The Souvenir
 7.2, Nadav Lapid,Synonyms
 7.2, Kantemir Balagov,Dilda/ Beanpole
-7.2, Quentin Dupieux,Deerskin Review: Swayed by Suede
+7.2, Quentin Dupieux,Deerskin
 7.2, Ilya Khrzhanovskiy,DAU Natasha
 7.2, Mohammad Rasoulof,There Is No Evil
 7.2, Lee Isaac Chung,Minari
@@ -745,7 +745,6 @@ RATING,DIRECTOR,MOVIE
 7.0, John Hillcoat,The Proposition
 7.0, Patrice Chereau,Gabrielle
 7.0, Pat O'Neill,The Decay of Fiction
-7.0, Martin Scorsese,The Departed
 7.0, Hou Hsiao-hsien,Three Times
 7.0, Ray Lawrence,Jindabyne
 7.0, Carlos Sorin,El Camino de San Diego/ The Road To San Diego
@@ -1396,6 +1395,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Pietro Marcello,Martin Eden
 7.0, Chinonye Chukwu,Clemency
 7.0, Lorcan Finnegan,Vivarium
+7.0, Romola Garai,Amulet
 7.0, Andrew Patterson,The Vast of Night
 7.0, Galder Gaztelu-Urrutia,The Platform
 7.0, Christian Petzold,Undine
@@ -1757,6 +1757,8 @@ RATING,DIRECTOR,MOVIE
 6.9, Makoto Shinkai,Weathering With You
 6.9, Guillaume Pierret,Lost Bullet
 6.9, Gerardo Naranjo,Viena and the Fantomes
+6.9, Gregor Jordan,Dirt Music
+6.9, Rob Savage,Host
 6.8, Pat O'Connor,Dancing at Lughnasa (1998)
 6.8, Francois Ozon,Sitcom  (1998)
 6.8, Steven Soderbergh,Out Of Sight  (1998)
@@ -2346,6 +2348,7 @@ RATING,DIRECTOR,MOVIE
 6.7, Ina Weisse,The Audition
 6.7, John Turturro,The Jesus Rolls
 6.7, Abel Ferrara,Tommaso
+6.7, Sergio Navarretta,The Cuban
 6.6, John Dahl,Rounders (1998)
 6.6, Abel Ferrara,Blackout  (1997)
 6.6, David Rabe,Hurlyburly (1998)
@@ -2505,6 +2508,7 @@ RATING,DIRECTOR,MOVIE
 6.6, Marielle Heller,A Beautiful Day in the Neighborhood
 6.6, Ari Aster,Midsommar
 6.6, Benedict Andrews,Seberg
+6.6, David Wnendt,The Sunlit Night
 6.6, Stella Meghie,The Photograph
 6.6, Craig Borten,Sergio
 6.6, Rashaad Ernesto Green,Premature
@@ -3283,6 +3287,7 @@ RATING,DIRECTOR,MOVIE
 6.4, Tim Burton,Charlie And the Chocolate Factory
 6.4, Nicolas Winding Refn,Pusher 3
 6.4, Wayne Kramer,Running Scared
+6.4, Martin Scorsese,The Departed
 6.4, Richard Linklater,A Scanner Darkly
 6.4, Steven Soderbergh,Ocean's Thirteen
 6.4, Timur Bekmambetov,Day Watch
@@ -3490,6 +3495,7 @@ RATING,DIRECTOR,MOVIE
 6.3, Deborah Kampmeier,Tape
 6.3, Jeffrey Brown,The Beach House
 6.3, Judd Apatow,The King of Staten Island
+6.3, Karen Maine,Yes God Yes
 6.2, Bruce McDonald,Hard Core Logo (1998)
 6.2, Wayne Wang,Chinese Box  (1998)
 6.2, Ted Demme,Monument Avenue (1998)
@@ -3636,6 +3642,7 @@ RATING,DIRECTOR,MOVIE
 6.2, Brian Kirk,21 Bridges
 6.2, Alexandra McGuinness,She's Missing
 6.2, Andrew Desmond,The Sonata
+6.2, Tony Bancroft & Scott Christian Sava,Animal Crackers
 6.2, Brett Pierce & Drew Pierce,The Wretched
 6.2, Rod Lurie,The Outpost
 6.2, Cory Finley,Bad Education
@@ -5136,6 +5143,7 @@ RATING,DIRECTOR,MOVIE
 5.8, Elizabeth Banks,Charlie's Angels
 5.8, Bill Condon,The Good Liar
 5.8, Michael Herbig,Balloon
+5.8, Ludwig & Paul Shammasian,Retaliation
 5.7, Edward Zwick,The Siege (1998)
 5.7, Thom Fitzgerald,Hanging Garden (1998)
 5.7, Robert Bierman,A Merry War (1998)
@@ -5541,6 +5549,7 @@ RATING,DIRECTOR,MOVIE
 5.5, Stephanie Turner,Justine
 5.5, Prentice Penny,Uncorked
 5.5, David Dobkin,Eurovision Song Contest
+5.5, Jessica Swale,Summerland
 5.4, Neil Abramson,Ringmaster (1998)
 5.4, Steve Miner,Halloween: H2O (1998)
 5.4, Randall Wallace,Man With The Iron Mask  (1998)
@@ -5596,6 +5605,7 @@ RATING,DIRECTOR,MOVIE
 5.4, Destin Daniel Cretton,Just Mercy
 5.4, Jonathan Jakubowicz,Resistance
 5.4, Andrew Wonder,Feral
+5.4, Katleho & Rethabile Ramaphakela,Seriously Single
 5.3, Samo Hung,Mr Nice Guy  (1998)
 5.3, Kevin Rodney Sullivan,How Stella Got Her Groove Back (1998)
 5.3, John Roberts,Paulie  (1998)
@@ -6948,6 +6958,8 @@ RATING,DIRECTOR,MOVIE
 5.0, Annie Silverstein,Bull
 5.0, Tony Cervone,Scoob!
 5.0, Josephine Mackerras,Alice
+5.0, Vaclav Marhoul,The Painted Bird
+5.0, Dave Franco,The Rental
 4.9, Luis Galvao Teles,Elles
 4.9, Shane Meadows,A Room For Romeo Brass
 4.9, Thomas Lee,Supernova
@@ -7001,6 +7013,7 @@ RATING,DIRECTOR,MOVIE
 4.8, Paul Downs Colaizzo,Brittany Runs a Marathon
 4.8, Derrick Borte,American Dreamer
 4.8, Josh Trank,Capone
+4.8, Regina Welker & Nina Wels,Latte and the Magic Waterstone Review: A Hedgehogs Journey
 4.7, Bruce McCulloch,Superstar
 4.7, Irwin Winkler,At First Sight
 4.7, Brett Ratner,Family Man
@@ -7447,6 +7460,7 @@ RATING,DIRECTOR,MOVIE
 4.2, Dallas Jackson,Thriller
 4.2, Ang Lee,Gemini Man
 4.2, Michael Showalter,The Lovebirds
+4.2, Chris Foggin,Fisherman's Friends
 4.1, Arlene Sanford,I'll Be Home For Christmas (1998)
 4.1, Agnes Merlet,Quest for Camelot  (1998)
 4.1, Joel Schumaker,Flawless
@@ -8046,6 +8060,8 @@ RATING,DIRECTOR,MOVIE
 4.0, Rachel Lee Goldenberg,Valley Girl
 4.0, Clark Duke,Arkansas
 4.0, Tyler Spindel,The Wrong Missy
+4.0, Peter Sullivan,Fatal Affair
+4.0, Vince Marcello,The Kissing Booth 2
 3.9, Martin Owen,Killers Anonymous
 3.8, Scott Alexander & Larry Karaszewski,Screwed
 3.8, Daniel Lusko,Persecuted
