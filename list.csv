@@ -271,7 +271,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Olivier Assayas,Personal Shopper
 7.2, Chloe Zhao,The Rider
 7.2, Lucrecia Martel,Zama
-7.2, Andrey Zvyagintsev,Nelyubov/ Loveless
+7.2, Andrey Zvjagintsev,Nelyubov/ Loveless
 7.2, Agnieszka Holland,Spoor
 7.2, Greg Zglinski,Animals
 7.2, Craig Zahler,Brawl in Cell Block 99
@@ -1432,6 +1432,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Agnieszka Holland,Mr Jones
 7.0, Bora Kim,House of Hummingbird
 7.0, Christopher Munch,The 11th Green
+7.0, Michael Almereyda,Tesla
 6.9, Stephen Frears,The Hi-Lo Country  (1998)
 6.9, Takashi Miike,The Bird People in China
 6.9, Paul Auster,Lulu on the Bridge
@@ -2354,7 +2355,6 @@ RATING,DIRECTOR,MOVIE
 6.7, John Turturro,The Jesus Rolls
 6.7, Abel Ferrara,Tommaso
 6.7, Sergio Navarretta,The Cuban
-6.7, Michael Almereyda,Tesla
 6.6, John Dahl,Rounders (1998)
 6.6, Abel Ferrara,Blackout  (1997)
 6.6, David Rabe,Hurlyburly (1998)
