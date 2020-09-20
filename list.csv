@@ -131,6 +131,7 @@ RATING,DIRECTOR,MOVIE
 7.3, Zhangke Jia,The World
 7.3, Lav Diaz,Ebolusyon ng Isang Pamilyang Pilipino/ Evolution of a Filipino Family
 7.3, Jacques Audiard,De Battre Mon Cour S'Est Arrete'/ The Beat That My Heart Skipped
+7.3, Shane Black,Kiss Kiss Bang Bang
 7.3, Joon-Ho Bong,Gwoemul/ The Host
 7.3, Paolo Sorrentino,L'Amico di Famiglia
 7.3, Chan-wook Park,Ssaibogeujiman Gwaenchana/ I'm a Cyborg but that's OK
@@ -209,7 +210,6 @@ RATING,DIRECTOR,MOVIE
 7.2, Lucrecia Martel,La Nina Santa/ The Holy Girl
 7.2, Don Roos,Happy Endings
 7.2, John Singleton,Four Brothers
-7.2, Shane Black,Kiss Kiss Bang Bang
 7.2, Ira Sachs,Forty Shades of Blue
 7.2, Vimukthi Jayasundara,Sulanga Enu Pinisa/ The Forsaken Land
 7.2, Andrew Bujalski,Mutual Appreciation
@@ -1408,6 +1408,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Kleber Mendonca Filho & Juliano Dornelles,Bacurau
 7.0, Pietro Marcello,Martin Eden
 7.0, Chinonye Chukwu,Clemency
+7.0, Francis Lee,Ammonite
 7.0, Chaitanya Tamhane,The Disciple
 7.0, Andrej Koncalovskij,Dear Comrades
 7.0, Kiyoshi Kurosawa,Supai no Tsuma/ Wife of a Spy
@@ -1761,6 +1762,7 @@ RATING,DIRECTOR,MOVIE
 6.9, James Mangold,Ford v Ferrari
 6.9, Nadav Lapid,Synonyms
 6.9, Carlo Mirabella-Davis,Swallow
+6.9, Chaitanya Tamhane,The Disciple
 6.9, Makoto Shinkai,Weathering With You
 6.9, Makoto Shinkai,Weathering With You
 6.9, Guillaume Pierret,Lost Bullet
@@ -2227,6 +2229,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Atom Egoyan,Guest of Honour
 6.8, Brandon Trost,An American Pickle
 6.8, Ayumu Watanabe,Kaiju no Kodomo/ Children of the Sea
+6.8, Steve Collins,I've Got Issues
 6.7,  Eric Rohmer,Comte d'Automne/ Autumn Tale (1998)
 6.7, Bertrand Bonello,Something Organic
 6.7, Amos Gitai,Yom Yom
@@ -2356,6 +2359,7 @@ RATING,DIRECTOR,MOVIE
 6.7, Gurinda Chadha,Blinded by the Light
 6.7, Mike Schwartz and Tyler Nilson,The Peanut Butter Falcon
 6.7, Dan Krauss,The Kill Team
+6.7, John Hyams,Alone
 6.7, Ina Weisse,The Audition
 6.7, John Turturro,The Jesus Rolls
 6.7, Abel Ferrara,Tommaso
@@ -2519,6 +2523,7 @@ RATING,DIRECTOR,MOVIE
 6.6, Marielle Heller,A Beautiful Day in the Neighborhood
 6.6, Ari Aster,Midsommar
 6.6, Benedict Andrews,Seberg
+6.6, Sean Durkin,The Nest
 6.6, David Wnendt,The Sunlit Night
 6.6, Stella Meghie,The Photograph
 6.6, Craig Borten,Sergio
@@ -3246,6 +3251,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Justine Triet,Sibyl
 6.5, May el-Toukhy,Queen of Hearts
 6.5, Anthony Jerjen,Inherit the Viper
+6.5, John Sheedy,H Is for Happiness
 6.5, Autumn de Wilde,Emma
 6.5, Guy Ritchie,The Gentlemen
 6.5, Channing Godfrey Peoples,Miss Juneteenth
@@ -3414,6 +3420,7 @@ RATING,DIRECTOR,MOVIE
 6.4, Larry Fessenden,Depraved
 6.4, Fernando Meirelles,The Two Popes
 6.4, Sherry Hormann,A Regular Woman
+6.4, Steve McQueen,Lovers Rock
 6.4, Dan Scanlon,Onward
 6.4, Pema Tseden,Jinpa
 6.4, Veronika Franz  & Severin Fiala,The Lodge
@@ -3661,6 +3668,7 @@ RATING,DIRECTOR,MOVIE
 6.2, Cory Finley,Bad Education
 6.2, Paula van der Oest,The Bay of Silence
 6.2, Sang-ho Yeon,Peninsula
+6.2, Antonio Campos,The Devil All the Time
 6.1, Carl Franklin,One True Thing (1998)
 6.1, Warren Beatty,Bulworth (1998)
 6.1, Mike Nichols,Primary Colors  (1998)
@@ -5006,7 +5014,6 @@ RATING,DIRECTOR,MOVIE
 6.0, George Nolfi,The Banker
 6.0, Rapman,Blue Story
 6.0, Christophe Honore',Chambre 212/ On a Magical Night
-6.0, Shannon Murphy,Babyteeth
 6.0, Thomas Kail,Hamilton
 6.0, Ninian Doff,Get Duked!
 5.9, Alan Rudolph,Breakfast of Champions (1998)
@@ -5567,6 +5574,7 @@ RATING,DIRECTOR,MOVIE
 5.5, James Bobin,Dora and the Lost City of Gold
 5.5, James Bobin,Dora and the Lost City of Gold
 5.5, Dean Parisot,Bill & Ted Face the Music
+5.5, Spike Lee,American Utopia
 5.5, Oz Perkins,Gretel & Hansel
 5.5, Stephanie Turner,Justine
 5.5, Prentice Penny,Uncorked
@@ -5631,6 +5639,7 @@ RATING,DIRECTOR,MOVIE
 5.4, Jonathan Jakubowicz,Resistance
 5.4, Andrew Wonder,Feral
 5.4, Katleho & Rethabile Ramaphakela,Seriously Single
+5.4, Roger Michell,Blackbird
 5.3, Samo Hung,Mr Nice Guy  (1998)
 5.3, Kevin Rodney Sullivan,How Stella Got Her Groove Back (1998)
 5.3, John Roberts,Paulie  (1998)
@@ -7046,6 +7055,7 @@ RATING,DIRECTOR,MOVIE
 4.8, Josh Trank,Capone
 4.8, Regina Welker & Nina Wels,Latte and the Magic Waterstone Review: A Hedgehogs Journey
 4.8, Richard Tanne,Chemical Hearts
+4.8, Yuval Adler,The Secrets We Keep
 4.7, Bruce McCulloch,Superstar
 4.7, Irwin Winkler,At First Sight
 4.7, Brett Ratner,Family Man
@@ -7456,6 +7466,7 @@ RATING,DIRECTOR,MOVIE
 4.4, Nat Faxon & Jim Rash,Downhill
 4.4, Cuneyt Kaya,Rising High
 4.4, Thea Sharrock,The One and Only Ivan
+4.4, Gerard Bush & Christoper Renz,Antebellum
 4.3, Sam Weisman,Out of Towners
 4.3, Geroge Haas,Friends And Lovers
 4.3, Sean Penn,The Pledge
