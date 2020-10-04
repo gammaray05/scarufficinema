@@ -532,6 +532,7 @@ RATING,DIRECTOR,MOVIE
 7.1, Max Barbakow,Palm Springs
 7.1, Ahmad Bahrami,The Wasteland
 7.1, Michel Franco,Nuevo Orden
+7.1, Brandon Cronenberg,Possessor
 7.0, Sang-soo Hong,Kangwon-do Ui Him/ The Power of Kangwon Province (1998)
 7.0, Barry Levinson,Wag the Dog  (1998)
 7.0, Vincent Gallo,Buffalo '66 (1998)
@@ -1291,7 +1292,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Pedro Pinho,The Nothing Factory
 7.0, Maysaloun Hamoud,In Between
 7.0, Armando Iannucci,The Death of Stalin
-7.0, Claire Denis,Un Beau Soleil Interieur/ Let the Sunshine In
 7.0, Mike Leigh,Peterloo
 7.0, Malgorzata Szumowska,Mug
 7.0, Stephane Brize',At War
@@ -1467,7 +1467,6 @@ RATING,DIRECTOR,MOVIE
 6.9, Greg Harrison,Groove
 6.9, Jim McKay,Our Song
 6.9, Mary Harron,American Psycho
-6.9, William Friedkin,Rules Of Engagement
 6.9, Stanley Tucci,Joe Gould's Secret
 6.9, Ben Younger,Boiler Room
 6.9, Robert Zemeckis,Cast Away
@@ -1541,7 +1540,6 @@ RATING,DIRECTOR,MOVIE
 6.9, Azazel Jacobs,The Goodtimeskid and Two Wrenching Departures
 6.9, Todd Haynes,I'm Not There
 6.9, Brillante Mendoza,Tirador/ Slingshot
-6.9, Olivier Assayas,Summer Hours
 6.9, Valery Todorovsky,Hipsters
 6.9, Paolo Sorrentino,Il Divo
 6.9, Gabriele Muccino,Seven Pounds
@@ -1561,7 +1559,6 @@ RATING,DIRECTOR,MOVIE
 6.9, Jim Jarmusch,The Limits of Control
 6.9, Jonathan auf der Heide,Van Diemen's Land
 6.9, Rian Johnson,The Brothers Bloom
-6.9, Alain Resnais,Wild Grass
 6.9, Pablo Trapero,Lion's Den
 6.9, Armando Iannucci,In the Loop
 6.9, Rajkumar Hirani,Idiots
@@ -1960,6 +1957,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Chris Smith,The Pool
 6.8, Randall Miller,Nobel Son
 6.8, Alain Guiraudie,The King of Escape
+6.8, Alain Resnais,Wild Grass
 6.8, Sebastian Silva,The Maid
 6.8, Niki Caro,The Vintner's Luck
 6.8, John Hillcoat,The Road
@@ -2760,7 +2758,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Duncan Tucker,Transamerica
 6.5, Neil Jordan,Breakfast on Pluto
 6.5, Fernando Meirelles,The Constant Gardener
-6.5, Christopher Nolan,Batman Begins
 6.5, Sebastien Lifshitz,Wild Side
 6.5, Paolo Virzi,Caterina in the Big City
 6.5, Bahman Ghobadi,Turtles Can Fly
@@ -3209,6 +3206,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Amma Asante,A United Kingdom
 6.5, Bruno Dumont,Slack Bay
 6.5, David Gordon Green,Stronger
+6.5, Claire Denis,Un Beau Soleil Interieur/ Let the Sunshine In
 6.5, Nosipho Dumisa,Number 37
 6.5, Eshom Nelms & Ian Nelms,Small Town Crime
 6.5, Marielle Heller,Can you ever Forgive me
@@ -3314,6 +3312,7 @@ RATING,DIRECTOR,MOVIE
 6.4, David Von Ancken,Seraphim Falls
 6.4, Tim Burton,Sweeney Todd
 6.4, Philippe Garrel,J'Entends Plus la Guitare
+6.4, Olivier Assayas,Summer Hours
 6.4, Harmony Korine,Mister Lonely
 6.4, Annemarie Jacir,Salt of the Sea
 6.4, Joshua-Michael Stern,Swing Vote
@@ -3429,6 +3428,7 @@ RATING,DIRECTOR,MOVIE
 6.4, Pema Tseden,Jinpa
 6.4, Veronika Franz  & Severin Fiala,The Lodge
 6.4, Hirokazu Kore-eda,The Truth
+6.4, Julie Taymor,The Glorias
 6.3, S.R.Bindler,Hands On A Hard Body (1998)
 6.3, Andre` Techine`,Alice And Martin
 6.3, Robert Duvall,Apostle  (1997)
@@ -3537,6 +3537,7 @@ RATING,DIRECTOR,MOVIE
 6.2, David Koepp,Stir Of Echoes
 6.2, Renny Harlin,Deep Blue Sea
 6.2, Tony Barbieri,One
+6.2, William Friedkin,Rules Of Engagement
 6.2, Takeshi Kitano,Brother
 6.2, Greg Berlanti,The Broken Hearts Club
 6.2, Eric Blakeney,Gun-Shy
@@ -3665,6 +3666,7 @@ RATING,DIRECTOR,MOVIE
 6.2, Brian Kirk,21 Bridges
 6.2, Alexandra McGuinness,She's Missing
 6.2, Andrew Desmond,The Sonata
+6.2, Sofia Coppola,On the Rocks
 6.2, John Leguizamo,Critical Thinking
 6.2, Tony Bancroft & Scott Christian Sava,Animal Crackers
 6.2, Brett Pierce & Drew Pierce,The Wretched
@@ -5020,6 +5022,9 @@ RATING,DIRECTOR,MOVIE
 6.0, Christophe Honore',Chambre 212/ On a Magical Night
 6.0, Thomas Kail,Hamilton
 6.0, Ninian Doff,Get Duked!
+6.0, Joe Mantello,The Boys in the Band
+6.0, Lydia Pilcher,A Call to Spy
+6.0, Marcus Rosenmueller,The Keeper
 5.9, Alan Rudolph,Breakfast of Champions (1998)
 5.9, Woody Allen,Celebrity (1998)
 5.9, Mike Van Diem,Character  (1998)
@@ -6034,6 +6039,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Andre Wood,Machuca
 5.0, Antoine de Caunes,Monsieur N.
 5.0, Steve Carr,Rebound
+5.0, Christopher Nolan,Batman Begins
 5.0, Thomas Bezucha,The Family Stone
 5.0, Margaret Brown,Be Here to Love Me
 5.0, Adam Goldberg,I Love Your Work
