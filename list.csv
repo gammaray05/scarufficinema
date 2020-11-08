@@ -72,6 +72,7 @@ RATING,DIRECTOR,MOVIE
 7.5, Michael Haneke,Happy End
 7.5, Zhangke Jia,Jiang hu er nv/ Ash is Purest White
 7.5, Bi Gan,Long Day's Journey Into Night
+7.4, Guy Ritchie,Lock Stock And Two Smoking Umbrellas  (1998)
 7.4, Sam Mendes,American Beauty
 7.4, Mike Figgis,Time Code
 7.4, Zhang-Ke Jia,Zhantai/ Platform
@@ -140,7 +141,6 @@ RATING,DIRECTOR,MOVIE
 7.3, Chan-wook Park,Ssaibogeujiman Gwaenchana/ I'm a Cyborg but that's OK
 7.3, Christopher Nolan,The Prestige
 7.3, Aditya Assarat,Wonderful Town
-7.3, Lav Diaz,Kagadanan sa banwaan ning mga engkanto/ Death in the Land of Encantos
 7.3, Charlie Kaufman,Synecdoche New York
 7.3, Ari Folman,Waltz with Bashir
 7.3, Nuri Bilge Ceylan,Uc Maymum/ Three Monkeys
@@ -380,6 +380,7 @@ RATING,DIRECTOR,MOVIE
 7.1,  Lisandro Alonso,Fantasma
 7.1, Nuri Bilge Ceylan,Climates
 7.1, Spike Lee,Inside Man
+7.1, Lav Diaz,Kagadanan sa banwaan ning mga engkanto/ Death in the Land of Encantos
 7.1, Julian Schnabel,Le Scaphandre et le Papillon/ The Diving Bell and the Butterfly
 7.1, Tony Gilroy,Michael Clayton
 7.1, Alexander Sokurov,Alexandra
@@ -672,7 +673,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Gus Van Sant,Gerry
 7.0, Hans Weingartner,The Edukators
 7.0, Cristi Puiu,Un Cartu de Kent i un Pachet de Cafea/ Cigarettes and Coffee
-7.0, Emir Kusturica,Zivot Je Cudo
 7.0, Tony Gatlif,Exiles
 7.0, Lisandro Alonso,Los Muertos
 7.0, Wes Anderson,The Life Aquatic
@@ -708,7 +708,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Tomas Vorel,Skritek
 7.0, John Young,The Reception
 7.0, Quay Brothers,The Piano Tuner of Earthquakes
-7.0, Lav Diaz,Ebolusyon ng Isang Pamilyang Pilipino/ Evolution of a Filipino Family
 7.0, Mohammed Amin,Laylat Suqut Baghdad/ The Night that Baghdad Fell
 7.0, Bennett Miller,Capote
 7.0, Jane Anderson,"The Prize Winner of Defiance, Ohio"
@@ -1446,6 +1445,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Christopher Munch,The 11th Green
 7.0, Michael Almereyda,Tesla
 7.0, Miranda July,Kajillionaire
+7.0, Rodrigo Sorogoyen,Madre
 6.9, Stephen Frears,The Hi-Lo Country  (1998)
 6.9, Takashi Miike,The Bird People in China
 6.9, Paul Auster,Lulu on the Bridge
@@ -1897,6 +1897,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Francois Ozon, Swimming Pool
 6.8, Pablo Berger,Torremolinos 73
 6.8, Fanta Regina Nacro,The Night of Truth
+6.8, Emir Kusturica,Zivot Je Cudo
 6.8, Takashi Miike,Izo
 6.8, Olivier Assayas,Clean
 6.8, Xiao Jiang,Electric Shadows
@@ -2843,7 +2844,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Miike Takashi,Sukyiaki Western Django
 6.5, Ken Loach,It's a Free World
 6.5, Nikita Michalkov,12
-6.5, Lav Diaz,Lav Diaz: Death in the Land of Encantos
 6.5, Boaz Yakin,Death in Love
 6.5, Lee Isaac Chung,Munyurangabo
 6.5, Catherine Breillat,The Last Mistress
@@ -7470,6 +7470,8 @@ RATING,DIRECTOR,MOVIE
 4.5, Matt Eskandari,Survive the Night
 4.5, Steven Brill,Hubie Halloween
 4.5, Robert Zemeckis,The Witches
+4.5, Mark Tonderai,Spell
+4.5, Jacob Chase,Come Play
 4.4, Mike Mitchell,Deuce Bigalow Male Gigolo
 4.4, Eric Weber,Suits
 4.4, Joan Chen,Autumn In New York
@@ -8146,6 +8148,9 @@ RATING,DIRECTOR,MOVIE
 4.0, Mike Elliott,American Pie Presents - Girls Rules
 4.0, Ben Wheatley,Rebecca
 4.0, Glen Keane & John Kahrs,Over the Moon
+4.0, Zoe Lister-Jones,The Craft: Legacy
+4.0, Olivier Marchal,Rogue City
+4.0, John Whitesell,Holidate
 3.9, Martin Owen,Killers Anonymous
 3.8, Scott Alexander & Larry Karaszewski,Screwed
 3.8, Daniel Lusko,Persecuted
