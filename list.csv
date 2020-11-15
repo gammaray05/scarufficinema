@@ -72,7 +72,7 @@ RATING,DIRECTOR,MOVIE
 7.5, Michael Haneke,Happy End
 7.5, Zhangke Jia,Jiang hu er nv/ Ash is Purest White
 7.5, Bi Gan,Long Day's Journey Into Night
-7.4, Guy Ritchie,Lock Stock And Two Smoking Umbrellas  (1998)
+7.4, Guy Ritchie,Lock Stock And Two Smoking Barrels  (1998)
 7.4, Sam Mendes,American Beauty
 7.4, Mike Figgis,Time Code
 7.4, Zhang-Ke Jia,Zhantai/ Platform
@@ -312,7 +312,6 @@ RATING,DIRECTOR,MOVIE
 7.1, Alex Proyas,Dark City  (1998)
 7.1, Lukas Moodysson,Fucking Amal/ Show Me Love (1998)
 7.1, Penelope Spheeris,Senseless  (1998)
-7.1, Aki Kaurismaki,b>Ariel  (1998)
 7.1, Eric Mendelsohn,Judy Berlin
 7.1, Alexander Sokurov,Moloch
 7.1, Pen-ek Ratanaruang,6ixtynin9
@@ -491,7 +490,6 @@ RATING,DIRECTOR,MOVIE
 7.1, Francois Ozon,L'Amant Double/ Double Lover
 7.1, Xavier Legrand,Jusqu'a la Garde/ Custody
 7.1, Sebastian Lelio,A Fantastic Woman
-7.1, Michael Almereyda,Marjorie Prime
 7.1, Steven Soderbergh,Logan Lucky
 7.1, Robin Campillo,BPM (Beats Per Minute)
 7.1, Sang-soo Hong,On the Beach at Night Alone
@@ -863,6 +861,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Claire Denis,35 Rhums/ 35 Shots of Rum
 7.0, Radu Muntean,Boogie (2008)
 7.0, Wachowski Brothers,Speed Racer
+7.0, Guy Ritchie,Rocknrolla
 7.0, Arnaud & Jean-Marie Larrieu,Les Derniers Jours du Monde/ Happy End
 7.0, Takeshi Koike,Redline
 7.0, Peter Strickland,Katalin Varga
@@ -1232,6 +1231,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Gaston Solnicki,Kekszakallu
 7.0, Radu Jude,Scarred Hearts
 7.0, Jeff Nichols,Midnight Special
+7.0, Michael Almereyda,Marjorie Prime
 7.0, Abdellatif Kechiche,Mektoub My Love Canto Uno
 7.0, Coralie Fargeat,Revenge
 7.0, Ivana Mladenovic,Soldatii - Poveste din Ferentari/ Soldiers - A Story from Ferentari
@@ -1446,6 +1446,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Michael Almereyda,Tesla
 7.0, Miranda July,Kajillionaire
 7.0, Rodrigo Sorogoyen,Madre
+7.0, Francis Lee,Ammonite
 6.9, Stephen Frears,The Hi-Lo Country  (1998)
 6.9, Takashi Miike,The Bird People in China
 6.9, Paul Auster,Lulu on the Bridge
@@ -1779,6 +1780,7 @@ RATING,DIRECTOR,MOVIE
 6.9, Armando Iannucci,The Personal History of David Copperfield
 6.9, Steve McQueen,"Red, White and Blue"
 6.9, Justin Benson & Aaron Moorhead,Synchronic
+6.9, Johannes Nyholm,Koko-di Koko-da
 6.8, Pat O'Connor,Dancing at Lughnasa (1998)
 6.8, Francois Ozon,Sitcom  (1998)
 6.8, Steven Soderbergh,Out Of Sight  (1998)
@@ -2550,6 +2552,7 @@ RATING,DIRECTOR,MOVIE
 6.6, Sofia Coppola,On the Rocks
 6.6, Diane Paragas,Yellow Rose
 6.5, Bill Condon,Gods and Monsters (1998)
+6.5, Michael Almereyda,Trance (1998)
 6.5, Wes Anderson,Rushmore (1998)
 6.5, Anand Tucker,Hilary And Jackie (1998)
 6.5, Vyacheslav Krishtofovich,Friend of the Deceased  (1998)
@@ -3283,6 +3286,8 @@ RATING,DIRECTOR,MOVIE
 6.5, Peter Cattaneo,Military Wives
 6.5, Brian Welsh,Beats
 6.5, Justin Simien,Bad Hair
+6.5, David Talbert,Jingle Jangle
+6.5, Ian Nelms & Eshom Nelms,Fatman
 6.4, Bryan Singer,Apt Pupil (1998)
 6.4, Tamara Jenkins,Slums of Beverly Hills (1998)
 6.4, Chris Columbus,Stepmom (1998)
@@ -3692,6 +3697,7 @@ RATING,DIRECTOR,MOVIE
 6.2, Paula van der Oest,The Bay of Silence
 6.2, Sang-ho Yeon,Peninsula
 6.2, Antonio Campos,The Devil All the Time
+6.2, Alastair Orr,Triggered
 6.1, Carl Franklin,One True Thing (1998)
 6.1, Warren Beatty,Bulworth (1998)
 6.1, Mike Nichols,Primary Colors  (1998)
@@ -4325,7 +4331,6 @@ RATING,DIRECTOR,MOVIE
 6.0, Jerome Salle,The Heir Apparent - Largo Winch
 6.0, James Ivory,The City of Your Final Destination
 6.0, Ron Howard,Frost/Nixon
-6.0, Guy Ritchie,Rocknrolla
 6.0, Neil Burger,The Lucky Ones
 6.0, Gregory Hoblit,Untraceable
 6.0, Joseph Cedar,Beaufort
@@ -5033,6 +5038,8 @@ RATING,DIRECTOR,MOVIE
 6.0, Vince Gilligan,El Camino - A Breaking Bad Movie
 6.0, Chris Sanders,The Call of the Wild
 6.0, George Nolfi,The Banker
+6.0," Aitor Arregi, Jon Gara¤o and Jose Mari Goenaga",The Endless Trench
+6.0, Andrea DiStefano,The Informer
 6.0, Rapman,Blue Story
 6.0, Christophe Honore',Chambre 212/ On a Magical Night
 6.0, Thomas Kail,Hamilton
@@ -5043,6 +5050,9 @@ RATING,DIRECTOR,MOVIE
 6.0, Marcus Rosenmueller,The Keeper
 6.0, Radha Blank,The Forty-Year-Old Version
 6.0, Tim Hill,The War With Grandpa
+6.0, Christopher Landon,Freaky
+6.0, Hong Khaou,Monsoon
+6.0, Claire Oakley,Make Up
 5.9, Alan Rudolph,Breakfast of Champions (1998)
 5.9, Woody Allen,Celebrity (1998)
 5.9, Mike Van Diem,Character  (1998)
@@ -5611,6 +5621,7 @@ RATING,DIRECTOR,MOVIE
 5.5, Jessica Swale,Summerland
 5.5, James D'Arcy,Made in Italy
 5.5, Christopher Nolan,Tenet
+5.5, Alice Winocour,Proxima
 5.4, Neil Abramson,Ringmaster (1998)
 5.4, Steve Miner,Halloween: H2O (1998)
 5.4, Randall Wallace,Man With The Iron Mask  (1998)
@@ -7032,6 +7043,11 @@ RATING,DIRECTOR,MOVIE
 5.0, Marc Munden,The Secret Garden
 5.0, Rachel Lee Goldenberg,Unpregnant
 5.0, Woody Allen,A Rainy Day in New York
+5.0, Joe Marcantonio,Kindred
+5.0, Miles Joris-Peyrafitte,Dreamland
+5.0, Michael Angelo Covino,The Climb
+5.0, Tomm Moore & Ross Stewart,Wolfwalkers
+5.0, Edoardo Ponti,The Life Ahead
 4.9, Luis Galvao Teles,Elles
 4.9, Shane Meadows,A Room For Romeo Brass
 4.9, Thomas Lee,Supernova
@@ -7472,6 +7488,7 @@ RATING,DIRECTOR,MOVIE
 4.5, Robert Zemeckis,The Witches
 4.5, Mark Tonderai,Spell
 4.5, Jacob Chase,Come Play
+4.5, Brenda Chapman,Come Away
 4.4, Mike Mitchell,Deuce Bigalow Male Gigolo
 4.4, Eric Weber,Suits
 4.4, Joan Chen,Autumn In New York
@@ -8151,6 +8168,8 @@ RATING,DIRECTOR,MOVIE
 4.0, Zoe Lister-Jones,The Craft: Legacy
 4.0, Olivier Marchal,Rogue City
 4.0, John Whitesell,Holidate
+4.0, Martin Wood,Operation Christmas Drop
+4.0, Max Winkler,Jungleland
 3.9, Martin Owen,Killers Anonymous
 3.8, Scott Alexander & Larry Karaszewski,Screwed
 3.8, Daniel Lusko,Persecuted
