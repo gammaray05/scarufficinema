@@ -19,7 +19,6 @@ RATING,DIRECTOR,MOVIE
 7.8, Michel Gondry,Eternal Sunshine of the Spotless Mind
 7.8, Majid Majidi,Beed-e Majnoon/ The Willow Tree
 7.8, Johnnie To,Fong Juk/ Exiled
-7.8, Jacques Rivette,Duchess of Langeais
 7.8, Gaspar Noe,Enter the Void
 7.8, Sergei Loznitsa,Schastye Moe/ My Joy
 7.8, Alejandro Jodorowsky,The Dance of Reality
@@ -648,6 +647,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Luc Dardenne,Le Fils/ The Son
 7.0, Abbas Kiarostami,Ten
 7.0, Danny Boyle,28 Days Later
+7.0, Curtis Hanson,8 Mile
 7.0, Lukas Moodysson,Lilya 4-Ever
 7.0, Manoel DeOliveira,7.0 A Talking Picture
 7.0, Bertrand Bonello,Tiresia
@@ -761,6 +761,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Alejandro Gonzales Inarritu,Babel
 7.0, David Fincher,Zodiac
 7.0, Abdellatif Kechiche,La Graine et le Mulet
+7.0, Jacques Rivette,Duchess of Langeais
 7.0, Masahiro Kobayashi,The Rebirth
 7.0, Andrei Kravchuk,The Italian
 7.0, Franck Vestiel,Eden Log (2007)
@@ -2246,6 +2247,9 @@ RATING,DIRECTOR,MOVIE
 6.8, Ayumu Watanabe,Kaiju no Kodomo/ Children of the Sea
 6.8, Steve Collins,I've Got Issues
 6.8, Angel Manuel Soto,Charm City Kings
+6.8, Darius Marder,Sound of Metal
+6.8, Aneesh Chaganty,Run
+6.8, Takeshi Fukunaga,Ainu Mosir
 6.7,  Eric Rohmer,Comte d'Automne/ Autumn Tale (1998)
 6.7, Bertrand Bonello,Something Organic
 6.7, Amos Gitai,Yom Yom
@@ -2686,11 +2690,9 @@ RATING,DIRECTOR,MOVIE
 6.5, Peter Mullan,The Magdalene Sisters
 6.5, Patricia Cardoso,Real Women Have Curves
 6.5, Julie Taymor,Frida
-6.5, Curtis Hanson,8 Mile
 6.5, Pascale Bailly,"God Is Great, I'm Not"
 6.5, Charles Stone III,Drumline
 6.5, Jay Russell,Tuck Everlasting
-6.5, George Lucas,Star Wars Episode 2 - Attack of the Clones
 6.5, David Fincher,The Panic Room
 6.5, Tim Blake Nelson,The Grey Zone
 6.5, Charles Herman-Wurmfeld,Kissing Jessica Stein
@@ -2846,7 +2848,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Peter Greenaway,Nightwatching
 6.5, Miike Takashi,Sukyiaki Western Django
 6.5, Ken Loach,It's a Free World
-6.5, Nikita Michalkov,12
 6.5, Boaz Yakin,Death in Love
 6.5, Lee Isaac Chung,Munyurangabo
 6.5, Catherine Breillat,The Last Mistress
@@ -3592,6 +3593,7 @@ RATING,DIRECTOR,MOVIE
 6.2, Robert Pulcini and Shari Springer Berman,The Extra Man
 6.2, Zack Snyder,Legend of the Guardians: The Owls of Ga'Hoole
 6.2, Clint Eastwood,Hereafter
+6.2, Steve Pink,Hot Tub Time Machine
 6.2, Mikael Hafstrom,The Rite
 6.2, David Evans,The Grace Card
 6.2, David Hyde Pierce,The Perfect Host
@@ -5053,6 +5055,8 @@ RATING,DIRECTOR,MOVIE
 6.0, Christopher Landon,Freaky
 6.0, Hong Khaou,Monsoon
 6.0, Claire Oakley,Make Up
+6.0, Nick Sarkisov,Embattled
+6.0, Stanley Tong,Vanguard
 5.9, Alan Rudolph,Breakfast of Champions (1998)
 5.9, Woody Allen,Celebrity (1998)
 5.9, Mike Van Diem,Character  (1998)
@@ -6228,6 +6232,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Roger Michell,Venus
 5.0, Gore Verbinski,Pirates of the Caribbean - Dead Man's Chest
 5.0, Milos Forman,Goya's Ghosts
+5.0, Nikita Michalkov,12
 5.0, Lynn Roth,The Little Traitor
 5.0, Paul Schrader,The Walker
 5.0, Ang Lee,Lust Caution
@@ -6457,7 +6462,6 @@ RATING,DIRECTOR,MOVIE
 5.0, Rick Famuyiwa,Our Family Wedding
 5.0, Leena Yadav,Teen Patti
 5.0, Floria Sigismondi,The Runaways
-5.0, Steve Pink,Hot Tub Time Machine
 5.0, Julie Anne Robinson,The Last Song
 5.0, Jerry Zaks,Who Do You Love
 5.0, Derrick Borte,The Joneses
@@ -6961,6 +6965,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Etienne Comar,Django
 5.0, Quinn Shephard,Blame
 5.0, Craig Gillespie,I Tonya
+5.0, Ryan Johnson,Star Wars - The Last Jedi
 5.0, Eli Roth,Death Wish
 5.0, Bruno Dumont,Jeannette - The Childhood of Joan of Arc (2018)
 5.0, Anne Fletcher,Dumplin'
@@ -7048,6 +7053,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Michael Angelo Covino,The Climb
 5.0, Tomm Moore & Ross Stewart,Wolfwalkers
 5.0, Edoardo Ponti,The Life Ahead
+5.0, Mike Rohl,The Princess Switch - Switched Again
 4.9, Luis Galvao Teles,Elles
 4.9, Shane Meadows,A Room For Romeo Brass
 4.9, Thomas Lee,Supernova
@@ -7182,6 +7188,7 @@ RATING,DIRECTOR,MOVIE
 4.5, Patrick Hasson,Waiting
 4.5, Frank Oz,The Score
 4.5, John McTiernan,Rollerball
+4.5, George Lucas,Star Wars Episode 2 - Attack of the Clones
 4.5, Tom Shadyac,Dragonfly
 4.5, Barry Sonnenfeld,Big Trouble
 4.5, William Malone,Fear Dot Com
@@ -8094,7 +8101,6 @@ RATING,DIRECTOR,MOVIE
 4.0, Tony Leondis,The Emoji Movie
 4.0," Charlie Bean, Paul Fisher, Bob Logan",The Lego Ninjago Movie
 4.0, Matthew Vaughn,Kingsman - The Golden Circle
-4.0, Ryan Johnson,Star Wars - The Last Jedi
 4.0, Jake Kasdan,Jumanji - Welcome to the Jungle
 4.0, Trish Sie,Pitch Perfect 3
 4.0, Corin Hardy,The Nun
