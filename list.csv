@@ -1394,7 +1394,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Steven Soderbergh,The Laundromat
 7.0, Luc Besson,Anna
 7.0, Jim Jarmusch,The Dead Don't Die
-7.0, Pedro Almodovar,Dolor y Gloria/ Pain and Glory
 7.0, Danielle Lessovitz,Port Authority
 7.0, Danielle Lessovitz,Port Authority
 7.0, Ash Mayfair,The Third Wife
@@ -1775,6 +1774,7 @@ RATING,DIRECTOR,MOVIE
 6.9, Jill Culton,"Abominable Review: Are We There, Yeti?"
 6.9, James Mangold,Ford v Ferrari
 6.9, Nadav Lapid,Synonyms
+6.9, Pedro Almodovar,Dolor y Gloria/ Pain and Glory
 6.9, Jasmila Zbanic,Quo Vadis Aida
 6.9, Ana Vaz,Apiyemiyeki
 6.9, Tracy Deer,Beans
@@ -2261,6 +2261,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Darius Marder,Sound of Metal
 6.8, Aneesh Chaganty,Run
 6.8, Takeshi Fukunaga,Ainu Mosir
+6.8, Kiyoshi Kurosawa,To the Ends of the Earth
 6.7,  Eric Rohmer,Comte d'Automne/ Autumn Tale (1998)
 6.7, Bertrand Bonello,Something Organic
 6.7, Amos Gitai,Yom Yom
@@ -3300,6 +3301,7 @@ RATING,DIRECTOR,MOVIE
 6.5, David Talbert,Jingle Jangle
 6.5, Ian Nelms & Eshom Nelms,Fatman
 6.5, Clea DuVall,Happiest Season
+6.5, Ekwa Msangi,Farewell Amor
 6.4, Bryan Singer,Apt Pupil (1998)
 6.4, Tamara Jenkins,Slums of Beverly Hills (1998)
 6.4, Chris Columbus,Stepmom (1998)
@@ -5076,6 +5078,8 @@ RATING,DIRECTOR,MOVIE
 6.0, Alan Ball,Uncle Frank
 6.0, Eric Schultz,Minor Premise
 6.0, Thomas Vinterberg,Another Round
+6.0, Reginald Hudlin,Safety
+6.0, Deepa Mehta,Funny Boy
 5.9, Alan Rudolph,Breakfast of Champions (1998)
 5.9, Woody Allen,Celebrity (1998)
 5.9, Mike Van Diem,Character  (1998)
@@ -7080,6 +7084,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Chris Columbus,The Christmas Chronicles - Part Two
 5.0, Luke Greenfield,Half Brothers
 5.0, Sharon Maguire,Godmothered
+5.0, Steven Soderbergh,Let Them All Talk
 4.9, Luis Galvao Teles,Elles
 4.9, Shane Meadows,A Room For Romeo Brass
 4.9, Thomas Lee,Supernova
@@ -7523,6 +7528,7 @@ RATING,DIRECTOR,MOVIE
 4.5, Jacob Chase,Come Play
 4.5, Brenda Chapman,Come Away
 4.5, Ashley Avis,Black Beauty
+4.5, John Patrick Shanley,Wild Mountain Thyme
 4.4, Mike Mitchell,Deuce Bigalow Male Gigolo
 4.4, Eric Weber,Suits
 4.4, Joan Chen,Autumn In New York
