@@ -622,6 +622,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Michael Haneke,Cone Inconnu/ Code Unknown
 7.0, Manoel de Oliveira,I'm Going Home
 7.0, Takashi Miike,Visitor Q
+7.0, Barry Levinson,Bandits
 7.0, Zhangke Jia,Unknown Pleasures
 7.0, Carlos Reygadas,Japon
 7.0, Joao Pedro Rodrigues,O Fantasma
@@ -906,7 +907,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Andrew Bujalski,Beeswax
 7.0, Noah Buschel,The Missing Person
 7.0, Luca Guadagnino,I Am Love
-7.0, Pedro Almodovar,Broken Embraces
 7.0, Scott McGehee and David Siegel,Uncertainty
 7.0, Francis Ford Coppola,Tetro
 7.0, Henry Selick,Coraline
@@ -2979,6 +2979,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Martin Koolhoven,Winter in Wartime
 6.5, Darren Lynn Bousman,Repo The Genetic Opera
 6.5, Danis Tanovic,Cirkus Columbia
+6.5, Pedro Almodovar,Broken Embraces
 6.5, James Cameron,Avatar
 6.5, Athina Rachel Tsangari,Attenberg
 6.5, Craig Baldwin,Mock Up on Mu
@@ -3142,6 +3143,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Victoria Mahoney,Yelling to the Sky
 6.5, Zhang Yuan,Beijing Flickers
 6.5, Woody Allen,To Rome With Love
+6.5, Barry Levinson,The Bay
 6.5, Neil LaBute,Some Velvet Morning
 6.5, Eliza Hittman,It Felt Like Love (2014)
 6.5, Sion Sono,Why Don't You Play in Hell?
@@ -3510,7 +3512,6 @@ RATING,DIRECTOR,MOVIE
 6.3, Christopher Hanson,Scrapple
 6.3, Tim Blake Nelson,O
 6.3, Kevin Smith,Jay And Silent Bob Strike Again
-6.3, Barry Levinson,Bandits
 6.3, Babak Payami,Secret Ballot
 6.3, Robert Evans,The Kid Stays In The Picture
 6.3, Paul Greengrass,Bloody Sunday
@@ -5582,7 +5583,6 @@ RATING,DIRECTOR,MOVIE
 5.5, Gurvinder Singh,Alms for a Blind Horse
 5.5, Mike Birbiglia,Sleepwalk With Me
 5.5, Andrea Arnold,Wuthering Heights
-5.5, Barry Levinson,The Bay
 5.5, Lorraine Levy,The Other Son
 5.5, Bill Condon,The Twilight Saga: Breaking Dawn - Part 2
 5.5, Gabriele Muccino,Playing for Keeps
