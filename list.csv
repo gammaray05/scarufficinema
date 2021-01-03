@@ -72,6 +72,7 @@ RATING,DIRECTOR,MOVIE
 7.5, Michael Haneke,Happy End
 7.5, Zhangke Jia,Jiang hu er nv/ Ash is Purest White
 7.5, Bi Gan,Long Day's Journey Into Night
+7.4, Aleksei German,Khrustalyov Mashinu/ Khrustalyov my Car (1998)
 7.4, Guy Ritchie,Lock Stock And Two Smoking Barrels  (1998)
 7.4, Sam Mendes,American Beauty
 7.4, Mike Figgis,Time Code
@@ -623,6 +624,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Manoel de Oliveira,I'm Going Home
 7.0, Takashi Miike,Visitor Q
 7.0, Barry Levinson,Bandits
+7.0, Scott Reynolds,When Strangers Appear
 7.0, Zhangke Jia,Unknown Pleasures
 7.0, Carlos Reygadas,Japon
 7.0, Joao Pedro Rodrigues,O Fantasma
@@ -683,6 +685,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Sofia Coppola,Lost in Translation
 7.0, Joe Dante,Looney Tunes: Back in Action
 7.0, Gus Van Sant,Gerry
+7.0, Alan Parker,The Life of David Gale (2003)
 7.0, Hans Weingartner,The Edukators
 7.0, Cristi Puiu,Un Cartu de Kent i un Pachet de Cafea/ Cigarettes and Coffee
 7.0, Tony Gatlif,Exiles
@@ -1464,6 +1467,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Darius Marder,Sound of Metal
 7.0, Catarina Vasconcelos,A Metamorfoses dos Pasaros
 7.0, Kaveh Mazaheri,Botox
+7.0, Pete Docter & Kemp Powers,Soul
 6.9, Stephen Frears,The Hi-Lo Country  (1998)
 6.9, Takashi Miike,The Bird People in China
 6.9, Paul Auster,Lulu on the Bridge
@@ -2161,6 +2165,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Ken Loach,I Daniel Blake
 6.8, Robert Zemeckis,Allied
 6.8,  Scooter Corkle,Hollow in the Land
+6.8, Shinichiro Ueda,Kamera o Tomeru na/ Don't Stop the Camera/ One Cut of the Dead (2017)
 6.8, Emmanuel Gras,Makala
 6.8, Laurent Cantet,L'Atelier/ The Workshop
 6.8, Aki Kaurismaki,The Other Side of Hope
@@ -2312,7 +2317,6 @@ RATING,DIRECTOR,MOVIE
 6.7, Steve Buscemi,Animal Factory
 6.7, Don Roos,Bounce
 6.7, John Singleton,Baby Boy
-6.7, Scott Reynolds,When Strangers Appear
 6.7, Bernard Rapp,A Matter of Taste
 6.7, JeanLuc Godard,Eloge De L'amour/ In Praise of Love
 6.7, Alejandro Amen bar,The Others
@@ -2739,7 +2743,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Scott Roberts,The Hard Word
 6.5, Dev Anand,Love at Times Square
 6.5, Neil Hunter and Tom Hunsinger,Lawless Heart
-6.5, Alan Parker,The Life of David Gale
 6.5, srael Adrian Caetano,Bolivia
 6.5, Mars Callahan,Poolhall Junkies
 6.5, Chris Rock,Head of State
@@ -3323,6 +3326,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Ian Nelms & Eshom Nelms,Fatman
 6.5, Clea DuVall,Happiest Season
 6.5, Ekwa Msangi,Farewell Amor
+6.5, Emerald Fennell,Promising Young Woman
 6.4, Bryan Singer,Apt Pupil (1998)
 6.4, Tamara Jenkins,Slums of Beverly Hills (1998)
 6.4, Chris Columbus,Stepmom (1998)
@@ -3734,6 +3738,7 @@ RATING,DIRECTOR,MOVIE
 6.2, Antonio Campos,The Devil All the Time
 6.2, Alastair Orr,Triggered
 6.2, Ron Howard,Hillbilly Elegy
+6.2, George Clooney,The Midnight Sky
 6.1, Carl Franklin,One True Thing (1998)
 6.1, Warren Beatty,Bulworth (1998)
 6.1, Mike Nichols,Primary Colors  (1998)
@@ -4422,7 +4427,6 @@ RATING,DIRECTOR,MOVIE
 6.0, Ed Harris,Appaloosa
 6.0, Neil Lebute,Lakeview Terrace
 6.0, Raja Gosnell,Beverly Hills Chihuahua
-6.0, Ridley Scott,Body of Lies
 6.0, Oliver Stone,W
 6.0, John Moore,Max Payne
 6.0, Marianna Palka,Good Dick
@@ -5100,6 +5104,8 @@ RATING,DIRECTOR,MOVIE
 6.0, Eric Schultz,Minor Premise
 6.0, Reginald Hudlin,Safety
 6.0, Deepa Mehta,Funny Boy
+6.0, Paul Greengrass,News of the World
+6.0, Patrick Liu,Your Name Engraved Herein
 5.9, Alan Rudolph,Breakfast of Champions (1998)
 5.9, Woody Allen,Celebrity (1998)
 5.9, Mike Van Diem,Character  (1998)
@@ -7102,6 +7108,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Luke Greenfield,Half Brothers
 5.0, Sharon Maguire,Godmothered
 5.0, Steven Soderbergh,Let Them All Talk
+5.0, Maiwenn LeBesco,DNA Review: Digging for Roots
 4.9, Luis Galvao Teles,Elles
 4.9, Shane Meadows,A Room For Romeo Brass
 4.9, Thomas Lee,Supernova
@@ -7330,6 +7337,7 @@ RATING,DIRECTOR,MOVIE
 4.5, Ash Christian,Fat Girls
 4.5, Pratibha Parmar,Nina's Heavenly Delights
 4.5, Anne Fletcher,27 Dresses
+4.5, Ridley Scott,Body of Lies
 4.5, George Wolfe,Nights in Rodanthe
 4.5, Marcel Langenegger,Deception
 4.5, Martin McDonagh,In Bruges
@@ -7546,6 +7554,7 @@ RATING,DIRECTOR,MOVIE
 4.5, Brenda Chapman,Come Away
 4.5, Ashley Avis,Black Beauty
 4.5, John Patrick Shanley,Wild Mountain Thyme
+4.5, Patty Jenkins,Wonder Woman 1984
 4.4, Mike Mitchell,Deuce Bigalow Male Gigolo
 4.4, Eric Weber,Suits
 4.4, Joan Chen,Autumn In New York
