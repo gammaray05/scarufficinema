@@ -41,6 +41,7 @@ RATING,DIRECTOR,MOVIE
 7.6, Pedro Costa,Colossal Youth
 7.6, Johnnie To,Mad Detective
 7.6, Leos Carax,Holy Motors
+7.6, Aleksei German,Trudno byt' Bogom/ Hard to Be a God (2013)
 7.6, Ama Lily Amirpour,Dokhtari dar sab Tanha be Xane Miravad/ A Girl Walks Home Alone at Night
 7.6, Joachim Trier,Thelma
 7.5, Emir Kusturica,Black Cat White Cat (1998)
@@ -100,6 +101,7 @@ RATING,DIRECTOR,MOVIE
 7.4, Nuri Bilge Ceylan,Once Upon a Time in Anatolia
 7.4, Lars Von Trier,Melancholia
 7.4, Johnnie To,Drug War
+7.4, Thomas Vinterberg,Jagten/ The Hunt (2012)
 7.4, Lav Diaz,Norte Hangganan ng Kasaysayan/ Norte the End of History
 7.4, Bruno Dumont,Li'l Quinquin
 7.4, Ramin Bahrani,99 Homes
@@ -182,6 +184,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Goran Paskaljevic,Cabaret Balkan
 7.2, Bruno Dumont,La Vie de Jesus / The Life of Jesus (1997)
 7.2, Tony Scott,Enemy of the State (1998)
+7.2, Thomas Vinterberg,Festen/ The Celebration (1998)
 7.2, David Fincher,Fight Club
 7.2, Lee Myung-Se,Nowhere To Hide
 7.2, Abbas Kiarostami,The Wind Will Carry Us
@@ -315,7 +318,6 @@ RATING,DIRECTOR,MOVIE
 7.2, Christian Petzold,Undine
 7.2, Lili Horvat,Preparations to Be Together for an Unknown Period of Time
 7.1,  Tom Tykwer,Lola Rennt/ Run Lola Run
-7.1, Thomas Vinterberg,Festen/ The Celebration (1998)
 7.1, Steven Spielberg,Saving Private Ryan (1998)
 7.1,  Darren Aronofsky,Pi (1998)
 7.1, Alex Proyas,Dark City  (1998)
@@ -417,6 +419,7 @@ RATING,DIRECTOR,MOVIE
 7.1, Darren Aronofsky,Black Swan
 7.1, Mike Mills,Beginners
 7.1, Abdellatif Kechiche,Venus Noire/ Black Venus
+7.1, Alexander Zeidovich,Mishen/ Target
 7.1, Bertrand Bonello,L'Apollonide/ House of Pleasures
 7.1, Jafar Panahi,This Is Not a Film
 7.1, Sion Sono,Koi no Tsumi/ Guilty of Romance
@@ -444,7 +447,6 @@ RATING,DIRECTOR,MOVIE
 7.1, Rithy Panh,L'Image Manquante
 7.1, Albert Serra,Story of my Death
 7.1, Justine Triet,Act of Panic
-7.1, Aleksei German,Hard to Be a God
 7.1, Fernando Coimbra,A Wolf at the Door
 7.1, Joanna Hogg,Exhibition
 7.1, Darren-Paul Fisher,Frequencies
@@ -761,6 +763,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Alfonso Cuaron,Children of Men
 7.0, Alain Resnais,Coeurs/ Private Fears in Public Places
 7.0, Reha Erdem,Bes Vakit/ Times and Winds
+7.0, Konstantin Lopusanskij,Gadkie Iebedi/ The Ugly Swans
 7.0, Hirokazu Kore-eda,Hana
 7.0, Goran Paskaljevic,The Optimists
 7.0, Christian Volckman,Renaissance
@@ -997,7 +1000,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Sarah Polley,Take This Waltz
 7.0, Paolo Sorrentino,This Must Be the Place
 7.0, Andrew Haigh,Weekend
-7.0, Alexander Zeidovich,Target
 7.0, Dominik Graf,Don't Follow Me Around
 7.0, Gian Alfonso Pacinotti,L'Ultimo Terrestre
 7.0, Jean-Pierre and Luc Dardenne,The Kid With the Bike
@@ -1030,7 +1032,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Sergei Loznitsa,In the Fog
 7.0, Tobias Lindholm, A Hijacking
 7.0, Ziad Doueiri,The Attack
-7.0, Thomas Vinterberg,The Hunt
 7.0, Matias Pineiro,Viola
 7.0, Eduardo Nunes,Southwest
 7.0, Cate Shortland,Lore
@@ -2825,7 +2826,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Sebastien Lifshitz,Wild Side
 6.5, Paolo Virzi,Caterina in the Big City
 6.5, Bahman Ghobadi,Turtles Can Fly
-6.5, Peter and Bobby Farrelly,Fever Pitch
 6.5, Danny Boyle,Millions
 6.5, Minh Nguyen-Vo,Buffalo Boy
 6.5,  Christophe Honore,Ma Mere
@@ -6136,6 +6136,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Andre Wood,Machuca
 5.0, Antoine de Caunes,Monsieur N.
 5.0, Steve Carr,Rebound
+5.0, Peter and Bobby Farrelly,Fever Pitch
 5.0, Christopher Nolan,Batman Begins
 5.0, Thomas Bezucha,The Family Stone
 5.0, Margaret Brown,Be Here to Love Me
