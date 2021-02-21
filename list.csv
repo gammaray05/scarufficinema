@@ -83,6 +83,7 @@ RATING,DIRECTOR,MOVIE
 7.4, Jean-Pierre Jeunet,Amelie
 7.4, Aki Kaurismaki,The Man Without a Past
 7.4, Pedro Almodovar,Talk To Her
+7.4, Fernando Meirelles,City of God
 7.4, Henrik Ruben Genz,En som Hodder/ Someone Like Hodder
 7.4, Christian Petzold,Wolfsburg
 7.4, Kim Ki-duk,Binjip/ 3-Iron
@@ -149,7 +150,7 @@ RATING,DIRECTOR,MOVIE
 7.3, Ari Folman,Waltz with Bashir
 7.3, Nuri Bilge Ceylan,Uc Maymum/ Three Monkeys
 7.3, Corneliu Porumboiu,Police Adjective
-7.3, Michael Haneke,The White Ribbon
+7.3, Michael Haneke,Das Weisse Band/ The White Ribbon
 7.3, Claire Denis,White Material
 7.3, Raul Ruiz,Misterios de Lisboa/ Mysteries of Lisbon
 7.3, Gerardo Naranjo,Miss Bala
@@ -213,7 +214,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Shane Carruth,Primer
 7.2, Hiroyuki Imaishi,Dead Leaves
 7.2, Arnaud Desplechin,Rois et Reine/ Kings and Queen
-7.2, Alex De La Iglesia,El Crimen Perfecto
+7.2, Alex De La Iglesia,El Crimen Ferpecto
 7.2, Eugenio Polgovsky,Tropic of Cancer
 7.2, Lucrecia Martel,La Nina Santa/ The Holy Girl
 7.2, Don Roos,Happy Endings
@@ -1533,6 +1534,7 @@ RATING,DIRECTOR,MOVIE
 6.9, Hirokazu Kore-eda,Distance
 6.9, Robert Rodriguez,Spy Kids
 6.9, Mani Ratman,A Peck on the Cheek
+6.9, Damon Packard,Reflections of Evil (2002)
 6.9, Andrew Lau,Infernal Affairs
 6.9, Andreas Dresen,"""Halbe Treppe/ Grill Point"""
 6.9, Burr Steers,Igby Goes Down
@@ -1714,7 +1716,6 @@ RATING,DIRECTOR,MOVIE
 6.9, Jean-Pierre and Luc Dardenne,L'Enfant/ The Unknown Girl
 6.9, Whit Stillman,Love & Friendship
 6.9, Babak Anvari,Under the Shadow
-6.9, Leigh Whannell,Upgrade
 6.9, Robert Guediguian,The Villa
 6.9, Paul Smith,Paddington 2
 6.9, Denis Villeneuve,Blade Runner 2049
@@ -1745,7 +1746,6 @@ RATING,DIRECTOR,MOVIE
 6.9, Russell Harbaugh,Love After Love
 6.9, Boots Riley,Sorry to Bother You
 6.9, Peter Strickland,In Fabric
-6.9, Henry Dunham, The Standoff at Sparrow Creek
 6.9, Hiromasa Yonebayashi,Mary and the Witch
 6.9, Vanessa Filho,Angel Face
 6.9, Benedikt Erlingsson,Kona Fer I Strid/ Woman at War
@@ -1801,7 +1801,6 @@ RATING,DIRECTOR,MOVIE
 6.9, Jasmila Zbanic,Quo Vadis Aida
 6.9, Ana Vaz,Apiyemiyeki
 6.9, Tracy Deer,Beans
-6.9, Tomm Moore,Wolfwalkers
 6.9, Polly Draper,Shiva Baby
 6.9, Carlo Mirabella-Davis,Swallow
 6.9, Chaitanya Tamhane,The Disciple
@@ -1943,7 +1942,6 @@ RATING,DIRECTOR,MOVIE
 6.8, Olivier Assayas,Clean
 6.8, Xiao Jiang,Electric Shadows
 6.8, Michael Winterbottom,Code 46
-6.8, John Curran,We Don't Live Here Anymore
 6.8, Nicole Kassell,The Woodsman
 6.8, Richard Linklater,Before Sunset
 6.8, Francois Ozon,5x2
@@ -2237,7 +2235,6 @@ RATING,DIRECTOR,MOVIE
 6.8, Richard Stanley,Color Out of Space
 6.8, Craig Brewer,Dolemite Is My Name
 6.8, Malik Bader,Killerman
-6.8, Richard Linklater,"Where'd You Go, Bernadette"
 6.8, Elia Suleiman,It Must Be Heaven
 6.8, Ry Russo-Young,The Sun Is Also a Star
 6.8, Camille Vidal-Naquet,Sauvage / Wild
@@ -2248,9 +2245,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Alice Waddington,Paradise Hills
 6.8, Rashid Johnson,Native Son
 6.8, Justin Chon,Ms Purple
-6.8, Scott Burns,The Report
 6.8, Dan Gilroy,Velvet Buzzsaw
-6.8, Daniel Scheinert,The Death of Dick Long
 6.8, Joe Cornish,The Kid Who Would Be King
 6.8, Marcelo Martinessi,The Heiresses
 6.8, Bruce Thierry Cheung,Don't Come Back From the Moon
@@ -2582,6 +2577,7 @@ RATING,DIRECTOR,MOVIE
 6.6, Jordan Roberts,Burn Your Maps
 6.6, Ben Hernandez Bray,El Chicano
 6.6, David Yarovesky,Brightburn
+6.6, Daniel Scheinert,The Death of Dick Long
 6.6, Jessica Hausner,Little Joe
 6.6, Chad Stahelski,John Wick Chapter 3 Parabellum
 6.6, Michael Engler,Downton Abbey
@@ -2600,6 +2596,7 @@ RATING,DIRECTOR,MOVIE
 6.6, Gavin O'Connor,The Way Back
 6.6, Harry Bradbeer,Enola Holmes
 6.6, Sofia Coppola,On the Rocks
+6.6, Tomm Moore,Wolfwalkers
 6.6, Diane Paragas,Yellow Rose
 6.5, Bill Condon,Gods and Monsters (1998)
 6.5, Michael Almereyda,Trance (1998)
@@ -2691,7 +2688,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Chatrichalerm Yukol,Legend of Suriyothai
 6.5, Chen Kuo-fu,Double Vision
 6.5, Claire Denis,Friday Night (2001)
-6.5, Fernando Meirelles,City of God
 6.5, Joe Carnahan,Narc
 6.5, Roman Polanski,The Pianist
 6.5, Stephen Gaghan,Abandon
@@ -3012,7 +3008,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Andrzej Wajda,Katyn
 6.5, Astra Taylor,Examined Life
 6.5, John Maybury,The Edge of Love
-6.5, Majid Majidi,The Song of Sparrows
 6.5, Anna Broinowski,Forbidden Lies
 6.5, Alex Rivera,Sleep Dealer
 6.5, Gotz Spielmann,Revanche
@@ -3291,7 +3286,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Mimi Leder,On the Basis of Sex
 6.5, Travis Knight,Bumblebee
 6.5, Clint Eastwood,The Mule
-6.5, Bruce Hunt,The Cave
 6.5, Sion Sono,The Forest of Love (2019)
 6.5, Francois Girard,The Song of Names
 6.5, Alfonso Gomez-Rejon,The Current War
@@ -3321,7 +3315,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Autumn de Wilde,Emma
 6.5, Guy Ritchie,The Gentlemen
 6.5, Channing Godfrey Peoples,Miss Juneteenth
-6.5, Julie Taymor,The Glorias
 6.5, Phyllida Lloyd,Herself
 6.5, Benjamin Ree,The Painter and the Thief
 6.5, Sean Durkin,The Nest
@@ -3482,8 +3475,8 @@ RATING,DIRECTOR,MOVIE
 6.4, Felix Van Groeningen,Beautiful Boy
 6.4, Luca Guadagnino,Suspiria
 6.4, Marco Bellocchio,The Traitor
+6.4, Scott Burns,The Report
 6.4, Bertrand Bonello,Zombi Child
-6.4, Daniel Scheinert,The Death of Dick Long
 6.4, Jocelyn DeBoer & Dawn Luebbe,Greener Grass
 6.4, Gavin Hood,Official Secrets
 6.4, Jason Orley,Big Time Adolescence
@@ -3621,6 +3614,7 @@ RATING,DIRECTOR,MOVIE
 6.2, Robert Connolly,The Bank
 6.2, Jesse Peretz,The Chateau
 6.2, Helene Angel,"Skin of Man, Heart of Beast"
+6.2, John Curran,We Don't Live Here Anymore
 6.2, Kevin Smith,Clerks II
 6.2, Sang-soo Hong,Haebyonui Yoin/ Woman on the Beach
 6.2, Woody Allen,Scoop
@@ -3728,6 +3722,7 @@ RATING,DIRECTOR,MOVIE
 6.2, Peter Farrelly,Green Book
 6.2, Julien Landais,The Aspern Papers
 6.2, Josh Cooley,Toy Story 4
+6.2, Richard Linklater,"Where'd You Go, Bernadette"
 6.2, Rob Letterman,Pokemon Detective Pikachu
 6.2, Frant Gwo,Liu Lang Di Qiu/ The Wandering Earth
 6.2, Ralph Fiennes,The White Crow
@@ -4235,6 +4230,7 @@ RATING,DIRECTOR,MOVIE
 6.0, Scott McGehee and David Siegel,Bee Season
 6.0, Marco Bellocchio,"Good Morning, Night"
 6.0, Lasse Hallstrom,Casanova
+6.0, Bruce Hunt,The Cave
 6.0, Jonathan Dayton and Valerie Faris,Little Miss Sunshine
 6.0, Jonathan Dayton and Valerie Faris,Little Miss Sunshine
 6.0, Andy Garcia,The Lost City
@@ -5012,6 +5008,7 @@ RATING,DIRECTOR,MOVIE
 6.0, Andrew Neel,Goat
 6.0, Woody Allen,Cafe Society
 6.0, Bharat Nalluri,The Man Who Invented Christmas
+6.0, Leigh Whannell,Upgrade
 6.0, Andy Muschietti,It
 6.0, Lisa Robinson & Annie Howell,Claire in Motion
 6.0, Justin Chon,Gook
@@ -5263,7 +5260,6 @@ RATING,DIRECTOR,MOVIE
 5.8, Garth Davis,Mary Magdalene
 5.8, David Leitch,Fast & Furious Presents - Hobbs & Shaw
 5.8, Yuval Adler,The Operative
-5.8, Richard Linklater,Where'd You Go Bernadette
 5.8, Jon Lucas & Scott Moore,Jexi
 5.8, Ruben Fleischer,Zombieland - Double Tap
 5.8, Sergio Pablos,Klaus
@@ -6193,7 +6189,6 @@ RATING,DIRECTOR,MOVIE
 5.0, Steve Boyum,Supercross
 5.0, John Dahl,The Great Raid
 5.0, Mark Meily,La Visa Loca
-5.0, Bruce Hunt,The Cave
 5.0, Peter Hyams,A Sound of Thunder
 5.0, Lasse Hallstrom,An Unfinished Life
 5.0, Les Mayfield,The Man
@@ -7085,7 +7080,6 @@ RATING,DIRECTOR,MOVIE
 5.0, David Michod,The King
 5.0, Eric Notarnicola,Mister America
 5.0, Jocelyn DeBoer & Dawn Luebbe,Greener Grass
-5.0, Scott Burns,The Report
 5.0, Sophia Takal,Black Christmas
 5.0, Wilson Yip,Ip Man 4 The Finale
 5.0, Wilson Yip,The Song of Names
@@ -7114,7 +7108,6 @@ RATING,DIRECTOR,MOVIE
 5.0, Joe Marcantonio,Kindred
 5.0, Miles Joris-Peyrafitte,Dreamland
 5.0, Michael Angelo Covino,The Climb
-5.0, Tomm Moore & Ross Stewart,Wolfwalkers
 5.0, Edoardo Ponti,The Life Ahead
 5.0, Mike Rohl,The Princess Switch - Switched Again
 5.0, Matthew Michael Carnahan,Mosul
@@ -7168,7 +7161,6 @@ RATING,DIRECTOR,MOVIE
 4.8, John Wells,Burnt
 4.8, Zach Braff,Going in Style
 4.8, Tomas Alfredson,The Snowman
-4.8, Leigh Whannell,Upgrade
 4.8, Genndy Tartakovsky,Hotel Transylvania 3 - Summer Vacation
 4.8, Peter Berg,Mile 22
 4.8, Jonathan Watson,Arizona
@@ -7803,7 +7795,6 @@ RATING,DIRECTOR,MOVIE
 4.0,  Vadim Jean,Jiminy Glick in Lalawood
 4.0, Robert Rodriguez,The Adventures of Sharkboy and Lavagirl in 3-D
 4.0, Casper Andreas,Slutty Summer
-4.0, John Curran,You Don't Live Here Anymore
 4.0, Nora Ephron,Bewitched
 4.0, Tim Story,Fantastic Four
 4.0, Walter Salles,Dark Water
