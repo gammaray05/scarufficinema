@@ -73,7 +73,6 @@ RATING,DIRECTOR,MOVIE
 7.5, Michael Haneke,Happy End
 7.5, Zhangke Jia,Jiang hu er nv/ Ash is Purest White
 7.5, Bi Gan,Long Day's Journey Into Night
-7.4, Aleksei German,Khrustalyov Mashinu/ Khrustalyov my Car (1998)
 7.4, Guy Ritchie,Lock Stock And Two Smoking Barrels  (1998)
 7.4, Sam Mendes,American Beauty
 7.4, Mike Figgis,Time Code
@@ -1819,6 +1818,7 @@ RATING,DIRECTOR,MOVIE
 6.9, Lois Patino,Lua Vermella/ Red Moon Tide
 6.9, Phyllida Lloyd,Herself
 6.8, Pat O'Connor,Dancing at Lughnasa (1998)
+6.8, Aleksei German,Khrustalyov Mashinu/ Khrustalyov my Car (1998)
 6.8, Francois Ozon,Sitcom  (1998)
 6.8, Steven Soderbergh,Out Of Sight  (1998)
 6.8, Todd Haynes,Velvet Goldmine (1998)
@@ -5354,6 +5354,7 @@ RATING,DIRECTOR,MOVIE
 5.6, John Gallagher,Blue Moon
 5.6, John Carpenter,Ghost Of Mars
 5.6, Ivan Reitman,Old School
+5.6, James McTeigue,V for Vendetta
 5.6, Vicky Cristina,Barcelona  (2008)
 5.6, Sarah Smith,Arthur Christmas
 5.6, Joss Whedon,The Avengers
