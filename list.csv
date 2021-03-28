@@ -120,6 +120,7 @@ RATING,DIRECTOR,MOVIE
 7.4, Joon-ho Bong,Gisaengchung/ Parasite
 7.4, Ilya Khrzhanovskiy,DAU Natasha
 7.3, Walter Salles,Central Station (1998)
+7.3, Takeshi Miike,The Bird People in China (1998)
 7.3, Peter Weir,Truman Show  (1998)
 7.3,  Tsai Ming-Liang,Dong/ The Hole (1998)
 7.3, Veit Helmer,Tuvalu
@@ -163,6 +164,7 @@ RATING,DIRECTOR,MOVIE
 7.3, Jim Jarmusch,Paterson
 7.3, Hirokazu Kore-eda,After the Storm
 7.3, Cristi Puiu,Sieranevada
+7.3, Andrei Konchalovsky,Paradise
 7.3, Blake Williams,Prototype
 7.3, Christian Petzold,Transit
 7.3, Pawel Pawlikowski,Zimna Wojna/ Cold War
@@ -666,7 +668,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Todd Haynes,Far From Heaven
 7.0, Steven Spielberg,Catch Me if You
 7.0, Stephen Daldry,The Hours
-7.0, Satoshi Kon,Sennen Joyu/ Millennium Actress
 7.0, Paul Thomas Anderson,Punch-Drunk Love
 7.0, Luc Dardenne,Le Fils/ The Son
 7.0, Abbas Kiarostami,Ten
@@ -1376,6 +1377,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Joel & Ethan Coen,The Ballad Of Buster Scruggs
 7.0, Bruno Dumont,Jeannette
 7.0, Lorcan Finnegan,Vivarium
+7.0," Te-yin ""Midi Z"" Chao",Zhuo Ren Mi Mi/ Nina Wu
 7.0, Kenji Iwaisawa,On-Gaku - Our Sound
 7.0, David Perrault,L'Etat Sauvage/ Savage State
 7.0, Kaveh Mazaheri,Botox
@@ -1700,7 +1702,6 @@ RATING,DIRECTOR,MOVIE
 6.9, Joachim Lafosse,After Love
 6.9, Joseph Cedar,Cedar
 6.9, Federica DiGiacomo,Liberami
-6.9, Andrei Konchalovsky,Paradise
 6.9, Francois Ozon,Frantz
 6.9, Nathan Morlando,Mean Dreams
 6.9, David Mackenzie,Hell or High Water
