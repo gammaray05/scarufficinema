@@ -289,6 +289,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Anocha Suwichakornpong,By the Time It Gets Dark
 7.2, Paolo Genovese,Perfetti sconosciuti/ Perfect Strangers
 7.2, Olivier Assayas,Personal Shopper
+7.2, Paul Verhoeven,Elle
 7.2, Chloe Zhao,The Rider
 7.2, Lucrecia Martel,Zama
 7.2, Andrey Zvjagintsev,Nelyubov/ Loveless
@@ -494,7 +495,6 @@ RATING,DIRECTOR,MOVIE
 7.1, Joao Pedro Rodrigues,The Ornithologist
 7.1, Ralitza Petrova,Godless
 7.1, Cristian Mungiu,Bacalaureat/ Graduation
-7.1, Paul Verhoeven,Elle
 7.1, Ala Eddine Slim,The Last of Us
 7.1, Eugene Green,Le Fils de Joseph/ The Son of Joseph
 7.1, Asghar Farhadi,Forushande/ The Salesman
@@ -1396,7 +1396,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Karim Ainouz,Invisible Life of Euridice Gusmao
 7.0, Oualid Mouaness,1982
 7.0, Cory Finley,Bad Education
-7.0, Roy Andersson,About Endlessness
 7.0, Paolo Sorrentino,The New Pope
 7.0, Steven Soderbergh,The Laundromat
 7.0, Luc Besson,Anna
@@ -3245,6 +3244,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Travis Knight,Bumblebee
 6.5, Clint Eastwood,The Mule
 6.5, Sion Sono,The Forest of Love (2019)
+6.5, Roy Andersson,About Endlessness
 6.5, Christophe Honore', Chambre 212/ On a Magical Night
 6.5, Francois Girard,The Song of Names
 6.5, Alfonso Gomez-Rejon,The Current War
