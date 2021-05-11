@@ -24,7 +24,7 @@ RATING,DIRECTOR,MOVIE
 7.8, Alejandro Jodorowsky,The Dance of Reality
 7.8, Pedro Costa,Horse Money
 7.8, Alice Rohrwacher,Lazzaro Felice/ Happy as Lazzaro
-7.8, Ilya Khrzhanovskiy,Degeneratsia/ Degeneration
+7.8, Ilya Khrzhanovsky,Degeneratsia/ Degeneration
 7.7, Shohei Imamura,Dr Akagi (1998)
 7.7, Pedro Almodovar,Todo Sobre Mi Madre/ All About My Mother
 7.7, Christian Petzold,Die Innere Sicherheit/ The State I Am In (Germany)
@@ -77,7 +77,7 @@ RATING,DIRECTOR,MOVIE
 7.4,  Tsai Ming-Liang,Dong/ The Hole (1998)
 7.4, Sam Mendes,American Beauty
 7.4, Mike Figgis,Time Code
-7.4, Zhang-Ke Jia,Zhantai/ Platform
+7.4, Zhangke Jia,Zhantai/ Platform
 7.4, Wong Kar-wai,In the Mood For Love
 7.4, Lav Diaz,Batang West Side (2001)
 7.4, Jean-Pierre Jeunet,Amelie
@@ -120,7 +120,7 @@ RATING,DIRECTOR,MOVIE
 7.4, Yorgos Lanthimos,The Favourite
 7.4, John Maringouin,Ghostbox Cowboy
 7.4, Joon-ho Bong,Gisaengchung/ Parasite
-7.4, Ilya Khrzhanovskiy,DAU Natasha
+7.4, Ilya Khrzhanovsky,DAU Natasha
 7.3, Walter Salles,Central Station (1998)
 7.3, Takeshi Miike,The Bird People in China (1998)
 7.3, Peter Weir,Truman Show  (1998)
@@ -145,6 +145,7 @@ RATING,DIRECTOR,MOVIE
 7.3, Jacques Audiard,De Battre Mon Cour S'Est Arrete'/ The Beat That My Heart Skipped
 7.3, Shane Black,Kiss Kiss Bang Bang
 7.3, Joon-Ho Bong,Gwoemul/ The Host
+7.3,  Paul Verhoeven,Zwartboek/ Black Book
 7.3, Paolo Sorrentino,L'Amico di Famiglia
 7.3, Chan-wook Park,Ssaibogeujiman Gwaenchana/ I'm a Cyborg but that's OK
 7.3, Christopher Nolan,The Prestige
@@ -211,7 +212,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Steven Spielberg,Minority Report
 7.2, Lynne Ramsay,Morvern Callar
 7.2, Marco-Tullio Giordana,La Meglio Gioventu'/ The Best of Youth
-7.2, Andrej Zvjagintsev,Vozvrashcheniye/ The Return
+7.2, Andrej Zvyagintsev,Vozvrashcheniye/ The Return
 7.2, Mark and Michael Polish,Northfork
 7.2, Robert Lepage,Far Side of the Moon
 7.2, Nimrod Antal,Kontroll
@@ -241,6 +242,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Ming-Liang Tsai,Hei Yan Quan/ I Don't Want to Sleep Alone
 7.2, Corneliu Porumboiu,A Fost Sau N-a Fost?/ Was There or Wasn't There?/ 12:08 East of Bucharest
 7.2, Paul Thomas Anderson,There Will Be Blood
+7.2, Gus Van Sant,Paranoid Park
 7.2, Sergey Dvortsevoy,Tulpan
 7.2, Mariano Llinas,Extraordinary Stories
 7.2, Albert Serra,El Cant dels Ocells/ Birdsong
@@ -292,7 +294,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Paul Verhoeven,Elle
 7.2, Chloe Zhao,The Rider
 7.2, Lucrecia Martel,Zama
-7.2, Andrey Zvjagintsev,Nelyubov/ Loveless
+7.2, Andrey Zvyagintsev,Nelyubov/ Loveless
 7.2, Agnieszka Holland,Spoor
 7.2, Greg Zglinski,Animals
 7.2, Craig Zahler,Brawl in Cell Block 99
@@ -324,6 +326,9 @@ RATING,DIRECTOR,MOVIE
 7.2, Christian Petzold,Undine
 7.2, Lili Horvat,Preparations to Be Together for an Unknown Period of Time
 7.2, Thomas Vinterberg,Druk/ Another Round
+7.2, Radu Jude,Bad Luck Banging or Loony Porn
+7.2, Alexandre Koberidze,What Do We See When We Look at the Sky?
+7.2, Rose Glass,Saint Maud
 7.1,  Tom Tykwer,Lola Rennt/ Run Lola Run
 7.1, Steven Spielberg,Saving Private Ryan (1998)
 7.1,  Darren Aronofsky,Pi (1998)
@@ -365,7 +370,6 @@ RATING,DIRECTOR,MOVIE
 7.1, Bruno Dumont,Twentynine Palms
 7.1, Gus Van Sant,Elephant
 7.1, Wolfgang Becker,Good Bye Lenin
-7.1, Christoffer Boe,Reconstruction
 7.1, Ferzan Ozpetek,Facing Windows
 7.1, Benoit Jacquot,A Toute de Suite
 7.1, Francois Favrat,Le Role de sa Vie/ The Role of Her Life
@@ -399,7 +403,6 @@ RATING,DIRECTOR,MOVIE
 7.1, Julian Schnabel,Le Scaphandre et le Papillon/ The Diving Bell and the Butterfly
 7.1, Tony Gilroy,Michael Clayton
 7.1, Alexander Sokurov,Alexandra
-7.1, Gus Van Sant,Paranoid Park
 7.1, Roy Andersson,You the Living
 7.1, Harmony Korine,Mister Lonely
 7.1, Luis Piedrahita & Rodrigo Sopena,La Habitacion de Fermat/ Fermat's Room
@@ -483,7 +486,7 @@ RATING,DIRECTOR,MOVIE
 7.1, Trey Edward Shults,Krisha
 7.1, Lars Kraume,The People vs Fritz Bauer
 7.1, Tim Blake Nelson,Anesthesia
-7.1, Aleksander Sokurov,Francofonia
+7.1, Aleksandr Sokurov,Francofonia
 7.1, Sebastian Schipper,Victoria
 7.1, Sean Baker,Tangerine
 7.1, Alex Garland,Ex Machina
@@ -544,7 +547,6 @@ RATING,DIRECTOR,MOVIE
 7.1, Jung-bum Park,Height Of The Wave
 7.1, Deon Taylor,Black and Blue
 7.1, Minhal Baig,Hala
-7.1, Noah Baumbach,Marriage Story
 7.1, Benny & Josh Safdie,Uncut Gems
 7.1, Kitty Green,The Assistant
 7.1, Sam Mendes,1917
@@ -560,6 +562,15 @@ RATING,DIRECTOR,MOVIE
 7.1, Michel Franco,Nuevo Orden
 7.1, Cristi Puiu,Malmkrog
 7.1, Majid Majidi,Khorshid/ Sun Children
+7.1, Denes Nagy,Natural Light
+7.1, Le Bao,Taste
+7.1, Viggo Mortensen,Falling
+7.1, Fran Kranz,Mass
+7.1, Sian Heder,CODA
+7.1, Amalia Ulman,El Planeta
+7.1, Dash Shaw,Cryptozoo
+7.1, Iuli Gerbase,The Pink Cloud
+7.1, Ana Katz,The Dog Who Wouldn't Be Quiet
 7.0, Sang-soo Hong,Kangwon-do Ui Him/ The Power of Kangwon Province (1998)
 7.0, Vincent Gallo,Buffalo '66 (1998)
 7.0, Erik Skjoldbjaerg,Insomnia (1997)
@@ -582,7 +593,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Atom Egoyan,Felicia's Journey
 7.0, John Sayles,Limbo
 7.0, Lawrence Kasdan,Mumford
-7.0, Chen,The Emperor And The Assassin
+7.0, Chen Kaige,The Emperor And The Assassin
 7.0, Harold Ramis,Analyze This
 7.0, Mike Figgis,The Loss Of Sexual Innocence
 7.0, Wachowski Brothers,Matrix
@@ -649,7 +660,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Tom Tykwer,Heaven
 7.0, Atom Egoyan,Ararat
 7.0, Elia Suleiman,Intervention Divine
-7.0, Marco Bellochio,L'ora di religione/ The Hour of Religion
 7.0, Olivier Assayas,Les Destinees
 7.0, Ake Sandgren,Et rigtigt menneske/ Truly Human
 7.0, Achero Manas,El Bola
@@ -673,7 +683,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Lukas Moodysson,Lilya 4-Ever
 7.0, Manoel DeOliveira,7.0 A Talking Picture
 7.0, Bertrand Bonello,Tiresia
-7.0, Savi Gavison,Ha-Asonot Shel Nina/ Nina's Tragedies
+7.0, Savi Gabizon,Ha-Asonot Shel Nina/ Nina's Tragedies
 7.0, Tareque Masud,The Clay Bird
 7.0, David Mackenzie,Young Adam
 7.0, Per Fly,Arven/ Inheritance
@@ -806,7 +816,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Claude Miller,A Secret
 7.0, Avi Nesher,The Secrets
 7.0, Sol Tyron,The Living Wake
-7.0, Ulrich Seidi,Import Export
+7.0, Ulrich Seidl,Import Export
 7.0, Milcho Manchevski,Shadows
 7.0, Bent Hamer,O'Horten
 7.0, Jean-Francois Richet,Mesrine
@@ -832,7 +842,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Alexandra Lipsitz,Air Guitar Nation
 7.0, Edgar Wright,Hot Fuzz
 7.0, Brian Jun,Steel City
-7.0, Andrei Zviagintsev,Izgnanie/ The Banishment
+7.0, Andrei Zvyagintsev,Izgnanie/ The Banishment
 7.0, Naomi Kawase,Mogari No Mari/ The Mourning Forest
 7.0, Fatih Akin,Auf der Anderen Seite/ The Edge of Heaven
 7.0, Judd Apatow,Knocked Up
@@ -1205,7 +1215,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Jonas Carpignano,Mediterranea
 7.0, Quentin Tarantino,The Hateful Eight
 7.0, Sam De Jong,Prince
-7.0, Alexey German,Under Electric Clouds
+7.0, Aleksei German,Under Electric Clouds
 7.0, Jayro Bustamante,Ixcanul Volcano
 7.0, Malgorzata Szumowska,Body
 7.0, Spike Lee,Chi-Raq
@@ -1347,7 +1357,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Wes Anderson,Isle Of Dogs
 7.0, Steven Soderbergh,Unsane
 7.0, Philip Groening,My Brother's Name Is Robert and He Is an Idiot
-7.0, Aleksey German,Dovlatov
+7.0, Aleksei German,Dovlatov
 7.0, Adina Pintilie,Touch Me Not
 7.0, Erik Poppe,U - July 22
 7.0, John Krasinski,A Quiet Place
@@ -1363,6 +1373,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Sebastian Silva,Tyrel
 7.0, Joel & Ethan Coen,The Ballad Of Buster Scruggs
 7.0, Bruno Dumont,Jeannette
+7.0, Noah Baumbach,Marriage Story
 7.0, Trey Edward Shults,Waves
 7.0, Maria Sodahl,Hope
 7.0, Lorcan Finnegan,Vivarium
@@ -1417,7 +1428,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Mamadou Dia,Nafi's Father
 7.0, Melina Matsoukas,Queen & Slim
 7.0, Ladj Ly,Les Miserables
-7.0, Tom Harper,"""The Aeronauts"""
+7.0, Tom Harper,The Aeronauts
 7.0, Adam Egypt Mortimer,Daniel Isn't Real
 7.0, Bruno Dumont,Joan of Arc
 7.0, Kleber Mendonca Filho & Juliano Dornelles,Bacurau
@@ -1431,7 +1442,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Steve McQueen,Mangrove
 7.0, Chaitanya Tamhane,The Disciple
 7.0, Regina King,One Night in Miami
-7.0, Andrej Koncalovskij,Dorogie Tovarishchi/ Dear Comrades
+7.0, Andrej Konchalovsky,Dorogie Tovarishchi/ Dear Comrades
 7.0, Kiyoshi Kurosawa,Supai no Tsuma/ Wife of a Spy
 7.0, Rodd Rathjen,Buoyancy
 7.0, Charlie Kaufman,I'm Thinking of Ending Things
@@ -1462,6 +1473,30 @@ RATING,DIRECTOR,MOVIE
 7.0, Alexandre Franchi,Happy Face
 7.0, Catarina Vasconcelos,A Metamorfoses dos Pasaros
 7.0, Pete Docter & Kemp Powers,Soul
+7.0, Ryusuke Hamaguchi,Wheel of Fortune and Fantasy
+7.0, Andreas Fontana, Azor
+7.0, Sang-soo Hong,Introduction
+7.0, Alice Diop,We
+7.0, Denis Cote,Special Hygiene
+7.0, Celine Sciamma,Petite Maman
+7.0, Ephraim Asili,The Inheritance
+7.0, Jane Schoenbrun,We're All Going to the World's Fair
+7.0, Rebecca Hall,Passing
+7.0, Blerta Basholli,Zgjoi/ Hive
+7.0, Christopher Makoto Yogi,I Was a Simple Man
+7.0, Theo Anthony,All Light Everywhere
+7.0, Ben Wheatley,In The Earth
+7.0, Jerrod Carmichael,On the Count of Three
+7.0, Lyle Mitchell Corbine,Wild Indian
+7.0, Simon Stone,The Dig
+7.0, Shaka King,Judas and the Black Messiah
+7.0, Lee Isaac Chung,Minari
+7.0, Azazel Jacobs,French Exit
+7.0, Shatara Michelle Ford,Test Pattern
+7.0, Daniel Grou,Mafia Inc
+7.0, Florian Zeller,The Father
+7.0, Emma Seligman,Shiva Baby
+7.0, Burhan Qurbani,Berlin Alexanderplatz
 6.9, Stephen Frears,The Hi-Lo Country  (1998)
 6.9, Takashi Miike,The Bird People in China
 6.9, Paul Auster,Lulu on the Bridge
@@ -1470,7 +1505,7 @@ RATING,DIRECTOR,MOVIE
 6.9, Terrence Malick,The Thin Red Line  (1998)
 6.9, Martin Scorsese,Kundun  (1998)
 6.9, Peter & Bobby Farrelly,There's Something About Mary (1998)
-6.9, Erick Zonka,The Dreamlife of Angels
+6.9, Erick Zonca,The Dreamlife of Angels
 6.9, Paul Thomas Anderson,Magnolia
 6.9, Alexander Sokurov,Moloch
 6.9, Dean Parisot,Galaxy Quest
@@ -1517,10 +1552,10 @@ RATING,DIRECTOR,MOVIE
 6.9, Todd Solondz,Storytelling
 6.9, Hirokazu Kore-eda,Distance
 6.9, Robert Rodriguez,Spy Kids
-6.9, Mani Ratman,A Peck on the Cheek
+6.9, Mani Ratnam,A Peck on the Cheek
 6.9, Damon Packard,Reflections of Evil (2002)
 6.9, Andrew Lau,Infernal Affairs
-6.9, Andreas Dresen,"""Halbe Treppe/ Grill Point"""
+6.9, Andreas Dresen,Halbe Treppe/ Grill Point
 6.9, Burr Steers,Igby Goes Down
 6.9, Claude Miller,Alias Betty
 6.9, Sam Mendes,The Road To Perdition
@@ -1602,8 +1637,8 @@ RATING,DIRECTOR,MOVIE
 6.9, Patricio Guzman,Nostalgia for the Light
 6.9, Catherine Breillat,Sleeping Beauty
 6.9, Alain Corneau,Love Crime
-6.9, JC Chandor,"""Margin Call"""
-6.9, Nanni Moretti,"""We Have a Pope"""
+6.9, JC Chandor,Margin Call
+6.9, Nanni Moretti,We Have a Pope
 6.9, Steven Soderbergh,Contagion
 6.9, Joe Carnahan,The Grey
 6.9, Christophe Honore,Beloved
@@ -1773,7 +1808,6 @@ RATING,DIRECTOR,MOVIE
 6.9, Jill Culton,"Abominable Review: Are We There, Yeti?"
 6.9, Nadav Lapid,Synonyms
 6.9, Pedro Almodovar,Dolor y Gloria/ Pain and Glory
-6.9, Taika Watiti,JoJo Rabbit
 6.9, Damiano & Fabio D'Innocenzo,Favolacce
 6.9, Brandon Cronenberg,Possessor
 6.9, Ana Vaz,Apiyemiyeki
@@ -1793,6 +1827,10 @@ RATING,DIRECTOR,MOVIE
 6.9, Lois Patino,Lua Vermella/ Red Moon Tide
 6.9, Emerald Fennell,Promising Young Woman
 6.9, Philippe Lacote,Night of the Kings
+6.9, Jonas Poher Rasmussen,Flee
+6.9, Ninja Thyberg,Pleasure
+6.9, Natalia Almada,Users
+6.9, Robin Wright,Land
 6.8, Pat O'Connor,Dancing at Lughnasa (1998)
 6.8, Hideo Nakata,Ringu (1998)
 6.8, Aleksei German,Khrustalyov Mashinu/ Khrustalyov my Car (1998)
@@ -1805,6 +1843,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Richard Kwietniowski,Love And Death On Long Island  (1998)
 6.8, Marc Levin,Slam (1998)
 6.8, John Boorman,General (1998)
+6.8, Mark Herman,Little Voice (1998)
 6.8, Oliver Stone,Any Given Sunday
 6.8, Zhang Yang,Shower
 6.8, James Mangold,Girl Interrupted
@@ -1841,10 +1880,9 @@ RATING,DIRECTOR,MOVIE
 6.8, Jonathan Mostow,U-571
 6.8, Regis Wargnier,East-West
 6.8, Julian Temple,The Filth And The Fury
-6.8, Soren Kragh-Jacobse,Mifune
 6.8, Spike Lee,Bamboozled
 6.8, Sofia Coppola,The Virgin Suicides
-6.8, Liv Ullman,Faithless
+6.8, Liv Ullmann,Faithless
 6.8, Donald Petrie,Miss Congeniality
 6.8, Richard Linklater,Tape
 6.8, Tsui Hark,The Legend of Zu
@@ -1856,7 +1894,6 @@ RATING,DIRECTOR,MOVIE
 6.8, Nanni Moretti,La Stanza Del Figlio
 6.8, Catherine Breillat,Fat Girl
 6.8, Majid Majidi,Baran
-6.8, Jafar Pahani,The Circle
 6.8, Rose Troche,The Safety of Objects
 6.8, Ben Stiller,Zoolander
 6.8, Martin Koolhoven,AmnesiA
@@ -1887,7 +1924,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Peter Care,The Dangerous Life of Altar Boys
 6.8, Kathryn Bigelow,K-19 The Widowmaker
 6.8, Julie Davis,Amy's Orgasm
-6.8, Oliver Hirshbiegel,Das Experiment
+6.8, Oliver Hirschbiegel,Das Experiment
 6.8, Eriq La Salle,Crazy as Hell
 6.8, Olivier Assayas,Demonlover
 6.8, David Cronenberg,Spider
@@ -1940,7 +1977,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Night Shyamalan,Lady in the Water
 6.8, Nicole Holofcener,Friends With Money
 6.8, Asghar Farhadi,Shahr-E Ziba/ Beautiful City
-6.8, Rowan Wood,Little Fish
+6.8, Rowan Woods,Little Fish
 6.8, Robinson Devor,Police Beat
 6.8, Marc Forster,Stranger Than Fiction
 6.8, Goran Dukic,Wristcutters
@@ -2041,7 +2078,6 @@ RATING,DIRECTOR,MOVIE
 6.8, Tomas Alfredson,Tinker Tailor Soldier Spy
 6.8, Tony Kaye,Detachment
 6.8, Mariette Monpierre,Elza
-6.8, Don Herzfeldt,It's Such A Beautiful Day
 6.8, Kim Ki-duk,Pieta
 6.8, Scott Derrickson,Sinister
 6.8, Sam Fell and Chris Butler,ParaNorman
@@ -2252,6 +2288,13 @@ RATING,DIRECTOR,MOVIE
 6.8, Kiyoshi Kurosawa,To the Ends of the Earth
 6.8, Kirill Sokolov,Papa Sdokhni/ Why Don't You Just Die
 6.8, Kaouther Ben Hania,Ar-rajul Alladi ba'a Zahrihu/ The Man Who Sold His Skin
+6.8, Argyris Papadimitropoulos,Monday
+6.8, Joe and Anthony Russo,Cherry
+6.8, J Blakeson,I Care a Lot
+6.8, Corinna Faith,The Power
+6.8, Khyentse Norbu,Looking for a Lady with Fangs and a Moustache
+6.8, Ben Sharrock,Limbo
+6.8, Tran Quoc Bao,The Paper Tigers
 6.7,  Eric Rohmer,Comte d'Automne/ Autumn Tale (1998)
 6.7, Bertrand Bonello,Something Organic
 6.7, Amos Gitai,Yom Yom
@@ -2290,7 +2333,7 @@ RATING,DIRECTOR,MOVIE
 6.7, John Singleton,Baby Boy
 6.7, Bernard Rapp,A Matter of Taste
 6.7, JeanLuc Godard,Eloge De L'amour/ In Praise of Love
-6.7, Alejandro Amen bar,The Others
+6.7, Alejandro Amenabar,The Others
 6.7, Joel Coen,The Man Who Wasn't There
 6.7, Dominic Sena,Swordfish
 6.7, Thomas Bezucha,Big Eden
@@ -2381,7 +2424,7 @@ RATING,DIRECTOR,MOVIE
 6.7, Dan Krauss,The Kill Team
 6.7, Arnaud Desplechin,Roubaix une Lumiere/ Oh Mercy
 6.7, John Hyams,Alone
-6.7, Andrej Khrzhanovskiy,Nos ili Zagovor Netakih/ The Nose or Cospiracy of Mavericks
+6.7, Andrej Khrzhanovsky,Nos ili Zagovor Netakih/ The Nose or Cospiracy of Mavericks
 6.7, Michaela Coel,I May Destroy You
 6.7, Ina Weisse,The Audition
 6.7, John Turturro,The Jesus Rolls
@@ -2389,6 +2432,9 @@ RATING,DIRECTOR,MOVIE
 6.7, Sergio Navarretta,The Cuban
 6.7, Steve McQueen,Lovers Rock
 6.7, Pedro Almodovar,The Human Voice
+6.7, Rodrigo Garcia,Four Good Days
+6.7, Naomi Kawase,True Mothers
+6.7, Nikole Beckwith,Together Together
 6.6, John Dahl,Rounders (1998)
 6.6, Abel Ferrara,Blackout  (1997)
 6.6, David Rabe,Hurlyburly (1998)
@@ -2396,7 +2442,7 @@ RATING,DIRECTOR,MOVIE
 6.6, Frank Darabont,Green Mile
 6.6, Adam Abraham,Man of the Century
 6.6, Jose Luis Garci,The Grandfather
-6.6, Malcom Lee,The Best Man
+6.6, Malcolm Lee,The Best Man
 6.6, Steven Zaillian,A Civil Action
 6.6, Nancy Savoca,The 24-hour Woman
 6.6, Clint Eastwood,True Crime
@@ -2405,7 +2451,7 @@ RATING,DIRECTOR,MOVIE
 6.6, Carlos Diegues,Orfeu
 6.6, Elias Merhige,Shadow of the Vampire
 6.6, Fernando Perez,Life Is To Whistle
-6.6, David Twoshy,Pitch Black
+6.6, David Twohy,Pitch Black
 6.6, Woody Allen,Small Time Crooks
 6.6, Patrice Leconte,The Widow Of St Pierre
 6.6, Takashi Miike,The Happiness of the Katakuris
@@ -2464,7 +2510,7 @@ RATING,DIRECTOR,MOVIE
 6.6, Francois Ozon,Dans la Maison/ In the House
 6.6, David Cronenberg,Cosmopolis
 6.6, Bryan Singer,Jack the Giant Slayer
-6.6, Corneliu Porumboiu,"""Cand se lasa seara peste Bucuresti sau metabolism (/ When Evening Falls on Bucharest or Metabolism"""
+6.6, Corneliu Porumboiu,Cand se lasa seara peste Bucuresti sau metabolism (/ When Evening Falls on Bucharest or Metabolism
 6.6, Abdellatif Kechiche,La Vie d'Adele/ Blue is the Warmest Color
 6.6, Luc Besson,Family
 6.6, Sebastian Cordero,Europa Report
@@ -2497,7 +2543,7 @@ RATING,DIRECTOR,MOVIE
 6.6, Roberto Minervini,The Other Side
 6.6, Danis Tanovic,Death in Sarajevo
 6.6, James Bobin,Alice Through the Looking Glass
-6.6, Rodrigo Garc¡a,Last Days in the Desert
+6.6, Rodrigo Garcia,Last Days in the Desert
 6.6, Luca Guadagnino,A Bigger Splash
 6.6, Byron Howard & Rich Moore,Zootopia
 6.6, Dennis Hauck,Too Late
@@ -2561,6 +2607,10 @@ RATING,DIRECTOR,MOVIE
 6.6, Sofia Coppola,On the Rocks
 6.6, Tomm Moore,Wolfwalkers
 6.6, Diane Paragas,Yellow Rose
+6.6, Lena Khan,Flora & Ulysses
+6.6, Ramin Bahrani,The White Tiger
+6.6, Mona Fastvold,The World to Come
+6.6, Oliver Hermanus,Moffie
 6.5, Bill Condon,Gods and Monsters (1998)
 6.5, Michael Almereyda,Trance (1998)
 6.5, Wes Anderson,Rushmore (1998)
@@ -2571,7 +2621,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Barry Levinson,Sphere  (1998)
 6.5, Pedro Almodovar,Live Flesh  (1998)
 6.5, Peter Antonijevic,Savior (1998)
-6.5, Liv Ullman,Private Confessions (1998)
+6.5, Liv Ullmann,Private Confessions (1998)
 6.5, David Mamet,Winslow Boy
 6.5, Tim Roth,The War Zone
 6.5, Martin Scorsese,Bringing Out The Dead
@@ -2638,6 +2688,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Jan Svankmajer,Little Otik
 6.5, Irwin Winkler,Life as a House
 6.5, Richard Eyre,Iris
+6.5, Marco Bellochio,L'Ora di Religione/ The Hour of Religion/ My Mother's Smile
 6.5, Mark Pellington,The Mothman Prophecies
 6.5, Jill Sprecher,Thirteen Conversations About One Thing
 6.5,  Michel Deville,Almost Peaceful
@@ -2671,7 +2722,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Malcolm Lee,Undercover Brother
 6.5, Fred Schepisi,Last Orders
 6.5, Harry Shearer,Teddy Bears' Picnic
-6.5, Wally Wolodarsky,Sorority Boys
+6.5, Wallace Wolodarsky,Sorority Boys
 6.5, Ilya Chaiken,Margarita Happy Hour
 6.5, Christine Jeffs,Rain
 6.5, Clare Peploe,The Triumph of Love
@@ -2698,6 +2749,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Charles Herman-Wurmfeld,Kissing Jessica Stein
 6.5, Eytan Fox,Yossi and Jagger
 6.5, Constantin Costa-Gavras,Amen
+6.5, Julie Bertuccelli,Since Otar Left
 6.5, Joel Coen,Intolerable Cruelty
 6.5, Nicolas Winding Refn,Fear X
 6.5, Joe Maggio,Milk and Honey
@@ -2711,7 +2763,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Scott Roberts,The Hard Word
 6.5, Dev Anand,Love at Times Square
 6.5, Neil Hunter and Tom Hunsinger,Lawless Heart
-6.5, srael Adrian Caetano,Bolivia
+6.5, Israel Adrian Caetano,Bolivia
 6.5, Mars Callahan,Poolhall Junkies
 6.5, Chris Rock,Head of State
 6.5, Wiebke von Carolsfeld,Marion Bridge
@@ -2750,7 +2802,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Tony Scott,Man on Fire
 6.5, Evan Oppenheimer,Justice
 6.5, Guy Maddin,The Saddest Music in the World
-6.5, Julie Bertucelli,Since Otar Left
 6.5, Yann Samuell,Love Me If You Dare
 6.5,  Jared Hess,Napoleon Dynamite
 6.5, Mike Hodges,I'll Sleep When I'm Dead
@@ -2843,7 +2894,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Susanne Bier,Things We Lost in the Fire
 6.5, Wong Kar-wai,My Blueberry Nights
 6.5, Peter Greenaway,Nightwatching
-6.5, Miike Takashi,Sukyiaki Western Django
+6.5, Takashi Miike,Sukyiaki Western Django
 6.5, Ken Loach,It's a Free World
 6.5, Boaz Yakin,Death in Love
 6.5, Lee Isaac Chung,Munyurangabo
@@ -2909,7 +2960,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Clark Gregg,Choke
 6.5, Sam Garbarski,Irina Palm
 6.5, Adam Brooks,Definitely Maybe
-6.5, Baltasar Korm kur,Jar City
+6.5, Baltasar Kormakur,Jar City
 6.5, Paulo Morelli,City of Men
 6.5, H. S. Miller,Anamorph
 6.5, Ira Sachs,Married Life
@@ -2947,6 +2998,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Martin Koolhoven,Winter in Wartime
 6.5, Darren Lynn Bousman,Repo The Genetic Opera
 6.5, Danis Tanovic,Cirkus Columbia
+6.5, Andre' Techine',The Girl on the Train
 6.5, Pedro Almodovar,Broken Embraces
 6.5, James Cameron,Avatar
 6.5, Athina Rachel Tsangari,Attenberg
@@ -3001,7 +3053,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Hossein Keshavarz,Dog Sweat
 6.5, Sion Sono,Cold Fish
 6.5, Amos Gitai,Carmel
-6.5, Andre Technie,The Girl on the Train
 6.5, Andrey Khrzhanovsky,A Room and a Half
 6.5, Paul Greengrass,Green Zone
 6.5, Conor McPherson,The Eclipse
@@ -3013,7 +3064,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Jean-Pierre Jeunet,Micmacs
 6.5, Jan Kounen,Coco Chanel & Igor Stravinsky
 6.5, Aaron Schneider,Get Low
-6.5, Samuel Moaz,Lebanon
+6.5, Samuel Maoz,Lebanon
 6.5, Rob Reiner,Flipped
 6.5, Daniele Thompson,Change of Plans
 6.5, Jeff Mizushima,Etienne
@@ -3030,7 +3081,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Edward Zwick,Love & Other Drugs
 6.5, John Wells,The Company Men
 6.5, Nicolas Philibert,Nenette
-6.5, Alejandro Gonzalez Inarritu,Biutiful
+6.5, Alejandro Inarritu,Biutiful
 6.5, Celine Sciamma,Tomboy
 6.5, Hirokazu Kore-eda,Kiseki/ I Wish
 6.5, Jean-Pierre Ameris,Les Emotifs Anonymes
@@ -3042,7 +3093,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Valerie Donzelli,Declaration of War
 6.5, Alison Bagnall,The Dish & the Spoon
 6.5, Juan Carlos Fresnadillo,Intruders
-6.5, Daniel Nettheim,"""The Hunter"""
+6.5, Daniel Nettheim,The Hunter
 6.5, Philippe Falardeau,Monsieur Lazhar
 6.5, Ann Hui,A Simple Life
 6.5, Feo Aladag,When We Leave
@@ -3287,6 +3338,16 @@ RATING,DIRECTOR,MOVIE
 6.5, Ian Nelms & Eshom Nelms,Fatman
 6.5, Clea DuVall,Happiest Season
 6.5, Ekwa Msangi,Farewell Amor
+6.5, Regina King,One Night in Miami
+6.5, Kerem Sanga,The Violent Heart
+6.5, Kevin Macdonald,The Mauritanian
+6.5, Ilya Naishuller,Nobody
+6.5, Dusty Mancinelli & Madeleine Sims-Fewer,Violation
+6.5, Ben Wheatley,In the Earth
+6.5, Bettina Oberli,My Wonderful Wanda
+6.5, Rodrigo Bellott,Tu Me Manques
+6.5, Michael Rianda,The Mitchells vs. the Machines
+6.5, Wagner Moura,Marighella
 6.4, Bryan Singer,Apt Pupil (1998)
 6.4, Tamara Jenkins,Slums of Beverly Hills (1998)
 6.4, Chris Columbus,Stepmom (1998)
@@ -3429,7 +3490,6 @@ RATING,DIRECTOR,MOVIE
 6.4, Jonah Hill,Mid90s
 6.4, Felix Van Groeningen,Beautiful Boy
 6.4, Luca Guadagnino,Suspiria
-6.4, Marco Bellocchio,The Traitor
 6.4, Paul Downs Colaizzo,Brittany Runs a Marathon
 6.4, Scott Burns,The Report
 6.4, Bertrand Bonello,Zombi Child
@@ -3445,6 +3505,11 @@ RATING,DIRECTOR,MOVIE
 6.4, Hirokazu Kore-eda,The Truth
 6.4, Julie Taymor,The Glorias
 6.4, Julia Hart,I'm Your Woman
+6.4, Clark Johnson,Percy vs Goliath
+6.4, Josh Greenbaum,Barb and Star Go to Vista Del Mar
+6.4, John Lee Hancock,The Little Things
+6.4, Lee Daniels,The United States vs. Billie Holiday
+6.4, Guy Ritchie,Wrath of Man
 6.3, S.R.Bindler,Hands On A Hard Body (1998)
 6.3, Andre` Techine`,Alice And Martin
 6.3, Robert Duvall,Apostle  (1997)
@@ -3524,7 +3589,7 @@ RATING,DIRECTOR,MOVIE
 6.3, Veronika Franz & Severin Fiala,The Lodge
 6.3, Craig Zahler,Dragged Across Concrete
 6.3,  Mary Harron,Charlie Says
-6.3, Edward Zick,Trial by Fire
+6.3, Edward Zwick,Trial by Fire
 6.3, Ken Scott,The Extraordinary Journey of the Fakir
 6.3, Wash Westmoreland,Earthquake Bird
 6.3, Deborah Kampmeier,Tape
@@ -3565,7 +3630,7 @@ RATING,DIRECTOR,MOVIE
 6.2, Kevin Smith,Clerks II
 6.2, Sang-soo Hong,Haebyonui Yoin/ Woman on the Beach
 6.2, Woody Allen,Scoop
-6.2, Paula Vander Oest,Moonlight
+6.2, Paula van der Oest,Moonlight
 6.2, Frank Oz,Death at a Funeral
 6.2, Julia Loktev,Day Night Day Night
 6.2, Juan Carlos Fresnadillo,28 Weeks Later
@@ -3691,6 +3756,8 @@ RATING,DIRECTOR,MOVIE
 6.2, Alastair Orr,Triggered
 6.2, Ron Howard,Hillbilly Elegy
 6.2, George Clooney,The Midnight Sky
+6.2, Stephanie Chuat & Veronique Reymond,b>My Little Sister
+6.2, Michael Parks Randa & Lauren Smitelli,Best Summer Ever
 6.1, Carl Franklin,One True Thing (1998)
 6.1, Warren Beatty,Bulworth (1998)
 6.1, Mike Nichols,Primary Colors  (1998)
@@ -3742,6 +3809,8 @@ RATING,DIRECTOR,MOVIE
 6.1, Raoul Ruiz & Valeria Sarmiento,The Wandering Soap Opera
 6.1, John Crowley,The Goldfinch
 6.1, Leigh Whannell,The Invisible Man
+6.1, Maryam Touzani,Adam
+6.1, Ricky Staub,Concrete Cowboy
 6.0, William Nicholson,Firelight (1998)
 6.0, Raul Ruiz,Shattered Image (1998)
 6.0, Radu Mihaileanu,Train de Vie/ Train Of Life (1998)
@@ -3910,7 +3979,7 @@ RATING,DIRECTOR,MOVIE
 6.0, Debra Eisenstadt,Daydream Believer
 6.0, John Woo,Windtalkers
 6.0,  Tian Zhuangzhuang,Springtime in a Small Town
-6.0, JeanClaude Brisseau,Secret Things
+6.0, Jean-Claude Brisseau,Secret Things
 6.0, Cedric Klapisch,L'Auberge Espagnole
 6.0, Veronica Chen,Vagon Fumador/ Smokers Only
 6.0, Peter Jackson,The Lord of the Rings: The Two Towers
@@ -3971,7 +4040,6 @@ RATING,DIRECTOR,MOVIE
 6.0, Neil Labute,Possession
 6.0, Michael Caton-Jones,City by the Sea
 6.0, Julio Medem,Sex And Lucia
-6.0, Marco Bellocchio,My Mother's Smile
 6.0, Van Fischer,Blink of an Eye
 6.0, Philippe de Broca,On Guard
 6.0, Godfrey Reggio,Naqoyqatsi
@@ -3986,6 +4054,7 @@ RATING,DIRECTOR,MOVIE
 6.0, Rob Marshall,Chicago
 6.0, Kurt Wimmer,Equilibrium
 6.0, Jon Amiel,The Core
+6.0,  Christoffer Boe,Reconstruction
 6.0, Wachowski Brothers,The Matrix Revolutions
 6.0, Hsiao-hsien Hou,Cafe Lumiere
 6.0, Jon Favreau,Elf
@@ -4125,7 +4194,6 @@ RATING,DIRECTOR,MOVIE
 6.0, Campbell Scott,Off the Map
 6.0, Yasuaki Nakajima,After the Apocalypse
 6.0, Rebecca Miller,The Ballad of Jack and Rose
-6.0, Savi Gabizon,Nina's Tragedies
 6.0, Tim McCann,Nowhere Man
 6.0, Matthew Parkhill,Dot the i
 6.0, Garth Jennings,Hitchhiker's Guide to the Galaxy
@@ -4374,7 +4442,7 @@ RATING,DIRECTOR,MOVIE
 6.0, Chris Eska,August Evening
 6.0, Andrea Staka,Frulein
 6.0, Ed Harris,Appaloosa
-6.0, Neil Lebute,Lakeview Terrace
+6.0, Neil Labute,Lakeview Terrace
 6.0, Raja Gosnell,Beverly Hills Chihuahua
 6.0, Oliver Stone,W
 6.0, John Moore,Max Payne
@@ -4428,7 +4496,7 @@ RATING,DIRECTOR,MOVIE
 6.0, Carlos Saura,Fados
 6.0, Philippe Garrel,Frontier of Dawn
 6.0, Kiyoshi Kurosawa,Tokyo Sonata
-6.0, Riger Tucker,Waiting for Dublin
+6.0, Roger Tucker,Waiting for Dublin
 6.0, John Hamburg,"I Love You, Man"
 6.0, Rob Letterman,Monsters vs. Aliens
 6.0, Bohdam Slama,The Country Teacher
@@ -4478,7 +4546,7 @@ RATING,DIRECTOR,MOVIE
 6.0, Francois Ozon,Ricky
 6.0,  Takashi Miike,Jusannin no Shikaku/ 13 Assassins
 6.0, Miguel Arteta,Youth In Revolt
-6.0, Eduardo Sanchez,"""Lovely Molly"""
+6.0, Eduardo Sanchez,Lovely Molly
 6.0, Henry Jaglom,Queen of the Lot
 6.0, Doug Langway,BearCity
 6.0, Jeff Malmberg,Marwencol
@@ -4502,12 +4570,12 @@ RATING,DIRECTOR,MOVIE
 6.0, Adam Kane,Formosa Betrayed
 6.0, Udayan Prasad,The Yellow Handkerchief
 6.0, Raymond De Felitta,City Island
-6.0, Minos Papas,"""Shutterbug"
+6.0, Minos Papas,Shutterbug
 6.0, Daryl Wein,Breaking Upwards
 6.0, Matthew Vaughn,Kick-Ass
 6.0, Neil LaBute,Death at a Funeral
 6.0, Kieran Mulroney and Michele Mulroney,Paper Man
-6.0, Kim Jee-won,"The Good, the Bad, the Weird"
+6.0, Jee-woon Kim,"The Good, the Bad, the Weird"
 6.0, Daniel Barber,Harry Brown
 6.0, Dover Kosashvili,The Duel
 6.0, Philippe Loiret,Welcome
@@ -4576,7 +4644,7 @@ RATING,DIRECTOR,MOVIE
 6.0, Ben Hickernell,Lebanon PA
 6.0, Mike Pavone,That's What I Am
 6.0, John Martoccia,Vito Bonafacci
-6.0, X-Men,First Class: X-Men First Class
+6.0, Matthew Vaughn,X-Men First Class
 6.0, Adam Reid,Hello Lonesome
 6.0, Paul Feig,Bridesmaids
 6.0, Dan Rush,Everything Must Go
@@ -5051,6 +5119,18 @@ RATING,DIRECTOR,MOVIE
 6.0, Deepa Mehta,Funny Boy
 6.0, Paul Greengrass,News of the World
 6.0, Patrick Liu,Your Name Engraved Herein
+6.0, Alister Grierson,Bloody Hell
+6.0, Michael Fimognari,To All the Boys - Always and Forever
+6.0, Michael Fimognari,To All the Boys - Always and Forever
+6.0, Andrei Konchalovsky,Sin
+6.0, Julie Delpy,My Zoe
+6.0, Gitanjali Rao,Bombay Rose
+6.0, Pal Oie,The Tunnel
+6.0, Grear Patterson,Giants Being Lonely
+6.0, Jeff Rosenberg,We Broke Up
+6.0, Samad Zarmandili,Beate
+6.0, Anthony Chen,Wet Season
+6.0, Kelly Oxford,Pink Skies Ahead
 5.9, Alan Rudolph,Breakfast of Champions (1998)
 5.9, Woody Allen,Celebrity (1998)
 5.9, Mike Van Diem,Character  (1998)
@@ -5061,7 +5141,7 @@ RATING,DIRECTOR,MOVIE
 5.9, John Asher,Diamonds
 5.9, Jimmy Smallhorne,2 By 4
 5.9, Louis Mourneau,Bats
-5.9, Bray Bird,Iron Giant
+5.9, Brad Bird,Iron Giant
 5.9, David Kellogg,Inspector Gadget
 5.9, Paul Weitz,American Pie
 5.9, Frank Oz,Bowfinger
@@ -5077,7 +5157,7 @@ RATING,DIRECTOR,MOVIE
 5.9, Krutin Patel,Behind Enemy Lines
 5.9, Charles Addessi,Wannabes
 5.9, Doug Liman,The Bourne Identity
-5.9,   Steve Guttenberg,PS Your Cat Is Dead
+5.9, Steve Guttenberg,PS Your Cat Is Dead
 5.9, Barry Alexander Brown,Winning Girls Through Psychic Mind Control
 5.9, Kirk Jones,Nanny McPhee
 5.9, Woody Allen,Cassandra's Dream
@@ -5101,6 +5181,7 @@ RATING,DIRECTOR,MOVIE
 5.9, Destin Daniel Cretton,Just Mercy
 5.9, Richard Wong,Come as You Are
 5.9, Gina Prince-Bythewood,The Old Guard
+5.9, Glendyn Ivin,Penguin Bloom
 5.8, Stephen Norrington,Blade (1998)
 5.8, Robert Zemeckis,Contact  (1998)
 5.8, Jonathan Kaufer,Bad manners (1998)
@@ -5207,6 +5288,8 @@ RATING,DIRECTOR,MOVIE
 5.8, Derrick Borte,Unhinged
 5.8, Isabel Sandoval,Lingua Franca
 5.8, Xavier Dolan,Matthias & Maxime
+5.8, Robert Lorenz,The Marksman
+5.8, Cathy Yan,Dead Pigs
 5.7, Edward Zwick,The Siege (1998)
 5.7, Thom Fitzgerald,Hanging Garden (1998)
 5.7, Robert Bierman,A Merry War (1998)
@@ -5258,6 +5341,7 @@ RATING,DIRECTOR,MOVIE
 5.7, William Teitler,Bad Therapy
 5.7, Aaron Schneider,Greyhound
 5.7, Niki Caro,Mulan
+5.7, Doug Liman,Chaos Walking
 5.6, Peter O'Fallon,Suicide Kings  (1998)
 5.6, Night Shyamalan,Wide Awake  (1998)
 5.6, Nicholas Hytner,Object Of My Affection  (1998)
@@ -5317,10 +5401,12 @@ RATING,DIRECTOR,MOVIE
 5.6, Dome Karukoski,Tolkien
 5.6, Drake Doremus,Endings Beginnings
 5.6, Brett Haley,All Together Now
+5.6, Eddie Huang,Boogie
+5.6, Jude Weng,Finding Ohana
 5.5, Susanna Styron,Shadrach (1998)
 5.5, John Frankenheimer,Ronin (1998)
 5.5, Susan Skoog,Whatever (1998)
-5.5, Stefan Ruzowitsky,The Inheritors 5.5 (1998)
+5.5, Stefan Ruzowitzky,The Inheritors 5.5 (1998)
 5.5, Peter Medak,Species II (1998)
 5.5, Paul Verhoeven,Starship Troopers  (1998)
 5.5, Paddy Breathnach,I Went Down (1998)
@@ -5379,7 +5465,7 @@ RATING,DIRECTOR,MOVIE
 5.5, James Ryan,The Young Girl and the Monsoon
 5.5, Ivan Reitman,Evolution
 5.5, Blair Hayes,Bubbly Boy
-5.5, Mar¡a Ripoll,Tortilla Soup
+5.5, Maria Ripoll,Tortilla Soup
 5.5, Woody Allen,The Curse Of The Jade Scorpion
 5.5, Moufida Tlatli,The Season of Men
 5.5, Jacob Kornbluth,Haiku Tunnel
@@ -5397,7 +5483,6 @@ RATING,DIRECTOR,MOVIE
 5.5, Pete Jones,Stolen Summer
 5.5, Nick Cassavetes,John Q
 5.5, Gregory Hoblit,Hart's War
-5.5, Fabian Bielinski,Nine Queens
 5.5, Anne-Sophie Birot,Girls Can't Swim
 5.5, Mandel Holland,The Other Brother
 5.5, Dirk Shafer,Circuit
@@ -5450,7 +5535,7 @@ RATING,DIRECTOR,MOVIE
 5.5, Zoe Cassavetes,Broken English
 5.5, Benjamin Cummings and Orson Cummings,If I Didn't Care
 5.5, Matt Reaves,Cloverfield
-5.5, Luc¡a Puenzo,XXY
+5.5, Lucia Puenzo,XXY
 5.5, Michael McCullers,Baby Mama
 5.5, Paul Weiland,Made of Honor
 5.5, Mark Waters,The Spiderwick Chronicles
@@ -5620,6 +5705,13 @@ RATING,DIRECTOR,MOVIE
 5.5, James D'Arcy,Made in Italy
 5.5, Christopher Nolan,Tenet
 5.5, Alice Winocour,Proxima
+5.5, Sia,Music
+5.5, Alex McAulay,Don't Tell a Soul
+5.5, Tiller Russell,Silk Road
+5.5, BenDavid Grabinski,Happily
+5.5, Joe Lawlor & Christine Molloy,Rose Plays Julie
+5.5, Neil Burger,Voyagers
+5.5, Ryuichi Hiroki,Ride or Die
 5.4, Neil Abramson,Ringmaster (1998)
 5.4, Steve Miner,Halloween: H2O (1998)
 5.4, Randall Wallace,Man With The Iron Mask  (1998)
@@ -5640,7 +5732,7 @@ RATING,DIRECTOR,MOVIE
 5.4, Shundo Okawa,Nobody
 5.4, Olivier Ducastel and Jacques Martineau,Jeanne And The Perfect Guy
 5.4, Lance Mungia,Six String Samurai
-5.4, Roman Polansky,The Ninth Gate
+5.4, Roman Polanski,The Ninth Gate
 5.4, John Waters,Cecil B DeMented
 5.4, Christian Duguay,The Art Of War
 5.4, Boaz Yakin,Remember The Titans
@@ -5757,6 +5849,7 @@ RATING,DIRECTOR,MOVIE
 5.2, Jon Abrahams,Clover
 5.2, Kenneth Branagh,Artemis Fowl
 5.2, Kevin Willmott,The 24th
+5.2, Joe Carnahan,Boss Level
 5.1, Forest Whitaker,Hope Floats (1998)
 5.1, Frank Whaley,Joe The King
 5.1, Bruce Beresford,Double Jeopardy
@@ -5835,7 +5928,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Brian Robbins,Ready To Rumble
 5.0, Justin Kerrigan,Human Traffic
 5.0, Reginald Hudlin,The Ladies Man
-5.0, Sebastien Lifshiyz,Come Undone
+5.0, Sebastien Lifshitz,Come Undone
 5.0, Richard Blackburn,Lemora Lady Dracula
 5.0, John Stockwell,Crazy Beautiful
 5.0, Mathieu Kassovitz,The Crimson Rivers
@@ -5877,7 +5970,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Charles Shyer,The Affair of the Necklace
 5.0, Mohsen Makhmalbaf,Kandahar
 5.0, Ernest Dickerson,Bones
-5.0, D.J. Pooh,The Wash
+5.0, DJ Pooh,The Wash
 5.0, John Pasquin,Joe Somebody
 5.0, Jessie Nelson,I Am Sam
 5.0, Gillian Armstrong,Charlotte Gray
@@ -5980,7 +6073,7 @@ RATING,DIRECTOR,MOVIE
 5.0, John Whitesell,Malibu's Most Wanted
 5.0, Yojiro Takita,Onmyoji
 5.0, Dan Algrant,People I Know
-5.0, Franois Velle,New Suit
+5.0, Francois Velle,New Suit
 5.0, Peyton Reed,Down With Love
 5.0, Miles Swain,The Trip
 5.0, Pavel Lounguine,Tycoon
@@ -6063,7 +6156,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Michael Radford,The Merchant of Venice
 5.0, Damien O'Donnell,Rory O'Shea Was Here
 5.0, Shinji Aramaki,Appurushido/ Appleseed
-5.0, Andre Wood,Machuca
+5.0, Andres Wood,Machuca
 5.0, Antoine de Caunes,Monsieur N.
 5.0, Steve Carr,Rebound
 5.0, Peter and Bobby Farrelly,Fever Pitch
@@ -6136,7 +6229,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Jim Gillespie,Venom
 5.0, Dave McKean,MirrorMask
 5.0, Joseph Castelo,The War Within
-5.0, Gore Verbinsk,The Weather Man
+5.0, Gore Verbinski,The Weather Man
 5.0, Christopher Scott Cherot,G
 5.0, Andrzej Bartkowiak,Doom
 5.0, Jennifer Todd Reeves,The Time We Killed
@@ -6181,7 +6274,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Marco Kreuzpaintner,Summer Storm
 5.0, Jonathan Demme,Neil Young: Heart of Gold
 5.0, Richard Loncraine,Firewall
-5.0, Anah¡ Berneri,A Year Without Love
+5.0, Anahi Berneri,A Year Without Love
 5.0, Steve Taylor,The Second Chance
 5.0, Chris Fisher,Dirty
 5.0, Christian Carion,Joyeux Noel
@@ -6358,7 +6451,7 @@ RATING,DIRECTOR,MOVIE
 5.0, David Wain,Role Models
 5.0, Abbas Tyrewalla,Jaane Tu
 5.0, Aneez Bazmee,Singh is Kinng
-5.0, Siddhart Anand,Bachna ae Haseend
+5.0, Siddharth Anand,Bachna ae Haseend
 5.0, Tarun Mansukhani,Dostana
 5.0, Abhishek Kapoor,Rock On
 5.0, Alfredo de Villa,Nothing Like the Holidays
@@ -6535,7 +6628,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Jim Whitaker,Rebirth
 5.0, Mark Mylod,What's your Number
 5.0, George Clooney,The Ides of March
-5.0, Oliver Parker,"""Johnny English Reborn"""
+5.0, Oliver Parker,Johnny English Reborn
 5.0, Brett Ratner;,Tower Heist
 5.0, Dito Montiel,The Son of No One
 5.0, Peter Odiorne,The Greening of Whitney Brown
@@ -6666,7 +6759,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Ben Wheatley,Sightseers
 5.0, Zack Bernbaum,And Now a Word From Our Sponsor
 5.0, Katie Aselton,Black Rock
-5.0, raig Zisk,The English Teacher
+5.0, Craig Zisk,The English Teacher
 5.0, Night Shyamalan,After Earth
 5.0, Louis Leterrier,Now You See Me
 5.0, Kieran Darcy-Smith,Wish You Were Here
@@ -6674,7 +6767,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Dan Scanlon,Monsters University
 5.0, Franck Khalfoun,Maniac
 5.0, Paul Andrew Williams,Unfinished Song
-5.0, Pedro Almod¢var,I'm So Excited
+5.0, Pedro Almodovar,I'm So Excited
 5.0, Daisy von Scherler Mayer,Some Girl(s)
 5.0,  Susan Seidelman,The Hot Flashes
 5.0, David Soren,Turbo
@@ -7046,8 +7139,22 @@ RATING,DIRECTOR,MOVIE
 5.0, Luke Greenfield,Half Brothers
 5.0, Sharon Maguire,Godmothered
 5.0, Steven Soderbergh,Let Them All Talk
-5.0, Maiwenn LeBesco,DNA Review: Digging for Roots
+5.0, Maiwenn LeBesco,DNA
 5.0, Ron Vignone,Two Ways Home
+5.0, Ryan Crego,Arlo the Alligator Boy
+5.0, Doug Liman,Locked Down
+5.0, Nate Parker,American Skin
+5.0, Vincent Paronnaud,Hunted
+5.0, Edward Hall,Blithe Spirit
+5.0, Jennifer Harrington,Shook
+5.0, Nicholas Jarecki,Crisis
+5.0, Jon Garcia,Luz
+5.0, Espen Sandberg,Amundsen - The Greatest Expedition
+5.0, Joe Penna,Stowaway
+5.0, Nick Stagliano,The Virtuoso
+5.0, Casimir Nozkowski,The Outside Story
+5.0, Ivo van Aart,The Columnist
+5.0, Inon Shampanier,Paper Spiders
 4.9, Luis Galvao Teles,Elles
 4.9, Shane Meadows,A Room For Romeo Brass
 4.9, Thomas Lee,Supernova
@@ -7073,11 +7180,12 @@ RATING,DIRECTOR,MOVIE
 4.9, Jonas Akerlund,Polar
 4.9, Henry-Alex Rubin,Semper Fi
 4.9, Jeremy Teicher,Olympic Dreams
+4.9, Craig Brewer,Coming 2 America
 4.8, Art Jones,Going Nomad
 4.8, Glen Goei,That's the Way I Like it
 4.8, Tessa Blake,Five Wives Three Secretaries And Me
 4.8, Jonathan Lynn,Whole Nine Yards
-4.8, Eduard Norton,Keeping The Faith
+4.8, Edward Norton,Keeping The Faith
 4.8, David Raynr, Whatever It Takes
 4.8, Alister Grierson,Sanctum
 4.8, Len Wiseman,Total Recall
@@ -7096,7 +7204,7 @@ RATING,DIRECTOR,MOVIE
 4.8, Peter Berg,Mile 22
 4.8, Jonathan Watson,Arizona
 4.8," Bob Persichetti, Peter Ramsey & Rodney Rothman",Spider-Man Into the Spider-Verse
-4.8, J.C. Chandor,Triple Frontier
+4.8, JC Chandor,Triple Frontier
 4.8, Derrick Borte,American Dreamer
 4.8, Josh Trank,Capone
 4.8, Cooper Raiff,S#!%house
@@ -7104,6 +7212,7 @@ RATING,DIRECTOR,MOVIE
 4.8, Regina Welker & Nina Wels,Latte and the Magic Waterstone Review: A Hedgehogs Journey
 4.8, Richard Tanne,Chemical Hearts
 4.8, Yuval Adler,The Secrets We Keep
+4.8, Dominic Cooke,The Courier
 4.7, Bruce McCulloch,Superstar
 4.7, Irwin Winkler,At First Sight
 4.7, Brett Ratner,Family Man
@@ -7116,6 +7225,7 @@ RATING,DIRECTOR,MOVIE
 4.7, Tim Smit,Kill Switch
 4.7, Robin Bissell,The Best of Enemies
 4.7, Benh Zeitlin,Wendy
+4.7," Don Hall, etc",Raya and the Last Dragon
 4.6, Trey Parker,Orgazmo (1998)
 4.6, Andy Tennant,Anna And The King
 4.6, Kris Isacsson,Down To You
@@ -7139,6 +7249,7 @@ RATING,DIRECTOR,MOVIE
 4.6, Andy Fickman,Playing With Fire
 4.6, Lisa Barros D'Sa & Glenn Leyburn,Ordinary Love
 4.6, Laura Terruso,Work It
+4.6, Adam Wingard,Godzilla vs. Kong
 4.5, Brian Helgeland,Payback (1998)
 4.5, Jeff Abugov,The Mating Habits Of the Earthbound Human
 4.5, Adam Rifkin,Detroit Rock City
@@ -7211,7 +7322,7 @@ RATING,DIRECTOR,MOVIE
 4.5, Paul McGuigan,The Reckoning
 4.5, David Koepp,Secret Window
 4.5, Kevin Allen,Agent Cody Banks 2 - Destination London
-4.5, Howard Deutsch,The Whole Ten Yards
+4.5, Howard Deutch,The Whole Ten Yards
 4.5, Luke Greenfield,The Girl Next Door
 4.5, John Lee Hancock,The Alamo
 4.5, Roland Emmerich,The Day After Tomorrow
@@ -7342,7 +7453,7 @@ RATING,DIRECTOR,MOVIE
 4.5, Craig Brewer,Footloose
 4.5, Joel Schumacher, Trespass
 4.5, Jim Sheridan, Dream House
-4.5, Henry Joust,"""Paranormal Activity 3"""
+4.5, Henry Joust,Paranormal Activity 3
 4.5, Joe Maggio,The Last Rites of Joe May
 4.5, Philipp Stolzl,Young Goethe in Love
 4.5, Allie Dvorin,A Novel Romance
@@ -7477,7 +7588,7 @@ RATING,DIRECTOR,MOVIE
 4.5, Sam Taylor-Johnson,A Million Little Pieces
 4.5, Patty Jenkins,Wonder Woman 1984
 4.5, Joey Klein,Castle in the Ground
-4.5, Daniel Alfredso,Intrigo - Death of an Author
+4.5, Daniel Alfredo,Intrigo - Death of an Author
 4.5, Jack Henry Robbins,VHYes
 4.5, Bridget Savage Cole & Danielle Krudy,Blow the Man Down
 4.5, Katharine O'Brien,Lost Transmissions
@@ -7492,6 +7603,10 @@ RATING,DIRECTOR,MOVIE
 4.5, Ashley Avis,Black Beauty
 4.5, John Patrick Shanley,Wild Mountain Thyme
 4.5, Tamara Bass & Meagan Good,"If Not Now, When?"
+4.5, Mikael Hafstrom,Outside the Wire
+4.5, Shari Springer Berman & Robert Pulcini,Things Heard & Seen
+4.5, Stefano Sollima,Tom Clancy's Without Remorse
+4.5, Brett Leonard,Triumph
 4.4, Mike Mitchell,Deuce Bigalow Male Gigolo
 4.4, Eric Weber,Suits
 4.4, Joan Chen,Autumn In New York
@@ -7524,6 +7639,7 @@ RATING,DIRECTOR,MOVIE
 4.4, Cuneyt Kaya,Rising High
 4.4, Thea Sharrock,The One and Only Ivan
 4.4, Gerard Bush & Christoper Renz,Antebellum
+4.4, Evan Spiliotopoulos,The Unholy
 4.3, Sam Weisman,Out of Towners
 4.3, Geroge Haas,Friends And Lovers
 4.3, Sean Penn,The Pledge
@@ -7532,7 +7648,7 @@ RATING,DIRECTOR,MOVIE
 4.3, Michael Medeiros,Tiger Lily Road
 4.3, Jose Padilha,RoboCop
 4.3, John Leonetti,Annabelle
-4.3, Joe Danet,Burying the Ex
+4.3, Joe Dante,Burying the Ex
 4.3, Etan Cohen,Get Hard
 4.3, Sergei Bodrov,Seventh Son
 4.3, Simon West,Wild Card
@@ -7648,7 +7764,7 @@ RATING,DIRECTOR,MOVIE
 4.0, Stefan Ruzowitzky,All the Queen's Men
 4.0, Harry Dodge and Silas Howard,By Hook or by Crook
 4.0, Don Michael Paul,Half Past Dead
-4.0, Chris Columbus,"""Harry Potter and the Chamber of Secrets"""
+4.0, Chris Columbus,Harry Potter and the Chamber of Secrets
 4.0, Christian Duguay,Extreme Ops
 4.0, Stuart Baird,Star Trek Nemesis
 4.0, Marc Lawrence,Two Weeks Notice
@@ -7692,7 +7808,7 @@ RATING,DIRECTOR,MOVIE
 4.0, Philip Kaufman,Twisted
 4.0, Todd Phillips,Starsky & Hutch
 4.0, Joe Johnston,Hidalgo
-4.0, D. Caruso,Taking Lives
+4.0, DJ Caruso,Taking Lives
 4.0, Kevin Bray,Walking Tall
 4.0, Daniel Taplitz,Breakin' All the Rules
 4.0, Alfonso Cuaron,Henry Potter and the Prisoner of Azkaban
@@ -7812,7 +7928,7 @@ RATING,DIRECTOR,MOVIE
 4.0, Robert Luketic,21
 4.0, George Clooney,Leatherheads
 4.0, Uwe Boll,Postal
-4.0, Louis Letterier,The Incredible Hulk
+4.0, Louis Leterrier,The Incredible Hulk
 4.0, Eric Brevig,Journey to the Center of the Earth
 4.0, Chris Carter,X Files - I Want To Believe
 4.0, Sanaa Hamri,The Sisterhood of the Traveling Pants 2
@@ -7828,7 +7944,7 @@ RATING,DIRECTOR,MOVIE
 4.0, Susan Montford,While She Was Out
 4.0, Peyton Reed,Yes Man
 4.0, David Frankel,Marley and Me
-4.0, tyAdam Shankman,Bedtime Stories
+4.0, Adam Shankman,Bedtime Stories
 4.0, Olivier Megaton,Transporter 3
 4.0, Lexi Alexander,Punisher: War Zone
 4.0, Jeff Celentano,Breaking Point
@@ -7917,7 +8033,7 @@ RATING,DIRECTOR,MOVIE
 4.0, Tom Six,The Human Centipede 2
 4.0, Todd Strauss-Schulson,A Very Harold & Kumar 3D Christmas
 4.0, Mike Mitchell,Alvin and the Chipmunks - Chipwrecked
-4.0, Beneath the Darkness,Beneath the Darkness
+4.0, Martin Guigui,Beneath the Darkness
 4.0, Todd Graff,Joyful Noise
 4.0, Mikael Buch,Let My People Go
 4.0, Marc Webb,The Amazing Spider-Man
@@ -8066,7 +8182,7 @@ RATING,DIRECTOR,MOVIE
 4.0, Jake Szymanski,Mike and Dave Need Wedding Dates
 4.0, Paul Feig,Ghostbusters
 4.0, Galen Chu & Mike Thurmeier,Ice Age - Collision Course
-4.0, Ron Clements etc,Moana
+4.0, Ron Clements & Joe Musker,Moana
 4.0,  Mark Waters,Bad Santa 2
 4.0, Katie Holmes,All We Had
 4.0, Matthew Ross,Frank & Lola
@@ -8172,12 +8288,20 @@ RATING,DIRECTOR,MOVIE
 4.0, Martin Wood,Operation Christmas Drop
 4.0, Max Winkler,Jungleland
 4.0, Andre Szots,Grizzly II Revenge
+4.0, Tim Story,Tom & Jerry
+4.0, Amy Poehler,Moxie
+4.0, Tim Hill,Sponge on the Run
+4.0, Miguel Arteta,Yes Day
+4.0, Devereux Milburn,Honeydew
+4.0, Vaughn Stein,Every Breath You Take
+4.0, Ben Falcone,Thunder Force
+4.0, Simon McQuoid,Mortal Kombat
 3.9, Martin Owen,Killers Anonymous
 3.8, Scott Alexander & Larry Karaszewski,Screwed
 3.8, Daniel Lusko,Persecuted
 3.8, Juan-Antonio Bayona,Jurassic World - Fallen Kingdom
 3.8, Ron Howard,Solo - A Star Wars Story
-3.8, Chris Renaud & Jonathan del Val,"The Secret Life of Pets 2': Funny, Furry and Forgettable"
+3.8, Chris Renaud & Jonathan del Val,The Secret Life of Pets 2
 3.8, Gary Gray,Men in Black - International
 3.8, Joachim Ronning,Maleficent - Mistress of Evil
 3.7, Benoit Jacquot,Seventh Heaven (1998)
@@ -8221,7 +8345,7 @@ RATING,DIRECTOR,MOVIE
 3.4, Bob Clark,Baby Geniuses (1998)
 3.4, Richard Wenk,Just The Ticket
 3.0, Darren Lynn Bousman,Saw II
-3.0, Disney Studios,Chicken Little
+3.0, Mark Dindal,Chicken Little
 3.0, David DeFalco,Chaos
 3.0, Jay Chandrasekhar,The Dukes of Hazzard
 3.0, Joe Roth,Freedomland
