@@ -54,7 +54,8 @@ for url in urls:
                     e = [e.rstrip() for e in d]
                 except IndexError:
                     print("Movie with formatting error")
-                append_list_as_row('../unsortedlist.csv', e)
+                else:
+                    append_list_as_row('../unsortedlist.csv', e)
 
 # sort the csv by ratings
 data = csv.reader(open('../unsortedlist.csv'),delimiter=',')
