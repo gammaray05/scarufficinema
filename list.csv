@@ -1510,6 +1510,10 @@ RATING,DIRECTOR,MOVIE
 7.0, Daniel Grou,Mafia Inc
 7.0, Ben Wheatley,In The Earth
 7.0, Michael Sarnoski,Pig
+7.0, Juho Kuosmanen,Hytti No 6/ Compartment No 6
+7.0, Kogonada,After Yang
+7.0, Mamoru Hosoda,Belle
+7.0, Mahamat-Saleh Haroun,Lingui
 6.9, Stephen Frears,The Hi-Lo Country  (1998)
 6.9, Paul Auster,Lulu on the Bridge
 6.9, Paul Schrader,Affliction (1998)
@@ -1632,6 +1636,7 @@ RATING,DIRECTOR,MOVIE
 6.9, Armando Iannucci,In the Loop
 6.9, Rajkumar Hirani,Idiots
 6.9, Sylvain Chomet,The Illusionist
+6.9, Wen Jiang,Rang Zi Dan Fei/ Let the Bullets Fly
 6.9, Zhang Chi,Dixia de Tiankong/ The Shaft
 6.9, Noah Baumbach,Greenberg
 6.9, Chris Sanders and Dean DeBlois,How to Train Your Dragon
@@ -1843,7 +1848,6 @@ RATING,DIRECTOR,MOVIE
 6.9, Sang-soo Hong,In Front of Your Face
 6.9, Vincent LePort,Bruno Reidal Confessions Of A Murderer
 6.9, Jim Jarmusch,Broken Flowers
-6.9, Juho Kuosmanen,Hytti No 6/ Compartment No 6
 6.8, Pat O'Connor,Dancing at Lughnasa (1998)
 6.8, Hideo Nakata,Ringu (1998)
 6.8, Aleksei German,Khrustalyov Mashinu/ Khrustalyov my Car (1998)
@@ -2302,10 +2306,8 @@ RATING,DIRECTOR,MOVIE
 6.8, Kirill Sokolov,Papa Sdokhni/ Why Don't You Just Die
 6.8, Kaouther Ben Hania,Ar-rajul Alladi ba'a Zahrihu/ The Man Who Sold His Skin
 6.8, Vladimir Johannsson,Lamb
-6.8, Mamoru Hosoda,Belle
 6.8, Vesela Kazakova & Mina Mileva,Women Do Cry
 6.8, Clio Barnard,Ali & Ava
-6.8, Mahamat-Saleh Haroun,Lingui
 6.8, Justin Chon,Blue Bayou
 6.8, Leos Carax,Annette
 6.8, Abel Ferrara,Siberia
@@ -2318,6 +2320,8 @@ RATING,DIRECTOR,MOVIE
 6.8, Tran Quoc Bao,The Paper Tigers
 6.8, Euros Lyn,Dream Horse
 6.8, Suzanne Lindon,Spring Blossom
+6.8, Mia Hansen-Love,Bergman Island
+6.8, Sean Baker,Red Rocket
 6.7,  Eric Rohmer,Comte d'Automne/ Autumn Tale (1998)
 6.7, Bertrand Bonello,Something Organic
 6.7, Amos Gitai,Yom Yom
@@ -3364,7 +3368,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Wes Anderson,The French Dispatch
 6.5, Justin Kurzel,Nitram
 6.5, Miguel Gomes & Maureen Fazendeiro,The Tsugua Diaries
-6.5, Kogonada,After Yang
 6.5, Ari Folman,Where Is Anne Frank
 6.5, Antoine Fuqua,Infinite
 6.5, Chris McKay,The Tomorrow War
@@ -3386,6 +3389,10 @@ RATING,DIRECTOR,MOVIE
 6.5, Michael Rianda,The Mitchells vs. the Machines
 6.5, Wagner Moura,Marighella
 6.5, Natalie Morales,Plan B
+6.5, Tom McCarthy,Stillwater
+6.5, Jacques Audiard,Paris 13th District
+6.5, Agnieszka Holland,Charlatan
+6.5, Arie Esiri & Chuko Esiri,Eyimofe
 6.4, Bryan Singer,Apt Pupil (1998)
 6.4, Tamara Jenkins,Slums of Beverly Hills (1998)
 6.4, Chris Columbus,Stepmom (1998)
@@ -5172,14 +5179,15 @@ RATING,DIRECTOR,MOVIE
 6.0, David White,This Town
 6.0, Caroline Link,When Hitler Stole Pink Rabbit
 6.0, Robert Connolly,The Dry
-6.0, Jacques Audiard,Paris 13th District
-6.0, Sean Baker,Red Rocket
 6.0, Ildiko Enyedi,The Story Of My Wife
 6.0, Arnaud Larrieu & Jean-Marie Larrieu,Tralala
 6.0, Paul Verhoeven,Benedetta
 6.0, Bruno Dumont,France
 6.0, Aleksey German,House Arrest
 6.0, Leila Bouzid,A Tale Of Love And Desire
+6.0, Night Shyamalan,Old
+6.0, Israel Cardenas & Laura Amelia Guzman,Holy Beasts
+6.0, Quentin Dupieux,Mandibles
 5.9, Alan Rudolph,Breakfast of Champions (1998)
 5.9, Woody Allen,Celebrity (1998)
 5.9, Mike Van Diem,Character  (1998)
@@ -5750,7 +5758,6 @@ RATING,DIRECTOR,MOVIE
 5.5, James D'Arcy,Made in Italy
 5.5, Christopher Nolan,Tenet
 5.5, Sia,Music
-5.5, Tom McCarthy,Stillwater
 5.5, Celine Sciamma,Mi Iubita Mon Amour
 5.5, Nanni Moretti,Tre Piani
 5.5, Oskar Roehler,Enfant Terrible
@@ -7216,7 +7223,6 @@ RATING,DIRECTOR,MOVIE
 5.0, Arnaud Desplechin,Tromperie/ Deception
 5.0, Catherine Corsini,La Fracture/ The Divide
 5.0, Sean Penn,Flag Day
-5.0, Mia Hansen-Love,Bergman Island
 4.9, Luis Galvao Teles,Elles
 4.9, Shane Meadows,A Room For Romeo Brass
 4.9, Thomas Lee,Supernova
@@ -7743,6 +7749,7 @@ RATING,DIRECTOR,MOVIE
 4.2, Ang Lee,Gemini Man
 4.2, Michael Showalter,The Lovebirds
 4.2, Chris Foggin,Fisherman's Friends
+4.2, Robert Schwentke,Snake Eyes
 4.1, Arlene Sanford,I'll Be Home For Christmas (1998)
 4.1, Agnes Merlet,Quest for Camelot  (1998)
 4.1, Joel Schumaker,Flawless
