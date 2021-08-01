@@ -318,6 +318,8 @@ RATING,DIRECTOR,MOVIE
 7.2, Joanna Hogg,The Souvenir
 7.2, Nadav Lapid,Synonyms
 7.2, Ming-liang Tsai,Days
+7.2, Theo Court,White on White
+7.2, Rose Glass,Saint Maud
 7.2, Mohammad Rasoulof,There Is No Evil
 7.2, Kornel Mundruczo,Pieces of a Woman
 7.2, Janicza Bravo,Zola
@@ -326,10 +328,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Lili Horvat,Preparations to Be Together for an Unknown Period of Time
 7.2, Ryusuke Hamaguchi,Drive my Car
 7.2, Radu Jude,Bad Luck Banging or Loony Porn
-7.2, Joachim Trier,The Worst Person in the World
-7.2, Theo Court,White on White
 7.2, Alexandre Koberidze,What Do We See When We Look at the Sky?
-7.2, Rose Glass,Saint Maud
 7.1,  Tom Tykwer,Lola Rennt/ Run Lola Run
 7.1, Steven Spielberg,Saving Private Ryan (1998)
 7.1,  Darren Aronofsky,Pi (1998)
@@ -538,6 +537,7 @@ RATING,DIRECTOR,MOVIE
 7.1, Alex Ross Perry,Her Smell
 7.1, Bruno Dumont,Coincoin et les Z'Inhumains/ CoinCoin and the Extra-Humans
 7.1, Josephine Decker,Madeline's Madeline
+7.1, Yonfan,No. 7 Cherry Lane
 7.1, Quentin Tarantino,Once Upon a Time in Hollywood
 7.1, Ken Loach,Sorry We Missed You
 7.1, Joe Talbot,The Last Black Man in San Francisco
@@ -555,6 +555,8 @@ RATING,DIRECTOR,MOVIE
 7.1, Pablo Larrain,Ema
 7.1, Agnieszka Holland,Mr Jones
 7.1, Sang-soo Hong,Domangchin Yeoja/ The Woman Who Ran
+7.1, David Lowery,The Green Knight
+7.1, Nicolas Pereda,Fauna
 7.1, Jasmila Zbanic,Quo Vadis Aida?
 7.1, Michel Franco,Nuevo Orden/ New Order
 7.1, Lois Patino,Lua Vermella/ Red Moon Tide
@@ -566,11 +568,9 @@ RATING,DIRECTOR,MOVIE
 7.1, Michel Franco,Nuevo Orden
 7.1, Cristi Puiu,Malmkrog
 7.1, Majid Majidi,Khorshid/ Sun Children
-7.1, Yonfan,No. 7 Cherry Lane
+7.1, Viggo Mortensen,Falling
 7.1, Denes Nagy,Natural Light
 7.1, Le Bao,Taste
-7.1, Roy Andersson,About Endlessness
-7.1, Viggo Mortensen,Falling
 7.1, Fran Kranz,Mass
 7.1, Sian Heder,CODA
 7.1, Amalia Ulman,El Planeta
@@ -1437,7 +1437,13 @@ RATING,DIRECTOR,MOVIE
 7.0, Kleber Mendonca Filho & Juliano Dornelles,Bacurau
 7.0, Pietro Marcello,Martin Eden
 7.0, Chinonye Chukwu,Clemency
+7.0, Shatara Michelle Ford,Test Pattern
+7.0, Daniel Grou,Mafia Inc
+7.0, Edson Oda,Nine Days
 7.0, Radha Blank,The 40-Year-Old Version
+7.0, Joe DeNardo & Paul Felten,Slow Machine
+7.0, Ephraim Asili,The Inheritance
+7.0, Azazel Jacobs,French Exit
 7.0, C.W. Winter and Anders Edstrom,The Works and Days
 7.0, Anders Thomas Jensen,Retfaerdighedens Ryttere/ Riders of Justice
 7.0, Luca Guadagnino,We are Who we are
@@ -1486,16 +1492,14 @@ RATING,DIRECTOR,MOVIE
 7.0, Saul Williams,Neptune Frost
 7.0, Nadav Lapid,Ahed's Knee
 7.0, Ainsley Gardiner & Briar Grace Smith,Cousins
-7.0, Joe DeNardo & Paul Felten,Slow Machine
 7.0, SK Dale,Till Death
 7.0, Steven Soderbergh,No Sudden Move
 7.0, Ryusuke Hamaguchi,Wheel of Fortune and Fantasy
 7.0, Andreas Fontana, Azor
 7.0, Sang-soo Hong,Introduction
 7.0, Alice Diop,We
-7.0, Denis Cote,Special Hygiene
+7.0, Denis Cote,Social Hygiene
 7.0, Celine Sciamma,Petite Maman
-7.0, Ephraim Asili,The Inheritance
 7.0, Jane Schoenbrun,We're All Going to the World's Fair
 7.0, Rebecca Hall,Passing
 7.0, Blerta Basholli,Zgjoi/ Hive
@@ -1505,15 +1509,13 @@ RATING,DIRECTOR,MOVIE
 7.0, Lyle Mitchell Corbine,Wild Indian
 7.0, Simon Stone,The Dig
 7.0, Shaka King,Judas and the Black Messiah
-7.0, Azazel Jacobs,French Exit
-7.0, Shatara Michelle Ford,Test Pattern
-7.0, Daniel Grou,Mafia Inc
 7.0, Ben Wheatley,In The Earth
 7.0, Michael Sarnoski,Pig
 7.0, Juho Kuosmanen,Hytti No 6/ Compartment No 6
 7.0, Kogonada,After Yang
 7.0, Mamoru Hosoda,Belle
 7.0, Mahamat-Saleh Haroun,Lingui
+7.0, Tom McCarthy,Stillwater
 6.9, Stephen Frears,The Hi-Lo Country  (1998)
 6.9, Paul Auster,Lulu on the Bridge
 6.9, Paul Schrader,Affliction (1998)
@@ -1820,6 +1822,7 @@ RATING,DIRECTOR,MOVIE
 6.9, Haifaa al-Mansour,The Perfect Candidate
 6.9, Jill Culton,Abominable
 6.9, Pedro Almodovar,Dolor y Gloria/ Pain and Glory
+6.9, Roy Andersson,About Endlessness
 6.9, Damiano & Fabio D'Innocenzo,Favolacce
 6.9, Brandon Cronenberg,Possessor
 6.9, Ana Vaz,Apiyemiyeki
@@ -3318,7 +3321,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Clint Eastwood,The Mule
 6.5, Sion Sono,The Forest of Love (2019)
 6.5, Alice Winocour,Proxima
-6.5, Roy Andersson,About Endlessness
 6.5, Christophe Honore', Chambre 212/ On a Magical Night
 6.5, Francois Girard,The Song of Names
 6.5, Alfonso Gomez-Rejon,The Current War
@@ -3342,6 +3344,8 @@ RATING,DIRECTOR,MOVIE
 6.5, Nisha Ganatra,Late Night
 6.5, Olivier Assayas,Wasp Network
 6.5, Philippa Lowthorpe,Misbehaviour
+6.5, Malgorzata Szumowska & Michal Englert,Never Gonna Snow Again
+6.5, Janicza Bravo,Zola
 6.5, Dzintars Dreibergs,Blizzard of Souls
 6.5, Jason Woliner, Borat Subsequent Moviefilm
 6.5, Udo Flohr,Effigy - Poison and the City
@@ -3371,7 +3375,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Ari Folman,Where Is Anne Frank
 6.5, Antoine Fuqua,Infinite
 6.5, Chris McKay,The Tomorrow War
-6.5, Janicza Bravo,Zola
 6.5, Jimmy Giannopoulos,The Birthday Cake
 6.5, Michael Chaves,The Conjuring: The Devil Made Me Do It
 6.5, Michael Haussman,Edge of the World
@@ -5188,6 +5191,8 @@ RATING,DIRECTOR,MOVIE
 6.0, Night Shyamalan,Old
 6.0, Israel Cardenas & Laura Amelia Guzman,Holy Beasts
 6.0, Quentin Dupieux,Mandibles
+6.0, David Charbonier & Justin Powell,The Boy Behind the Door
+6.0, Lodewijk Crijns,Tailgate
 5.9, Alan Rudolph,Breakfast of Champions (1998)
 5.9, Woody Allen,Celebrity (1998)
 5.9, Mike Van Diem,Character  (1998)
@@ -7200,6 +7205,8 @@ RATING,DIRECTOR,MOVIE
 5.0, Maiwenn LeBesco,DNA
 5.0, Ron Vignone,Two Ways Home
 5.0, Carson Mell,Some of Our Stallions
+5.0, Braden King,The Evening Hour
+5.0, Trent O'Donnell,Ride the Eagle
 5.0, Nicole Riegel,Holler
 5.0, Paul Weitz,Fatherhood
 5.0, Prano Bailey-Bond,Censor
@@ -7677,6 +7684,7 @@ RATING,DIRECTOR,MOVIE
 4.5, Brett Leonard,Triumph
 4.5, Darren Lynn Bousman,Spiral - From the Book of Saw
 4.5, John Le,False Positive
+4.5, David Charhon,The Last Mercenary
 4.4, Mike Mitchell,Deuce Bigalow Male Gigolo
 4.4, Eric Weber,Suits
 4.4, Joan Chen,Autumn In New York
@@ -8375,6 +8383,8 @@ RATING,DIRECTOR,MOVIE
 4.0, Ben Falcone,Thunder Force
 4.0, Simon McQuoid,Mortal Kombat
 4.0, Cate Shortland,Black Widow
+4.0, Jaume Collet-Serra,Jungle Cruise
+4.0, Steven Tsuchida,Resort to Love
 3.9, Martin Owen,Killers Anonymous
 3.8, Scott Alexander & Larry Karaszewski,Screwed
 3.8, Daniel Lusko,Persecuted
