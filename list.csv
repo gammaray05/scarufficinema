@@ -156,6 +156,7 @@ RATING,DIRECTOR,MOVIE
 7.3, Charlie Kaufman,Synecdoche New York
 7.3, Ari Folman,Waltz with Bashir
 7.3, Nuri Bilge Ceylan,Uc Maymum/ Three Monkeys
+7.3, Tatia Rosenthal,$9.99
 7.3, Corneliu Porumboiu,Police Adjective
 7.3, Michael Haneke,Das Weisse Band/ The White Ribbon
 7.3, Claire Denis,White Material
@@ -251,7 +252,6 @@ RATING,DIRECTOR,MOVIE
 7.2, Sergey Dvortsevoy,Tulpan
 7.2, Mariano Llinas,Extraordinary Stories
 7.2, Albert Serra,El Cant dels Ocells/ Birdsong
-7.2, Tatia Rosenthal,$9.99
 7.2, Mike Leigh,Happy-Go-Lucky
 7.2, Lisandro Alonso,Liverpool
 7.2, Arnaud Desplechin,Un Conte de Noel/ A Christmas Tale
@@ -1495,13 +1495,10 @@ RATING,DIRECTOR,MOVIE
 7.0, David Fincher,Mank
 7.0, Catarina Vasconcelos,A Metamorfoses dos Pasaros
 7.0, Pete Docter & Kemp Powers,Soul
-7.0, Paolo Sorrentino,E` stata la mano di Dio/ The Hand Of God
-7.0, Jake Wachtel,Karmalink
-7.0, Paul Schrader,The Card Counter
-7.0, Paolo Sorrentino,E` stata la mano di Dio/ The Hand Of God
-7.0, Jake Wachtel,Karmalink
-7.0, Paul Schrader,The Card Counter
 7.0, Antoneta Alamat Kusijanovic,Murina
+7.0, Paolo Sorrentino,E` stata la mano di Dio/ The Hand Of God
+7.0, Jake Wachtel,Karmalink
+7.0, Paul Schrader,The Card Counter
 7.0, Semih Kaplanoglu,Baglilik Hasan/ Commitment Hasan
 7.0, Asghar Farhadi,A Hero
 7.0, Julia Ducournau,Titane
@@ -2327,10 +2324,6 @@ RATING,DIRECTOR,MOVIE
 6.8, Kiyoshi Kurosawa,To the Ends of the Earth
 6.8, Kirill Sokolov,Papa Sdokhni/ Why Don't You Just Die
 6.8, Kaouther Ben Hania,Ar-rajul Alladi ba'a Zahrihu/ The Man Who Sold His Skin
-6.8, Valentyn Vasyanovych,Vidblysk/ Reflection
-6.8, Teemu Nikki,The Blind Man Who Did Not Want to See Titanic
-6.8, Valentyn Vasyanovych,Vidblysk/ Reflection
-6.8, Teemu Nikki,The Blind Man Who Did Not Want to See Titanic
 6.8, Vladimir Johannsson,Lamb
 6.8, Vesela Kazakova & Mina Mileva,Women Do Cry
 6.8, Clio Barnard,Ali & Ava
@@ -2348,6 +2341,8 @@ RATING,DIRECTOR,MOVIE
 6.8, Suzanne Lindon,Spring Blossom
 6.8, Mia Hansen-Love,Bergman Island
 6.8, Sean Baker,Red Rocket
+6.8, Valentyn Vasyanovych,Vidblysk/ Reflection
+6.8, Teemu Nikki,The Blind Man Who Did Not Want to See Titanic
 6.7,  Eric Rohmer,Comte d'Automne/ Autumn Tale (1998)
 6.7, Bertrand Bonello,Something Organic
 6.7, Amos Gitai,Yom Yom
@@ -2485,11 +2480,9 @@ RATING,DIRECTOR,MOVIE
 6.7, Sergio Navarretta,The Cuban
 6.7, Steve McQueen,Lovers Rock
 6.7, Pedro Almodovar,The Human Voice
-6.7, Ana Lily Amirpour,Mona Lisa and the Blood Moon
-6.7, Natasha Merkulova & Aleksey Chupo,Captain Volkonogov Escaped
-6.7, Ana Lily Amirpour,Mona Lisa and the Blood Moon
-6.7, Natasha Merkulova & Aleksey Chupo,Captain Volkonogov Escaped
 6.7, Rodrigo Garcia,Four Good Days
+6.7, Ana Lily Amirpour,Mona Lisa and the Blood Moon
+6.7, Natasha Merkulova & Aleksey Chupo,Captain Volkonogov Escaped
 6.7, Naomi Kawase,True Mothers
 6.7, Nikole Beckwith,Together Together
 6.6, John Dahl,Rounders (1998)
@@ -3239,6 +3232,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Feng Xiaogang,Personal Tailor
 6.5, Ron Howard,Rush
 6.5, Woody Allen,Blue Jasmine
+6.5, Roberto Ando`,Viva la Liberta`/ Long Live Freedom
 6.5, Jean-Marc Vallee,Wild
 6.5, Tsui Hark,The Taking of Tiger Mountain
 6.5, Abel Ferrara,Welcome to New York
@@ -3304,6 +3298,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Anna Muylaert,The Second Mother
 6.5, Sarah Gavron,Suffragette
 6.5, Natalie Portman,A Tale of Love and Darkness
+6.5, Roberto Ando`,The Confessions
 6.5, Paul Negoescu,Doua Lozuri/ Two Lottery Tickets
 6.5, Naoko Yamada,Eiga Koe no Katachi/ A Silent Voice
 6.5, Bruno Dumont,Slack Bay / Ma Loute
@@ -3393,20 +3388,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Ian Nelms & Eshom Nelms,Fatman
 6.5, Clea DuVall,Happiest Season
 6.5, Ekwa Msangi,Farewell Amor
-6.5, Xavier Giannoli,Illusions Perdues/ Lost Illusions
-6.5, Potsy Ponciroli,Old Henry
-6.5, Michel Franco,Sundown
-6.5, Yvan Attal,Les Choses Humaines/ The Accusation
-6.5, Mario Martone,Qui Rido Io
-6.5, Leonardo di Costanzo,Ariaferma
-6.5, Audrey Diwan,L'Evenement/Happening
-6.5, Xavier Giannoli,Illusions Perdues/ Lost Illusions
-6.5, Potsy Ponciroli,Old Henry
-6.5, Michel Franco,Sundown
-6.5, Yvan Attal,Les Choses Humaines/ The Accusation
-6.5, Mario Martone,Qui Rido Io
-6.5, Leonardo di Costanzo,Ariaferma
-6.5, Audrey Diwan,L'Evenement/Happening
 6.5, Tatiano Huezo,Prayers For The Stolen
 6.5, Sian Heder,CODA
 6.5, Kirill Serebrennikov,Petrov's Flu
@@ -3440,6 +3421,14 @@ RATING,DIRECTOR,MOVIE
 6.5, Agnieszka Holland,Charlatan
 6.5, Arie Esiri & Chuko Esiri,Eyimofe
 6.5, John Pollono,Small Engine Repair
+6.5, Xavier Giannoli,Illusions Perdues/ Lost Illusions
+6.5, Potsy Ponciroli,Old Henry
+6.5, Michel Franco,Sundown
+6.5, Yvan Attal,Les Choses Humaines/ The Accusation
+6.5, Mario Martone,Qui Rido Io
+6.5, Leonardo di Costanzo,Ariaferma
+6.5, Audrey Diwan,L'Evenement/Happening
+6.5, Jane Campion,The Power of the Dog
 6.4, Bryan Singer,Apt Pupil (1998)
 6.4, Tamara Jenkins,Slums of Beverly Hills (1998)
 6.4, Chris Columbus,Stepmom (1998)
@@ -3596,11 +3585,6 @@ RATING,DIRECTOR,MOVIE
 6.4, Julia Hart,I'm Your Woman
 6.4, Edgar Wright,Last Night in Soho
 6.4, Pablo Larrain,Spencer
-6.4, Jane Campion,The Power of the Dog
-6.4, Denis Villeneuve,Dune
-6.4, Edgar Wright,Last Night in Soho
-6.4, Pablo Larrain,Spencer
-6.4, Jane Campion,The Power of the Dog
 6.4, Denis Villeneuve,Dune
 6.4, Clark Johnson,Percy vs Goliath
 6.4, Zack Snyder,Army of the Dead
@@ -5216,26 +5200,6 @@ RATING,DIRECTOR,MOVIE
 6.0, Deepa Mehta,Funny Boy
 6.0, Paul Greengrass,News of the World
 6.0, Patrick Liu,Your Name Engraved Herein
-6.0, Maggie Gyllenhaal,The Lost Daughter
-6.0, Pedro Almodovar,Madres Paralelas/ Parallel Mothers
-6.0, David Gorden Green,Halloween Kills
-6.0, Jan Matuszynski,Zeby nie bylo Sladow/ Leave No Traces
-6.0, Gabriele Mainetti,Freaks Out
-6.0, Damiano & Fabio D'Innocenzo,America Latina
-6.0, Thomas Kruithof,Les Promesses
-6.0, Antoine Barraud,Madeleine Collins
-6.0, Ridley Scott,The Last Duel
-6.0, Mariano Cohn & Gaston Duprat,Competencia Oficial/ Official Competition
-6.0, Maggie Gyllenhaal,The Lost Daughter
-6.0, Pedro Almodovar,Madres Paralelas/ Parallel Mothers
-6.0, David Gorden Green,Halloween Kills
-6.0, Jan Matuszynski,Zeby nie bylo Sladow/ Leave No Traces
-6.0, Gabriele Mainetti,Freaks Out
-6.0, Damiano & Fabio D'Innocenzo,America Latina
-6.0, Thomas Kruithof,Les Promesses
-6.0, Antoine Barraud,Madeleine Collins
-6.0, Ridley Scott,The Last Duel
-6.0, Mariano Cohn & Gaston Duprat,Competencia Oficial/ Official Competition
 6.0, Chris Appelhans,Wish Dragon
 6.0, Jonathan Hensleigh,The Ice Road
 6.0, Leigh Janiak,Fear Street
@@ -5277,6 +5241,19 @@ RATING,DIRECTOR,MOVIE
 6.0, Kay Cannon,Cinderella
 6.0, Vicente Amorim,Yakuza Princess
 6.0, Natalie Morales,Language Lessons
+6.0, Maggie Gyllenhaal,The Lost Daughter
+6.0, Pedro Almodovar,Madres Paralelas/ Parallel Mothers
+6.0, David Gorden Green,Halloween Kills
+6.0, Jan Matuszynski,Zeby nie bylo Sladow/ Leave No Traces
+6.0, Gabriele Mainetti,Freaks Out
+6.0, Damiano & Fabio D'Innocenzo,America Latina
+6.0, Thomas Kruithof,Les Promesses
+6.0, Antoine Barraud,Madeleine Collins
+6.0, Ridley Scott,The Last Duel
+6.0, Mariano Cohn & Gaston Duprat,Competencia Oficial/ Official Competition
+6.0, Stephanie Brize,Un Autre Monde/ Another World
+6.0, Roberto Ando`,Il Bambino Nascosto
+6.0, Francesco Lettieri,Lovely Boy
 5.9, Alan Rudolph,Breakfast of Champions (1998)
 5.9, Woody Allen,Celebrity (1998)
 5.9, Mike Van Diem,Character  (1998)
@@ -5846,9 +5823,8 @@ RATING,DIRECTOR,MOVIE
 5.5, Jessica Swale,Summerland
 5.5, James D'Arcy,Made in Italy
 5.5, Christopher Nolan,Tenet
-5.5, Stefano Mordini,La Scoula Cattolica
-5.5, Stefano Mordini,La Scoula Cattolica
 5.5, Sia,Music
+5.5, Stefano Mordini,La Scoula Cattolica
 5.5, Celine Sciamma,Mi Iubita Mon Amour
 5.5, Nanni Moretti,Tre Piani
 5.5, Oskar Roehler,Enfant Terrible
@@ -7292,11 +7268,9 @@ RATING,DIRECTOR,MOVIE
 5.0, Steven Soderbergh,Let Them All Talk
 5.0, Maiwenn LeBesco,DNA
 5.0, Ron Vignone,Two Ways Home
-5.0, Lorenzo Vigas,La Caja/ The Box
-5.0, David Gordon Green,Halloween Kills
-5.0, Lorenzo Vigas,La Caja/ The Box
-5.0, David Gordon Green,Halloween Kills
 5.0, Kazik Radwanski,"Anne at 13,000 Ft"
+5.0, Lorenzo Vigas,La Caja/ The Box
+5.0, David Gordon Green,Halloween Kills
 5.0, Carson Mell,Some of Our Stallions
 5.0, Braden King,The Evening Hour
 5.0, Trent O'Donnell,Ride the Eagle
