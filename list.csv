@@ -585,7 +585,6 @@ RATING,DIRECTOR,MOVIE
 7.1, Denes Nagy,Natural Light
 7.1, Le Bao,Taste
 7.1, Fran Kranz,Mass
-7.1, Sian Heder,CODA
 7.1, Amalia Ulman,El Planeta
 7.1, Dash Shaw,Cryptozoo
 7.1, Iuli Gerbase,The Pink Cloud
@@ -633,6 +632,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Bruno Dumont,Humanite / Humanity (1999)
 7.0, James Toback,Black And White
 7.0, Chan-wook Park,Gongdonggyeongbiguyeok Jeieseuei/ Joint Security Area
+7.0, Anders Thomas Jensen,Blinkende Lygter/ Flickering Lights
 7.0, Joao Pedro Rodrigues,O Fantasma
 7.0, Kim Ki-Duk,The Isle
 7.0, Olivier Assayas,Les Destinees
@@ -1420,6 +1420,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Drew Goddard,Bad Times at the El Royale
 7.0, Sebastian Silva,Tyrel
 7.0, Joel & Ethan Coen,The Ballad Of Buster Scruggs
+7.0, Alexandre Moratto,Socrates
 7.0, Olivia Wilde,Booksmart
 7.0, Tran Thanh Huy,Rom  (2019)
 7.0, Rodd Rathjen,Buoyancy
@@ -1577,6 +1578,8 @@ RATING,DIRECTOR,MOVIE
 7.0, Aparna Sen,Rapist
 7.0, Brillante Ma Mendoza,Gensan Punch
 7.0, Qi Wang,The Bargain
+7.0, Sian Heder,CODA
+7.0, Alexandre Moratto,7 Prisoners
 6.9, Stephen Frears,The Hi-Lo Country  (1998)
 6.9, Paul Auster,Lulu on the Bridge
 6.9, Paul Schrader,Affliction (1998)
@@ -2374,7 +2377,6 @@ RATING,DIRECTOR,MOVIE
 6.8, Spike Lee,Da 5 Bloods
 6.8, Kirill Sokolov,Papa Sdokhni/ Why Don't You Just Die
 6.8, Kaouther Ben Hania,Ar-rajul Alladi ba'a Zahrihu/ The Man Who Sold His Skin
-6.8, Vladimir Johannsson,Lamb
 6.8, Vesela Kazakova & Mina Mileva,Women Do Cry
 6.8, Clio Barnard,Ali & Ava
 6.8, Justin Chon,Blue Bayou
@@ -3454,10 +3456,8 @@ RATING,DIRECTOR,MOVIE
 6.5, Theodore Melf,The Starling
 6.5, Danis Goulet,Night Raiders
 6.5, Hany Abu-Assad,Huda's Salon
-6.5, Clio Barnard,Ali & Ava
 6.5, Terence Davies,Benediction
 6.5, Mahamat-Saleh Haroun,Lingui
-6.5, Sian Heder,CODA
 6.5, Kirill Serebrennikov,Petrov's Flu
 6.5, Sebastian Meise,Great Freedom
 6.5, Nabil Ayouch,Casablanca Beats
@@ -3502,7 +3502,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Evgeny Ruman,Golden Voices
 6.5, Gillian Wallace Horvat,I Blame Society
 6.5, Eric Andre,Bad Trip
-6.5, Tim Hill,The SpongeBob Movie - Sponge on the Run
 6.5, Ryusuke Hamaguchi,Guzen to Sozo/ Wheel of Fortune and Fantasy
 6.5, John Ridley,Needle in a Timestack
 6.5, Seung-wan Ryoo,Escape From Mogadishu
@@ -5322,7 +5321,7 @@ RATING,DIRECTOR,MOVIE
 6.0, Maximiliano Contenti,The Last Matinee
 6.0, Pascual Sisto,John and the Hole
 6.0, Shawn Levy,Free Guy
-6.0, Rodo Sayagues,Dont Breathe 2
+6.0, Rodo Sayagues,Don't Breathe 2
 6.0, Liesl Tommy,Respect
 6.0, Kay Cannon,Cinderella
 6.0, Vicente Amorim,Yakuza Princess
@@ -5349,6 +5348,7 @@ RATING,DIRECTOR,MOVIE
 6.0, Sarah Smith & Jean-Philippe Vine,Ron's Gone Wrong
 6.0, Will Sharpe,The Electrical Life of Louis Wain
 6.0, Amy Koppelman,A Mouthful of Air
+6.0, Joe Odagiri,They Say Nothing Stays the Same
 5.9, Alan Rudolph,Breakfast of Champions (1998)
 5.9, Woody Allen,Celebrity (1998)
 5.9, Mike Van Diem,Character  (1998)
@@ -7414,6 +7414,8 @@ RATING,DIRECTOR,MOVIE
 5.0, Justine Bateman,Violet
 5.0, Matthew Fifer & Kieran Mulcare,Cicada
 5.0, Miguel Sapochnik,Finch
+5.0, Tim Hill,Sponge on the Run
+5.0, Danis Goulet,Night Raiders
 4.9, Luis Galvao Teles,Elles
 4.9, Shane Meadows,A Room For Romeo Brass
 4.9, Thomas Lee,Supernova
@@ -7863,7 +7865,6 @@ RATING,DIRECTOR,MOVIE
 4.5, Chloe Zhao,Eternals
 4.5, Vince Marcello,The Kissing Booth 3
 4.5, Stephen Daldry & Justin Martin,Together
-4.5, Sean Penn,Flag Day
 4.5, Navot Papushado,Gunpowder Milkshake
 4.5, Malcolm Lee,Space Jam - A New Legacy
 4.5, Shari Springer Berman & Robert Pulcini,Things Heard & Seen
@@ -7874,6 +7875,7 @@ RATING,DIRECTOR,MOVIE
 4.5, David Charhon,The Last Mercenary
 4.5, Andrew Irvine & Mark Smoot,No Future
 4.5, Matthias Schweighoefer,Army of Thieves
+4.5, Eleanor Coppola,Love Is Love Is Love
 4.4, Mike Mitchell,Deuce Bigalow Male Gigolo
 4.4, Eric Weber,Suits
 4.4, Joan Chen,Autumn In New York
@@ -8565,7 +8567,6 @@ RATING,DIRECTOR,MOVIE
 4.0, Will Gluck,Peter Rabbit 2 - The Runaway
 4.0, Tim Story,Tom & Jerry
 4.0, Amy Poehler,Moxie
-4.0, Tim Hill,Sponge on the Run
 4.0, Miguel Arteta,Yes Day
 4.0, Devereux Milburn,Honeydew
 4.0, Vaughn Stein,Every Breath You Take
@@ -8579,7 +8580,6 @@ RATING,DIRECTOR,MOVIE
 4.0, Cal Brunker,Paw Patrol the Movie
 4.0, Robert Cullen etc,My Little Pony - A New Generation
 4.0, Adam Salk,Intrusion
-4.0, Cary Joji Fukunaga,No Time to Die
 4.0, Adam Randall,Night Teeth
 4.0, Aharon Keshales,South of Heaven
 4.0, Cary Joji Fukunaga,No Time to Die
