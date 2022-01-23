@@ -332,6 +332,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Theo Court,White on White
 7.2, Rose Glass,Saint Maud
 7.2, Alexis Gambis,Son of Monarchs
+7.2, Gonzalo Calzada,Nocturna
 7.2, Mohammad Rasoulof,There Is No Evil
 7.2, Ming-liang Tsai,Days
 7.2, Kornel Mundruczo,Pieces of a Woman
@@ -595,6 +596,7 @@ RATING,DIRECTOR,MOVIE
 7.1, Celine Sciamma,Petite Maman
 7.1, Kira Kovalenko,Unclenching the Fists
 7.1, Lauren Hadaway,The Novice
+7.1, Mamoru Hosoda,Belle
 7.0, Sang-soo Hong,Kangwon-do Ui Him/ The Power of Kangwon Province (1998)
 7.0, Mike Hodges,Croupier (1998)
 7.0, Vincent Gallo,Buffalo '66 (1998)
@@ -1061,6 +1063,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Dee Rees,Pariah
 7.0, Joe Cornish,Attack the Block
 7.0, Harmony Korine,Spring Breakers
+7.0, Mamoru Hosoda,Wolf Children
 7.0, Radu Jude,Toata Lumea din Familia Noastra/ Everybody In Our Family (2012)
 7.0, Julia Dyer,The Playroom
 7.0, Peter Strickland,Berberian Sound Studio (2012)
@@ -1365,6 +1368,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Liu Jian,Have a Nice Day
 7.0, Pedro Pinho,The Nothing Factory
 7.0, Mike Leigh,Peterloo
+7.0, Mamoru Hosoda,Mirai
 7.0, Rahi Anil Barve,Tumbbad
 7.0, Gustav Moller,The Guilty
 7.0, Ash Mayfair,The Third Wife
@@ -1554,7 +1558,6 @@ RATING,DIRECTOR,MOVIE
 7.0, SK Dale,Till Death
 7.0, Steven Soderbergh,No Sudden Move
 7.0, Ryusuke Hamaguchi,Wheel of Fortune and Fantasy
-7.0, Sang-soo Hong,Introduction
 7.0, Alice Diop,We
 7.0, Denis Cote,Social Hygiene
 7.0, Jane Schoenbrun,We're All Going to the World's Fair
@@ -1570,7 +1573,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Michael Sarnoski,Pig
 7.0, Juho Kuosmanen,Hytti No 6/ Compartment No 6
 7.0, Kogonada,After Yang
-7.0, Mamoru Hosoda,Belle
 7.0, Mahamat-Saleh Haroun,Lingui
 7.0, Tom McCarthy,Stillwater
 7.0, James Ashcroft,Coming Home in the Dark
@@ -2391,6 +2393,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Kirill Sokolov,Papa Sdokhni/ Why Don't You Just Die
 6.8, Kaouther Ben Hania,Ar-rajul Alladi ba'a Zahrihu/ The Man Who Sold His Skin
 6.8, Vesela Kazakova & Mina Mileva,Women Do Cry
+6.8, Sang-soo Hong,Introduction
 6.8, Clio Barnard,Ali & Ava
 6.8, Justin Chon,Blue Bayou
 6.8, Leos Carax,Annette
@@ -2415,6 +2418,8 @@ RATING,DIRECTOR,MOVIE
 6.8, Tatiana Huezo,Prayers for the Stolen
 6.8, Sean Baker,Red Rocket
 6.8, Joe Wright,Cyrano
+6.8, Aimee Long,A Shot Through the Wall
+6.8, Sujata Day,Definition Please
 6.7,  Eric Rohmer,Comte d'Automne/ Autumn Tale (1998)
 6.7, Bertrand Bonello,Something Organic
 6.7, Amos Gitai,Yom Yom
@@ -3470,6 +3475,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Clea DuVall,Happiest Season
 6.5, Ekwa Msangi,Farewell Amor
 6.5, Theodore Melf,The Starling
+6.5, Iuli Gerbase,A Nuvem Rosa/ The Pink Cloud
 6.5, Edgar Wright,Last Night in Soho
 6.5, Danis Goulet,Night Raiders
 6.5, Hany Abu-Assad,Huda's Salon
@@ -3525,6 +3531,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Lin-Manuel Miranda,Tick Tick Boom
 6.5, Maggie Gyllenhaal,The Lost Daughter
 6.5, Guillermo del Toro,Nightmare Alley
+6.5, Christian Schwochow,Munich - The Edge of War
 6.4, Bryan Singer,Apt Pupil (1998)
 6.4, Tamara Jenkins,Slums of Beverly Hills (1998)
 6.4, Chris Columbus,Stepmom (1998)
@@ -5377,6 +5384,7 @@ RATING,DIRECTOR,MOVIE
 6.0, Matthew Vaughn,The Kings Man
 6.0, Jon Watts,Spider-Man - No Way Home
 6.0, Kunle Afolayan,A Naija Christmas
+6.0, Agam Darshi,Donkeyhead
 5.9, Alan Rudolph,Breakfast of Champions (1998)
 5.9, Woody Allen,Celebrity (1998)
 5.9, Mike Van Diem,Character  (1998)
@@ -7456,6 +7464,9 @@ RATING,DIRECTOR,MOVIE
 5.0, Michael Dowse,8-Bit Christmas
 5.0, Lana Wachowski,The Matrix Resurrections
 5.0, Andrew Erwin & Jon Erwin,American Underdog
+5.0, Sean McNamara,The King's Daughter
+5.0, Rick Jacobson,The Royal Treatment
+5.0, Danielle Arbid,Simple Passion
 4.9, Luis Galvao Teles,Elles
 4.9, Shane Meadows,A Room For Romeo Brass
 4.9, Thomas Lee,Supernova
