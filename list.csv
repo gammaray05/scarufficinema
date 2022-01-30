@@ -341,9 +341,13 @@ RATING,DIRECTOR,MOVIE
 7.2, Filip Jan Rymsza,Mosquito State
 7.2, Fernanda Veladez,Sin Senas Particulares Identifying Features
 7.2, Janicza Bravo,Zola
+7.2, Anders Thomas Jensen,Retfaerdighedens Ryttere/ Riders of Justice
 7.2, Alexandre Koberidze,What Do We See When We Look at the Sky?
 7.2, Apichatpong Weerasethakul,Memoria
 7.2, Paul Thomas Anderson,Licorice Pizza
+7.2, Fran Kranz,Mass
+7.2, Celine Sciamma,Petite Maman
+7.2, Adam McKay,Don't Look Up
 7.1,  Tom Tykwer,Lola Rennt/ Run Lola Run
 7.1, Steven Spielberg,Saving Private Ryan (1998)
 7.1,  Darren Aronofsky,Pi (1998)
@@ -587,13 +591,11 @@ RATING,DIRECTOR,MOVIE
 7.1, Lemohang Jeremiah Mosese,"This Is Not a Burial, It's a Resurrection"
 7.1, Denes Nagy,Natural Light
 7.1, Le Bao,Taste
-7.1, Fran Kranz,Mass
 7.1, Amalia Ulman,El Planeta
 7.1, Dash Shaw,Cryptozoo
 7.1, Iuli Gerbase,The Pink Cloud
 7.1, Ana Katz,The Dog Who Wouldn't Be Quiet
 7.1, Joanna Hogg,The Souvenir Part II
-7.1, Celine Sciamma,Petite Maman
 7.1, Kira Kovalenko,Unclenching the Fists
 7.1, Lauren Hadaway,The Novice
 7.1, Mamoru Hosoda,Belle
@@ -1502,7 +1504,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Ephraim Asili,The Inheritance
 7.0, Azazel Jacobs,French Exit
 7.0, C.W. Winter and Anders Edstrom,The Works and Days
-7.0, Anders Thomas Jensen,Retfaerdighedens Ryttere/ Riders of Justice
 7.0, Luca Guadagnino,We are Who we are
 7.0, Lawrence Michael Levine,Black Bear
 7.0, Philippe Garrel,The Salt of Tears
@@ -1535,9 +1536,9 @@ RATING,DIRECTOR,MOVIE
 7.0, Pete Docter & Kemp Powers,Soul
 7.0, Yujiro Harumoto,A Balance
 7.0, Pak Ruslan,Three
-7.0, Benjamin Cleary,Swan Song
-7.0, Adam McKay,Dont Look Up
 7.0, Kenneth Branagh,Belfast
+7.0, Juho Kuosmanen,Hytti nro 6/ Compartment No 6
+7.0, Benjamin Cleary,Swan Song
 7.0, Gaspar Noe,Vortex
 7.0, Maria Schrader,I'm Your Man
 7.0, TJ Gnanavel,Jai Bhim
@@ -2283,6 +2284,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Brady Corbet,The Childhood of a Leader
 6.8, Ken Loach,I Daniel Blake
 6.8, Robert Zemeckis,Allied
+6.8, Juho Kuosmanen,Hymyileva Mies/ Smiling Man/ The Happiest Day in the Life of Olli Maki
 6.8,  Scooter Corkle,Hollow in the Land
 6.8, Shinichiro Ueda,Kamera o Tomeru na/ Don't Stop the Camera/ One Cut of the Dead (2017)
 6.8, Emmanuel Gras,Makala
@@ -2420,6 +2422,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Joe Wright,Cyrano
 6.8, Aimee Long,A Shot Through the Wall
 6.8, Sujata Day,Definition Please
+6.8, Michael Rianda,The Mitchells vs. the Machines
 6.7,  Eric Rohmer,Comte d'Automne/ Autumn Tale (1998)
 6.7, Bertrand Bonello,Something Organic
 6.7, Amos Gitai,Yom Yom
@@ -3502,7 +3505,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Dusty Mancinelli & Madeleine Sims-Fewer,Violation
 6.5, Bettina Oberli,My Wonderful Wanda
 6.5, Rodrigo Bellott,Tu Me Manques
-6.5, Michael Rianda,The Mitchells vs. the Machines
 6.5, Wagner Moura,Marighella
 6.5, Natalie Morales,Plan B
 6.5, Jacques Audiard,Paris 13th District
@@ -3690,7 +3692,6 @@ RATING,DIRECTOR,MOVIE
 6.4, Jonathan Butterell,Everybody's Talking About Jamie
 6.4, John Krasinski,A Quiet Place II
 6.4, Pablo Larrain,Spencer
-6.4, Denis Villeneuve,Dune
 6.4, Clark Johnson,Percy vs Goliath
 6.4, Zack Snyder,Army of the Dead
 6.4, Ian Samuels,The Map of Tiny Perfect Things
@@ -5957,6 +5958,7 @@ RATING,DIRECTOR,MOVIE
 5.5, James D'Arcy,Made in Italy
 5.5, Christopher Nolan,Tenet
 5.5, Sia,Music
+5.5, Reinaldo Marcus Green,King Richard
 5.5, Stefano Mordini,La Scoula Cattolica
 5.5, Celine Sciamma,Mi Iubita Mon Amour
 5.5, Nanni Moretti,Tre Piani
@@ -6065,6 +6067,7 @@ RATING,DIRECTOR,MOVIE
 5.3, Fred Durst,The Fanatic
 5.3, Gary Lundgren,Phoenix Oregon
 5.3, Andrew Heckler,Burden
+5.3, Denis Villeneuve,Dune
 5.2, Volker Schlondorff,Palmetto  (1998)
 5.2, Kurt Russell,Soldier (1998)
 5.2, Stephen Hopkins,Lost In Space  (1998)
@@ -6142,6 +6145,7 @@ RATING,DIRECTOR,MOVIE
 5.1, Noah Hawley,Lucy in the Sky
 5.1, Benjamin Kasulke,Banana Split
 5.1, Peter Segal,My Spy
+5.1, Denzel Washington,A Journal for Jordan
 5.0, Zalman King,In God's Hands  (1998)
 5.0, Tommy O'Haver,Billy's Hollywood Screen Kiss (1998)
 5.0, Thomas Mazziotti,Charlie Hoboken (1998)
@@ -7411,7 +7415,6 @@ RATING,DIRECTOR,MOVIE
 5.0, Ron Vignone,Two Ways Home
 5.0, Kazik Radwanski,"Anne at 13,000 Ft"
 5.0, Simon Kinberg,The 355
-5.0, Denzel Washington,A Journal for Jordan
 5.0, Nora Fingscheidt, The Unforgivable
 5.0, Michael Pearce,Encounter
 5.0, David Gorden Green,Halloween Kills
