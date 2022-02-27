@@ -196,8 +196,8 @@ RATING,DIRECTOR,MOVIE
 7.3, Chloe Zhao,Nomadland
 7.3, Lee Isaac Chung,Minari
 7.3, Andreas Fontana,Azor
-7.3, Radu Jude,Bad Luck Banging or Loony Porn
 7.3, Jane Campion,The Power of the Dog
+7.3, Gonzalo Calzada,Nocturna
 7.2, Hsiao-Hsien Hou,Haishang Hua/ Flowers of Shangai
 7.2, Joel Coen,Big Lebowski  (1998)
 7.2, Manoel DeOliveira,Inquietude/ Anxiety (1998)
@@ -279,6 +279,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Miranda July,The Future
 7.2, Pedro Almodovar,The Skin I Live In
 7.2, Matteo Garrone,Reality
+7.2, Anurag Kashyap,Gangs of Wasseypur
 7.2, Cristian Mungiu,Beyond the Hills
 7.2, Jem Cohen,Museum Hours
 7.2, Raul Ruiz,Night Across the Street
@@ -288,7 +289,6 @@ RATING,DIRECTOR,MOVIE
 7.2, Hirokazu Kore-eda,Soshite Chichi ni Naru/ Like Father Like Son
 7.2, Jafar Panahi,Closed Curtain
 7.2, Isao Takahata,Kaguya-hime no Monogatari/ The Tale Of Princess Kaguya
-7.2, Anurag Kashyap,Gangs of Wasseypur (2013)
 7.2, Lisandro Alonso,Jauja
 7.2, Kornel Mundruczo,White God
 7.2, Alice Rohrwacher,Le Meraviglie/ The Wonders
@@ -333,7 +333,6 @@ RATING,DIRECTOR,MOVIE
 7.2, Theo Court,White on White
 7.2, Rose Glass,Saint Maud
 7.2, Alexis Gambis,Son of Monarchs
-7.2, Gonzalo Calzada,Nocturna
 7.2, Mohammad Rasoulof,There Is No Evil
 7.2, Ming-liang Tsai,Days
 7.2, Kornel Mundruczo,Pieces of a Woman
@@ -576,6 +575,7 @@ RATING,DIRECTOR,MOVIE
 7.1, Pablo Larrain,Ema
 7.1, Agnieszka Holland,Mr Jones
 7.1, Roy Andersson,About Endlessness
+7.1, Lemohang Jeremiah Mosese,"This Is Not a Burial, It's a Resurrection"
 7.1, David Bruckner,The Night House
 7.1, Kiyoshi Kurosawa,Supai no Tsuma/ Wife of a Spy
 7.1, Sang-soo Hong,Domangchin Yeoja/ The Woman Who Ran
@@ -591,7 +591,6 @@ RATING,DIRECTOR,MOVIE
 7.1, Cristi Puiu,Malmkrog
 7.1, Majid Majidi,Khorshid/ Sun Children
 7.1, Viggo Mortensen,Falling
-7.1, Lemohang Jeremiah Mosese,"This Is Not a Burial, It's a Resurrection"
 7.1, Denes Nagy,Natural Light
 7.1, Le Bao,Taste
 7.1, Amalia Ulman,El Planeta
@@ -602,6 +601,7 @@ RATING,DIRECTOR,MOVIE
 7.1, Kira Kovalenko,Unclenching the Fists
 7.1, Lauren Hadaway,The Novice
 7.1, Mamoru Hosoda,Belle
+7.1, James Vaughan,Friends and Strangers
 7.0, Sang-soo Hong,Kangwon-do Ui Him/ The Power of Kangwon Province (1998)
 7.0, Mike Hodges,Croupier (1998)
 7.0, Vincent Gallo,Buffalo '66 (1998)
@@ -901,6 +901,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Ramin Bahrani,Chop Shop
 7.0, Quentin Dupieux,Steak
 7.0, Yoji Yamada,Kabei
+7.0, Nandita Das,Firaaq
 7.0, Jean-Francois Richet,Mesrine
 7.0, Noah and Logan Miller,Touching Home
 7.0, Malgorzata Szumowska,33 sceny z zycia/ 33 Scenes from Life
@@ -978,7 +979,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Duncan Jones,Moon
 7.0, Maren Ade,Alle Anderen/ Everyone Else
 7.0, Jerzy Skolimowski,Essential Killing
-7.0, Nandita Das,Firaaq (2010)
 7.0, Vikramaditya Motwane,Udaan (2010)
 7.0, Nina Menkes,Dissolution
 7.0, David Robert Mitchell,The Myth of the American Sleepover
@@ -1107,6 +1107,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Ava DuVernay,Middle of Nowhere
 7.0, Paul Thomas Anderson,The Master
 7.0, Lance Edmands,Bluebird
+7.0, Rajat Kapoor,Ankhon Dekhi
 7.0, Zaza Urushadze,Tangerine
 7.0, Claire Denis,Bastards
 7.0, Andrea Pallaoro,Medeas
@@ -1177,7 +1178,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Ben Wheatley,A Field in England
 7.0, Mia Hansen,Eden
 7.0, Celine Sciamma,Bande de Filles/ Girlhood
-7.0, Rajat Kapoor,Ankhon Dekhi (2014)
 7.0, Alex Perry,Listen Up Philip
 7.0, Jeffrey Chandor,A Most Violent Year
 7.0, Joshua Oppenheimer,The Look of Silence
@@ -1223,8 +1223,9 @@ RATING,DIRECTOR,MOVIE
 7.0, Chris Rock,Top Five
 7.0, Christopher Nolan,Interstellar
 7.0, Lorenzo Vigas,Desde Alla/ From Afar
+7.0, Shoojit Sircar,Piku (2015)
 7.0, Roberto Berliner,Nise (2015)
-7.0, Gabriele Mainetti,Lo chiamavano Jeeg Robot/ They Call Me Jeeg
+7.0, Gabriele Mainetti,Lo Chiamavano Jeeg Robot/ They Call Me Jeeg
 7.0, Sion Sono,The Whispering Star (2015)
 7.0, Pema Tseden, Tharlo
 7.0, Agnieszka Smoczynska,The Lure
@@ -1270,7 +1271,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Malgorzata Szumowska,Body
 7.0, Spike Lee,Chi-Raq
 7.0, Maysaloun Hamoud,In Between
-7.0, Shoojit Sircar,Piku (2016)
 7.0, Julia Ducournau,Raw
 7.0, Chris Kraus,The Bloom of Yesterday (2016)
 7.0, Andrea Arnold,American Honey
@@ -1442,7 +1442,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Trey Edward Shults,Waves
 7.0, Maria Sodahl,Hope
 7.0, Lorcan Finnegan,Vivarium
-7.0, Lemohang Jeremiah Mosese,"This Is Not a Burial, It's a Resurrection"
 7.0," Te-yin ""Midi Z"" Chao",Zhuo Ren Mi Mi/ Nina Wu
 7.0, Kenji Iwaisawa,On-Gaku - Our Sound
 7.0, David Perrault,L'Etat Sauvage/ Savage State
@@ -1495,7 +1494,8 @@ RATING,DIRECTOR,MOVIE
 7.0, Chinonye Chukwu,Clemency
 7.0, Shatara Michelle Ford,Test Pattern
 7.0, Daniel Grou,Mafia Inc
-7.0, Kitty Green,The Assistant
+7.0, Dea Kulumbegashvili,Beginning
+7.0, Ivan Ostrochovsky,Sluzobnici/ Servants
 7.0, Christian Petzold,Undine
 7.0, Matias Pineiro,Isabella
 7.0, Bassam Tariq,Mogul Mowgli
@@ -1539,6 +1539,8 @@ RATING,DIRECTOR,MOVIE
 7.0, Pete Docter & Kemp Powers,Soul
 7.0, Yujiro Harumoto,A Balance
 7.0, Pak Ruslan,Three
+7.0, Travis Taute,Indemnity
+7.0, Ruth Paxton,A Banquet
 7.0, Kenneth Branagh,Belfast
 7.0, Juho Kuosmanen,Hytti nro 6/ Compartment No 6
 7.0, Benjamin Cleary,Swan Song
@@ -1575,7 +1577,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Shaka King,Judas and the Black Messiah
 7.0, Ben Wheatley,In The Earth
 7.0, Michael Sarnoski,Pig
-7.0, Juho Kuosmanen,Hytti No 6/ Compartment No 6
 7.0, Kogonada,After Yang
 7.0, Tom McCarthy,Stillwater
 7.0, James Ashcroft,Coming Home in the Dark
@@ -1590,12 +1591,9 @@ RATING,DIRECTOR,MOVIE
 7.0, Abel Ferrara,Zeros and Ones
 7.0, Wes Anderson,The French Dispatch
 7.0, Leonardo DiCostanzo,Ariaferma
-7.0, Lili Horvat,Preparations to Be Together for an Unknown Period of Time
-7.0, Edson Oda,Nine Days
 7.0, Clint Bentley,Jockey
-7.0, Shatara Michelle Ford,Test Pattern
-7.0, Dea Kulumbegashvili,Beginning
 7.0, Jonas Poher Rasmussen,Flee
+7.0, Pedro Almodovar,Madres Paralelas/ Parallel Mothers
 6.9, Stephen Frears,The Hi-Lo Country  (1998)
 6.9, Paul Auster,Lulu on the Bridge
 6.9, Paul Schrader,Affliction (1998)
@@ -1922,6 +1920,7 @@ RATING,DIRECTOR,MOVIE
 6.9, Philippe Lacote,Night of the Kings
 6.9, Enrico Casarosa,Luca
 6.9, Ninja Thyberg,Pleasure
+6.9, Radu Jude,Bad Luck Banging or Loony Porn
 6.9, Natalia Almada,Users
 6.9, Robin Wright,Land
 6.9, Oliver Hermanus,Moffie
@@ -5359,7 +5358,6 @@ RATING,DIRECTOR,MOVIE
 6.0, Kay Cannon,Cinderella
 6.0, Vicente Amorim,Yakuza Princess
 6.0, Natalie Morales,Language Lessons
-6.0, Pedro Almodovar,Madres Paralelas/ Parallel Mothers
 6.0, Jan Matuszynski,Zeby nie bylo Sladow/ Leave No Traces
 6.0, Gabriele Mainetti,Freaks Out
 6.0, Damiano & Fabio D'Innocenzo,America Latina
