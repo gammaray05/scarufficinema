@@ -216,6 +216,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Francois Ozon,Gouttes d'Eau Sur Pierres Brulantes/ Water Drops On Burning Rocks
 7.2, Takashi Miike,Ichi the Killer
 7.2, Cristi Puiu,Marfa si Banii/ Stuff and Dough
+7.2, Mamoru Oshii,Avaron/ Avalon (2001)
 7.2, Apichatpong Weerasethakul,Sud Sanaeha/ Blissfully Yours
 7.2, Mahamet-Saleh Haroun,Abouna
 7.2, Jonas Akerlund,Spun
@@ -347,6 +348,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Apichatpong Weerasethakul,Memoria
 7.2, Paul Thomas Anderson,Licorice Pizza
 7.2, Fran Kranz,Mass
+7.2, Sian Heder,Coda
 7.2, Celine Sciamma,Petite Maman
 7.2, Adam McKay,Don't Look Up
 7.2, Mahamat-Saleh Haroun,Lingui
@@ -379,6 +381,7 @@ RATING,DIRECTOR,MOVIE
 7.1, Mike Figgis,Hotel
 7.1, Wes Anderson,The Royal Tenenbaums
 7.1, Christian Petzold,Toter Mann / Something To Remind Me
+7.1, Todd Haynes,Far From Heaven
 7.1, Chang-dong Lee,Oasis
 7.1, Andrei Konchalovsky,House of Fools
 7.1, Niki Caro,Whale Rider
@@ -592,6 +595,7 @@ RATING,DIRECTOR,MOVIE
 7.1, Majid Majidi,Khorshid/ Sun Children
 7.1, Viggo Mortensen,Falling
 7.1, Denes Nagy,Natural Light
+7.1, Jakrawal Nilthamrong,Anatomy of Time
 7.1, Le Bao,Taste
 7.1, Amalia Ulman,El Planeta
 7.1, Dash Shaw,Cryptozoo
@@ -718,7 +722,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Elia Suleiman,Intervention Divine
 7.0, Przemyslaw Reut,Paradox Lake
 7.0, Alexander Payne,About Schmidt
-7.0, Todd Haynes,Far From Heaven
 7.0, Steven Spielberg,Catch Me if You
 7.0, Stephen Daldry,The Hours
 7.0, Paul Thomas Anderson,Punch-Drunk Love
@@ -1538,7 +1541,9 @@ RATING,DIRECTOR,MOVIE
 7.0, Pete Docter & Kemp Powers,Soul
 7.0, Yujiro Harumoto,A Balance
 7.0, Pak Ruslan,Three
+7.0, Sion Sono,Red Post on Escher Street
 7.0, Travis Taute,Indemnity
+7.0, Radu Muntean,Intregalde
 7.0, Ruth Paxton,A Banquet
 7.0, Kenneth Branagh,Belfast
 7.0, Juho Kuosmanen,Hytti nro 6/ Compartment No 6
@@ -1585,7 +1590,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Aparna Sen,Rapist
 7.0, Brillante Ma Mendoza,Gensan Punch
 7.0, Qi Wang,The Bargain
-7.0, Sian Heder,CODA
 7.0, Alexandre Moratto,7 Prisoners
 7.0, Abel Ferrara,Zeros and Ones
 7.0, Wes Anderson,The French Dispatch
@@ -7384,6 +7388,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Sophia Takal,Black Christmas
 5.0, Wilson Yip,Ip Man 4 The Finale
 5.0, Floria Sigismondi,The Turning
+5.0, Ann Hui,Love After Love
 5.0, Andy de Emmony,Four Kids and It
 5.0, Elissa Down,Feel the Beat
 5.0, Mike Doyle,Almost Love
@@ -7417,6 +7422,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Maiwenn LeBesco,DNA
 5.0, Ron Vignone,Two Ways Home
 5.0, Kazik Radwanski,"Anne at 13,000 Ft"
+5.0, Hannah Barlow & Kane Senes,Sissy
 5.0, Simon Kinberg,The 355
 5.0, Nora Fingscheidt, The Unforgivable
 5.0, Michael Pearce,Encounter
