@@ -607,6 +607,8 @@ RATING,DIRECTOR,MOVIE
 7.1, Lauren Hadaway,The Novice
 7.1, Mamoru Hosoda,Belle
 7.1, James Vaughan,Friends and Strangers
+7.1, Juho Kuosmanen,Hytti nro 6/ Compartment No 6
+7.1, Tatiano Huezo,Prayers For The Stolen
 7.0, Sang-soo Hong,Kangwon-do Ui Him/ The Power of Kangwon Province (1998)
 7.0, Mike Hodges,Croupier (1998)
 7.0, Vincent Gallo,Buffalo '66 (1998)
@@ -1553,7 +1555,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Radu Muntean,Intregalde
 7.0, Ruth Paxton,A Banquet
 7.0, Kenneth Branagh,Belfast
-7.0, Juho Kuosmanen,Hytti nro 6/ Compartment No 6
 7.0, Benjamin Cleary,Swan Song
 7.0, Gaspar Noe,Vortex
 7.0, Maria Schrader,I'm Your Man
@@ -1604,6 +1605,9 @@ RATING,DIRECTOR,MOVIE
 7.0, Clint Bentley,Jockey
 7.0, Jonas Poher Rasmussen,Flee
 7.0, Pedro Almodovar,Madres Paralelas/ Parallel Mothers
+7.0, Arthur Harari,"Onoda - 10,000 Nights in the Jungle"
+7.0, Antoneta Kusijanovic,Murina
+7.0, Laura Samani,Piccolo Corpo/ Small Body
 6.9, Stephen Frears,The Hi-Lo Country  (1998)
 6.9, Paul Auster,Lulu on the Bridge
 6.9, Paul Schrader,Affliction (1998)
@@ -1938,7 +1942,6 @@ RATING,DIRECTOR,MOVIE
 6.9, Ramin Bahrani,The White Tiger
 6.9, Sang-soo Hong,In Front of Your Face
 6.9, Vincent LePort,Bruno Reidal Confessions Of A Murderer
-6.9, Tatiano Huezo,Prayers For The Stolen
 6.9, Jean Luc Herbulot,Saloum
 6.9, Joel Coen,The Tragedy of Macbeth
 6.9, John Michael McDonagh,The Forgiven
@@ -2408,6 +2411,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Kirill Sokolov,Papa Sdokhni/ Why Don't You Just Die
 6.8, Kaouther Ben Hania,Ar-rajul Alladi ba'a Zahrihu/ The Man Who Sold His Skin
 6.8, Vesela Kazakova & Mina Mileva,Women Do Cry
+6.8, Kiro Russo,The Great Movement
 6.8, Sang-soo Hong,Introduction
 6.8, Clio Barnard,Ali & Ava
 6.8, Justin Chon,Blue Bayou
@@ -2430,12 +2434,13 @@ RATING,DIRECTOR,MOVIE
 6.8, Frida Kempff,Knocking
 6.8, Claudia Llosa,Fever Dream
 6.8, Alex Camilleri,Luzzu
-6.8, Tatiana Huezo,Prayers for the Stolen
 6.8, Sean Baker,Red Rocket
 6.8, Joe Wright,Cyrano
 6.8, Aimee Long,A Shot Through the Wall
 6.8, Sujata Day,Definition Please
 6.8, Michael Rianda,The Mitchells vs. the Machines
+6.8, Jacques Audiard,Paris 13th District
+6.8, Neang Kavich,White Building
 6.7,  Eric Rohmer,Comte d'Automne/ Autumn Tale (1998)
 6.7, Bertrand Bonello,Something Organic
 6.7, Amos Gitai,Yom Yom
@@ -3443,7 +3448,8 @@ RATING,DIRECTOR,MOVIE
 6.5, Mimi Leder,On the Basis of Sex
 6.5, Travis Knight,Bumblebee
 6.5, Clint Eastwood,The Mule
-6.5, Sion Sono,The Forest of Love (2019)
+6.5, Sion Sono,The Forest of Love
+6.5, Pelin Esmer,Kralice Lear/ Queen Lear
 6.5, Niels Arden Oplev,Held for Ransom
 6.5, Alice Winocour,Proxima
 6.5, Christophe Honore', Chambre 212/ On a Magical Night
@@ -3521,7 +3527,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Rodrigo Bellott,Tu Me Manques
 6.5, Wagner Moura,Marighella
 6.5, Natalie Morales,Plan B
-6.5, Jacques Audiard,Paris 13th District
 6.5, Agnieszka Holland,Charlatan
 6.5, Arie Esiri & Chuko Esiri,Eyimofe
 6.5, John Pollono,Small Engine Repair
