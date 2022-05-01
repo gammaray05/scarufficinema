@@ -80,6 +80,7 @@ RATING,DIRECTOR,MOVIE
 7.4, Kiyoshi Kurosawa,Charisma (1999)
 7.4, Mike Figgis,Time Code
 7.4, Zhangke Jia,Zhantai/ Platform
+7.4, Fatih Akin,In July
 7.4, Wong Kar-wai,In the Mood For Love
 7.4, Wen Jiang,Guizi Laile/ Devils on the Doorstep (2000)
 7.4, Lav Diaz,Batang West Side (2001)
@@ -97,6 +98,7 @@ RATING,DIRECTOR,MOVIE
 7.4, Richard Kelly,Southland Tales
 7.4, Carlos Reygadas,Luz Silenciosa/ Silent Light
 7.4, Chang-dong Lee,Secret Sunshine
+7.4, Nacho Vigalondo,Timecrimes
 7.4, Lucrecia Martel,La Mujer Sin Cabeza/ Headless Woman
 7.4, Asghar Farhadi,Darbareye Elly/ About Elly
 7.4, Quentin Tarantino,Inglorious Basterds
@@ -152,6 +154,7 @@ RATING,DIRECTOR,MOVIE
 7.3, Lav Diaz,Ebolusyon ng Isang Pamilyang Pilipino/ Evolution of a Filipino Family
 7.3, Jacques Audiard,De Battre Mon Cour S'Est Arrete'/ The Beat That My Heart Skipped
 7.3, Shane Black,Kiss Kiss Bang Bang
+7.3, Kim Ki-duk, The Bow
 7.3, Daniel Sanchez Arevalo,Azul Oscuro Casi Negro (2006)
 7.3, Joon-Ho Bong,Gwoemul/ The Host
 7.3,  Paul Verhoeven,Zwartboek/ Black Book
@@ -354,6 +357,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Adam McKay,Don't Look Up
 7.2, Mahamat-Saleh Haroun,Lingui
 7.2, Panah Panahi,Jaddeh Khaki/ Hit the Road
+7.2, Gaspar Noe,Vortex
 7.1,  Tom Tykwer,Lola Rennt/ Run Lola Run
 7.1, Steven Spielberg,Saving Private Ryan (1998)
 7.1,  Darren Aronofsky,Pi (1998)
@@ -644,7 +648,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Josef Rusnak,The Thirteenth Floor
 7.0, Bruno Dumont,Humanite / Humanity (1999)
 7.0, James Toback,Black And White
-7.0, Chan-wook Park,Gongdonggyeongbiguyeok Jeieseuei/ Joint Security Area
 7.0, Anders Thomas Jensen,Blinkende Lygter/ Flickering Lights
 7.0, Joao Pedro Rodrigues,O Fantasma
 7.0, Kim Ki-Duk,The Isle
@@ -732,6 +735,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Danny Boyle,28 Days Later
 7.0, Curtis Hanson,8 Mile
 7.0, Manoel DeOliveira,A Talking Picture
+7.0, Erik Van Looy,De zaak Alzheime/ The Alzheimer Case/ The Memory of a Killer
 7.0, Abdellatif Kechiche,L'Esquive/ Games of Love and Chance
 7.0, Jang Jun-hwan,Jigureul Jikyeora/ Save the Green Planet
 7.0,  Erik van Looy,De Zaak Alzheimer/ The Memory of a Killer
@@ -815,7 +819,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Jane Anderson,"The Prize Winner of Defiance, Ohio"
 7.0, Joss Whedon,Serenity
 7.0, Steven Spielberg,Munich
-7.0, Kim Ki-duk, The Bow
 7.0, George Romero,Land of the Dead
 7.0, Marcos Siega,Pretty Persuasion
 7.0, Christoffer Boe,Allegro
@@ -858,7 +861,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Masahiro Kobayashi,The Rebirth
 7.0, Franck Vestiel,Eden Log (2007)
 7.0, Julien Leclercq,Chrysalis
-7.0, Nacho Vigalondo,Timecrimes
 7.0, Koji Wakamatsu,United Red Army
 7.0, David Volach,My Father My Lord
 7.0, Bela Tarr,The Man From London
@@ -1179,7 +1181,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Ridley Scott,The Counselor
 7.0, Spike Jonze,Her
 7.0, Ulrich Seidl,Paradise - Hope
-7.0, Kim Ki-duk,Moebius
 7.0, Ben Wheatley,A Field in England
 7.0, Mia Hansen,Eden
 7.0, Celine Sciamma,Bande de Filles/ Girlhood
@@ -1210,7 +1211,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Peter Strickland,The Duke of Burgundy
 7.0, Lisa Cholodenko,Olive Kitteridge
 7.0, Xavier Beauvois,The Price of Fame
-7.0, Fatih Akin,The Cut
 7.0, Mohsen Makhmalbaf,The President
 7.0, Ann Hui,The Golden Era
 7.0, Pascale Ferran,Bird People
@@ -1555,7 +1555,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Ruth Paxton,A Banquet
 7.0, Kenneth Branagh,Belfast
 7.0, Benjamin Cleary,Swan Song
-7.0, Gaspar Noe,Vortex
 7.0, Maria Schrader,I'm Your Man
 7.0, TJ Gnanavel,Jai Bhim
 7.0, Antoneta Alamat Kusijanovic,Murina
@@ -1607,6 +1606,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Arthur Harari,"Onoda - 10,000 Nights in the Jungle"
 7.0, Antoneta Kusijanovic,Murina
 7.0, Laura Samani,Piccolo Corpo/ Small Body
+7.0, Charline Bourgeois-Tacquet,Les amours d'Anais/ Anais in Love
 6.9, Stephen Frears,The Hi-Lo Country  (1998)
 6.9, Paul Auster,Lulu on the Bridge
 6.9, Paul Schrader,Affliction (1998)
@@ -1974,6 +1974,7 @@ RATING,DIRECTOR,MOVIE
 6.8, David Cronenberg,Existenz
 6.8, Night Shyamalan,Sixth Sense
 6.8, Agnes Jaoui,The Taste Of Others
+6.8, Chan-wook Park,Gongdonggyeongbiguyeok Jeieseuei/ Joint Security Area (2000)
 6.8, Clint Eastwood,Space Cowboys
 6.8, Steven Brill,Little Nicky
 6.8, Samantha Lang,The Well
@@ -2232,6 +2233,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Malgoska Szumowska,In the Name Of
 6.8, Jim Jarmusch,Only Lovers Left Alive
 6.8, Jeethu Joseph,Drishyam (2013)
+6.8, Fatih Akin,The Cut
 6.8, Mona Fastvold,The Sleepwalker
 6.8, Vikramaditya Motwane,Queen (2014)
 6.8, Xavier Dolan,Mommy
@@ -4975,6 +4977,7 @@ RATING,DIRECTOR,MOVIE
 6.0, Rick Alverson,The Comedy
 6.0, Sion Sono,Kibo nu Kuni/ The Land of Hope (2012)
 6.0, Ruben Fleischer,Gangster Squad
+6.0, Ki-duk Kim,Moebius
 6.0, Steven Soderbergh,Side Effects
 6.0, Hayao Miyazaki,The Wind Rises
 6.0, Francois Ozon,Jeune et Jolie/ Young & Beautiful
