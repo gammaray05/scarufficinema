@@ -130,6 +130,7 @@ RATING,DIRECTOR,MOVIE
 7.4, Joon-ho Bong,Gisaengchung/ Parasite
 7.4, Ilya Khrzhanovsky,DAU Natasha
 7.4, Joachim Trier,The Worst Person in the World
+7.4, Gaspar Noe,Vortex
 7.3, Walter Salles,Central Station (1998)
 7.3, Takeshi Miike,The Bird People in China (1998)
 7.3, Peter Weir,Truman Show  (1998)
@@ -357,7 +358,6 @@ RATING,DIRECTOR,MOVIE
 7.2, Adam McKay,Don't Look Up
 7.2, Mahamat-Saleh Haroun,Lingui
 7.2, Panah Panahi,Jaddeh Khaki/ Hit the Road
-7.2, Gaspar Noe,Vortex
 7.1,  Tom Tykwer,Lola Rennt/ Run Lola Run
 7.1, Steven Spielberg,Saving Private Ryan (1998)
 7.1,  Darren Aronofsky,Pi (1998)
@@ -1551,6 +1551,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Pak Ruslan,Three
 7.0, Sion Sono,Red Post on Escher Street
 7.0, Travis Taute,Indemnity
+7.0, Colm Bairead,The Quiet Girl
 7.0, Audrey Diwan,Happening
 7.0, Valentyn Vasyanovych,Reflection
 7.0, Ramon & Silvan Zuercher,Das Maedchen und die Spinne/ The Girl and the Spider
@@ -1562,6 +1563,7 @@ RATING,DIRECTOR,MOVIE
 7.0, TJ Gnanavel,Jai Bhim
 7.0, Antoneta Alamat Kusijanovic,Murina
 7.0, Stephen Karam,The Humans
+7.0, Aaron Wilson,Little Tornadoes
 7.0, Paolo Sorrentino,E` stata la mano di Dio/ The Hand Of God
 7.0, Jake Wachtel,Karmalink
 7.0, Paul Schrader,The Card Counter
@@ -1610,6 +1612,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Antoneta Kusijanovic,Murina
 7.0, Laura Samani,Piccolo Corpo/ Small Body
 7.0, Charline Bourgeois-Tacquet,Les amours d'Anais/ Anais in Love
+7.0, Thomas Daneskov,Wild Men
 6.9, Stephen Frears,The Hi-Lo Country  (1998)
 6.9, Paul Auster,Lulu on the Bridge
 6.9, Paul Schrader,Affliction (1998)
@@ -2418,6 +2421,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Vesela Kazakova & Mina Mileva,Women Do Cry
 6.8, Kiro Russo,The Great Movement
 6.8, Sang-soo Hong,Introduction
+6.8, Oleg Sentsov,Rhino
 6.8, Clio Barnard,Ali & Ava
 6.8, Justin Chon,Blue Bayou
 6.8, Leos Carax,Annette
