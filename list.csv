@@ -83,6 +83,7 @@ RATING,DIRECTOR,MOVIE
 7.4, Fatih Akin,In July
 7.4, Wong Kar-wai,In the Mood For Love
 7.4, Wen Jiang,Guizi Laile/ Devils on the Doorstep (2000)
+7.4, Roy Andersson,Songs From the Second Floor
 7.4, Lav Diaz,Batang West Side (2001)
 7.4, Jean-Pierre Jeunet,Amelie
 7.4, Aki Kaurismaki,The Man Without a Past
@@ -177,7 +178,6 @@ RATING,DIRECTOR,MOVIE
 7.3, Shane Carruth,Upstream Color
 7.3, Jane Campion,Top of the Lake
 7.3, Ramon Zuercher,Das merkwuerdige Kaetzchen/ The Strange Little Cat (2013)
-7.3, Roy Andersson,A Pigeon Sat On a Branch Reflecting On Existence
 7.3, Andrei Zvyagintsev,Leviathan
 7.3, Lav Diaz,Mula sa Kung Ano ang Noon/ From What Is Before
 7.3, Radu Jude,Aferim
@@ -297,6 +297,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Hirokazu Kore-eda,Soshite Chichi ni Naru/ Like Father Like Son
 7.2, Jafar Panahi,Closed Curtain
 7.2, Isao Takahata,Kaguya-hime no Monogatari/ The Tale Of Princess Kaguya
+7.2, Roy Andersson,A Pigeon Sat On a Branch Reflecting On Existence
 7.2, Lisandro Alonso,Jauja
 7.2, Kornel Mundruczo,White God
 7.2, Alice Rohrwacher,Le Meraviglie/ The Wonders
@@ -371,7 +372,6 @@ RATING,DIRECTOR,MOVIE
 7.1, Luc & Jean-Pierre Dardenne,Rosetta
 7.1, Takeshi Kitano,Kikujiro
 7.1, Johnnie To,The Mission
-7.1, Roy Andersson,Songs From the Second Floor
 7.1, Bahman Farman-Ara,Smell of Camphor Perfume of Jasmin
 7.1, Tran Anh Hung,The Vertical Ray of the Sun
 7.1, Manoel De Oliveira,Palavra e Utopia
@@ -435,7 +435,6 @@ RATING,DIRECTOR,MOVIE
 7.1, Javier Ideami,El Cuadro
 7.1, Tony Gilroy,Michael Clayton
 7.1, Alexander Sokurov,Alexandra
-7.1, Roy Andersson,You the Living
 7.1, Luis Piedrahita & Rodrigo Sopena,La Habitacion de Fermat/ Fermat's Room
 7.1, Abdullah Oguz,Bliss
 7.1, Hayao Miyazaki,Ponyo
@@ -2172,6 +2171,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Jean-Pierre and Luc Dardenne,Lorna's Silence
 6.8, David Twohy,A Perfect Getaway
 6.8, Neill Blomkamp,District 9
+6.8, Lars von Trier,Antichrist
 6.8, Manoel de Oliveira,Eccentricities of a Blond Hair Girl
 6.8, Oren Moverman,Rampart
 6.8, Michael Winterbottom,The Trip
@@ -3713,7 +3713,6 @@ RATING,DIRECTOR,MOVIE
 6.4, Tom Gustafson,Were the World Mine
 6.4, Yen Tan,Ciao
 6.4, Catherine Breillat,Bluebeard
-6.4, Lars von Trier,Antichrist
 6.4, Grant Heslov,The Men Who Stare at Goats
 6.4, Steven Soderbergh,And Everything Is Going Fine
 6.4, Takeshi Kitano,Outrage
