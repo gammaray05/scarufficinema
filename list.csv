@@ -200,6 +200,7 @@ RATING,DIRECTOR,MOVIE
 7.3, Benny & Josh Safdie,Uncut Gems
 7.3, Chloe Zhao,Nomadland
 7.3, Lee Isaac Chung,Minari
+7.3, Phil Tippett,Mad God
 7.3, Andreas Fontana,Azor
 7.3, Jane Campion,The Power of the Dog
 7.3, Gonzalo Calzada,Nocturna
@@ -554,7 +555,6 @@ RATING,DIRECTOR,MOVIE
 7.1, Jean-Bernard Marlin,Sheherazade
 7.1, Debra Granik,Leave No Trace
 7.1, Terry Gilliam,The Man Who Killed Don Quixote
-7.1, Nuri Bilge Ceylan,Ahlat Agaci/ The Wild Pear Tree
 7.1, Jong-bin Yoon,The Spy Gone North
 7.1, Johnny Kevorkian,Await Further Instructions
 7.1, Julian Schnabel,At Eternity's Gate
@@ -613,6 +613,8 @@ RATING,DIRECTOR,MOVIE
 7.1, James Vaughan,Friends and Strangers
 7.1, Juho Kuosmanen,Hytti nro 6/ Compartment No 6
 7.1, Tatiano Huezo,Prayers For The Stolen
+7.1, Justin Kurzel,Nitram
+7.1, Ramon & Silvan Zuercher,Das Maedchen und die Spinne/ The Girl and the Spider
 7.0, Sang-soo Hong,Kangwon-do Ui Him/ The Power of Kangwon Province (1998)
 7.0, Mike Hodges,Croupier (1998)
 7.0, Vincent Gallo,Buffalo '66 (1998)
@@ -671,6 +673,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Robert Zemeckis,Cast Away
 7.0, Steven Soderbergh,Erin Brockovich
 7.0, Chang Tso-chi,The Best Of Times
+7.0, Naoyuki Tomomatsu,Suteishi/ Stacy
 7.0, Bahman Farman-Ara,"Smell of Camphor, Perfume of Jasmin"
 7.0, Farhan Akhtar,Dil Chahta Hai (2001)
 7.0, Zacharias Kunuk,The Fast Runner/ Atanarjuat
@@ -909,7 +912,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Sidney Lumet,Before the Devil Knows You're Dead
 7.0, Andrew Wagner,Starting Out in the Evening
 7.0, Tamara Jenkins,The Savages
-7.0, Francis Ford Coppola, Youth Without Youth
 7.0, Ramin Bahrani,Chop Shop
 7.0, Quentin Dupieux,Steak
 7.0, Yoji Yamada,Kabei
@@ -1555,11 +1557,11 @@ RATING,DIRECTOR,MOVIE
 7.0, Pak Ruslan,Three
 7.0, Sion Sono,Red Post on Escher Street
 7.0, Eli King,The Lady of Heaven
+7.0, Jonas Carpignano,A Chiara
 7.0, Travis Taute,Indemnity
 7.0, Colm Bairead,The Quiet Girl
 7.0, Audrey Diwan,Happening
 7.0, Valentyn Vasyanovych,Reflection
-7.0, Ramon & Silvan Zuercher,Das Maedchen und die Spinne/ The Girl and the Spider
 7.0, Radu Muntean,Intregalde
 7.0, Ruth Paxton,A Banquet
 7.0, Kenneth Branagh,Belfast
@@ -1697,6 +1699,7 @@ RATING,DIRECTOR,MOVIE
 6.9, Denys Arcand,Les Invasions Barbares/ The Barbarian Invasions
 6.9, Johnnie To,PTU
 6.9, Mel Gibson,The Passion of the Christ
+6.9, Robin Campillo,Les Revenants/ They Came Back
 6.9, Hong Sang-soo,Yeojaneun Namjaeui Miraeda/ Woman is the Future of Man
 6.9, Bilge Ebiri,New Guy
 6.9, Ruben Ostlund,The Guitar Mongoloid
@@ -1770,6 +1773,7 @@ RATING,DIRECTOR,MOVIE
 6.9, Eric Lartigau,The Big Picture
 6.9, Joe Wright,Anna Karenina
 6.9, John Krokidas,Kill Your Darlings
+6.9, Christoph Behl,El Desierto/ The Desert
 6.9, George Tillman,The Inevitable Defeat of Mister & Pete
 6.9, Henry-Alex Rubin,Disconnect
 6.9, Ron Morales,Graceland
@@ -2520,10 +2524,10 @@ RATING,DIRECTOR,MOVIE
 6.7, Jessica Bendinger,Stick It
 6.7, Carlos Sorin,El Perro
 6.7, Maria Maggenti,Puccini for Beginners
-6.7, Quentin Tarantino,Death Proof
 6.7, Wes Anderson,The Darjeeling Limited
 6.7, Michael Winterbottom,A Mighty Heart
 6.7, Lars von Trier,The Boss of It All
+6.7, Quentin Tarantino,Death Proof
 6.7, Giuseppe Tornatore,The Unknown Woman
 6.7, Chris Kraus,Four Minutes
 6.7, Silvio Soldini,Days and Clouds
@@ -2646,6 +2650,7 @@ RATING,DIRECTOR,MOVIE
 6.6, Lav Diaz,Heremias Book One
 6.6, Johnnie To,Triad Election
 6.6, John Carney,Once
+6.6, Francis Ford Coppola, Youth Without Youth (2007)
 6.6, Chris Smith,The Pool
 6.6, Robinson Devor,Zoo
 6.6, Francois Ozon,Angel
@@ -3154,6 +3159,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Marjane Satrapi,Persepolis
 6.5, Brad Bird,Ratatouille
 6.5, Manoel de Oliveira,Do Visivel ao Invisivel
+6.5, Bruce McDonald,Pontypool
 6.5, Abbas Kiarostami,Shirin
 6.5, Haile Gerima,Teza
 6.5, Semih Kaplanoglu,Sut
@@ -3604,7 +3610,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Kirill Serebrennikov,Petrov's Flu
 6.5, Sebastian Meise,Great Freedom
 6.5, Nabil Ayouch,Casablanca Beats
-6.5, Justin Kurzel,Nitram
 6.5, Miguel Gomes & Maureen Fazendeiro,The Tsugua Diaries
 6.5, Ari Folman,Where Is Anne Frank
 6.5, Antoine Fuqua,Infinite
