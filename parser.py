@@ -18,6 +18,7 @@ def git_push():
     except:
         print("Error while git automating")
 
+
 #create timestamp for last updated message
 now = datetime.now()
 timestamp = now.strftime("%B %d, %Y")

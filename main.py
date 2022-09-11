@@ -5,10 +5,6 @@ import pandas as pd
 import urllib3
 import os
 
-url="https://raw.githubusercontent.com/gammaray05/scarufficinema/master/list.csv"
-tsurl = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/timestamp.txt"
-timestamp = requests.get(tsurl)
-master = pd.read_csv(url, sep=',', names = ['RATING', 'DIRECTOR', 'MOVIE'])
 
 dieci = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1910s.txt"
 diecit = requests.get(dieci)
@@ -90,6 +86,10 @@ def start(message):
 
 @bot.message_handler(func=lambda message: True, content_types=['text'])
 def start(message):
+    url="https://raw.githubusercontent.com/gammaray05/scarufficinema/master/list.csv"
+    tsurl = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/timestamp.txt"
+    timestamp = requests.get(tsurl)
+    master = pd.read_csv(url, sep=',', names = ['RATING', 'DIRECTOR', 'MOVIE'])
     text = message.text
     reversetext = " ".join(text.split(" ")[::-1])
     result = master[master['DIRECTOR'].str.contains(text, case=False, regex=False) | master['DIRECTOR'].str.contains(reversetext, case=False, regex=False) | master['MOVIE'].str.contains(text, case=False, regex=False)]
@@ -97,7 +97,7 @@ def start(message):
     zippedlist = list(zip(*resultlist))
     final = "\n".join([" - ".join(tup) for tup in zippedlist])
     if not final:
-        bot.reply_to(message, "No results found. Check the title or the name. \n\nPlease:\n* Don't search for a director and a movie together\n* Use the English title of a movie\n* Remember that only movies from 1998 to present are listed\n* Use correctly the '-' if you're searching for directors with it in the name (e.g. 'Chan-Wook', 'Joon-ho').")
+        bot.reply_to(message, "No results found. Check the title or the name. \n\nPlease:\n* Don't search for a director and a movie together\n* Use the English title of a movie\n* Remember that only movies from 1980 to present are listed\n* Use correctly the '-' if you're searching for directors with it in the name (e.g. 'Chan-Wook', 'Joon-ho').")
     else:
         bot.reply_to(message, final + "\n\nLast updated on: " + timestamp.text)
 
@@ -115,4 +115,4 @@ def webhook():
     return "!", 200
 
 if __name__ == "__main__":
-   app.run()
+    app.run(debug=True, host="0.0.0.0", port=int(os.environ.get("PORT", 8080)))
