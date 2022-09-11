@@ -67,4 +67,4 @@ with open("list.csv", "w") as f:
 
 
 # update git
-# git_push()
+git_push()
