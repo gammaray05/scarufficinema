@@ -1,7 +1,7 @@
 # Scaruffi's Cinema Ratings Parser and Telegram Bot
 ### What is this
 
-A weekly updated and data miners-friendly list of movie ratings by Piero Scaruffi ([scaruffi.com](https://scaruffi.com)), from 1998 to present *(why 1998? Because it is the first year that Piero posted movie ratings for every year with numbers and not just with simple rankings)*. In the folder "best by decades" there are the best by decade lists parsed manually.
+A weekly updated and data miners-friendly list of movie ratings by Piero Scaruffi ([scaruffi.com](https://scaruffi.com)), from 1980 to present *(why 1980? Because it is the first year that Piero have movie ratings for every year with numbers and not just with simple rankings)*. In the "best by decades" folder there are the best by decade lists parsed manually.
 Ratings are parsed in parser.py.
 Columns are ratings, directors and movies (for now).
 
@@ -11,8 +11,6 @@ Columns are ratings, directors and movies (for now).
 In WebhookBot.py you can find a simple Telegram bot made using pyTelegramBotAPI library, Flask and Pandas, that search inside the CSV and return an easy-to-read list of ratings. You can find it on telegram on [@scaruffi_cinemabot](https://t.me/scaruffi_cinemabot).
 Start the bot, then you can type a movie (using the English title) or a director
 and you will obtain the search results with ratings. Or you can use commands like */best1970s*, */best1980s*, etc.. to retrieve the best by decade lists.
-
-Deployed to Heroku.
 
 ### What to do next
 
