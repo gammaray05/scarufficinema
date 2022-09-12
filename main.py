@@ -86,6 +86,7 @@ def start(message):
 
 @bot.message_handler(func=lambda message: True, content_types=['text'])
 def start(message):
+    bot.reply_to(message, "Searching...")
     url="https://raw.githubusercontent.com/gammaray05/scarufficinema/master/list.csv"
     tsurl = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/timestamp.txt"
     timestamp = requests.get(tsurl)
