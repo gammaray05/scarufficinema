@@ -1,0 +1,13 @@
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+.pytest_cache
+.git
+.gitignore
+.vscode/
+best by decades/
+test.py
+list.csv
+parser.py
+README.md
