@@ -5,9 +5,13 @@ import pandas as pd
 import urllib3
 import os
 
+#initialize resources
 url="https://raw.githubusercontent.com/gammaray05/scarufficinema/master/list.csv"
 tsurl = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/timestamp.txt"
+timestamp = requests.get(tsurl)
+master = pd.read_csv(url, sep=',', names = ['RATING', 'DIRECTOR', 'MOVIE'])
 
+#initialize commands
 dieci = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1910s.txt"
 diecit = requests.get(dieci)
 venti = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1920s.txt"
@@ -31,6 +35,7 @@ zerozerot = requests.get(zerozero)
 zerodieci = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best2010s.txt"
 zerodiecit = requests.get(zerodieci)
 
+#starting bot
 TOKEN = os.environ["TOKEN"]
 URL = os.environ["URL"]
 
@@ -38,6 +43,7 @@ bot = telebot.TeleBot(TOKEN)
 
 app = Flask(__name__)
 
+#handle commands
 @bot.message_handler(commands=['start'])
 def start(message):
     bot.reply_to(message, "Please, type a movie (English title) OR a director to search ratings from scaruffi.com. Only movies from 1980 to present are listed. \nSearch is case insensitive. \n\nFor example, you can search: \nDavid Lynch \nallen \nwes Anderson \nthe great beauty \nChan-wook \n \nOr you can use commands like /best1980s, /best1970s, etc.. to retrieve the list of the best movies of a decade.\n\nDeveloper: @salvdelg. You can find the git on https://github.com/gammaray05/scarufficinema")
@@ -86,11 +92,10 @@ def start(message):
 def start(message):
     bot.reply_to(message, zerodiecit.text)
 
+#handle searching
 @bot.message_handler(func=lambda message: True, content_types=['text'])
 def start(message):
     bot.reply_to(message, "Searching...")
-    timestamp = requests.get(tsurl)
-    master = pd.read_csv(url, sep=',', names = ['RATING', 'DIRECTOR', 'MOVIE'])
     text = message.text
     reversetext = " ".join(text.split(" ")[::-1])
     result = master[master['DIRECTOR'].str.contains(text, case=False, regex=False) | master['DIRECTOR'].str.contains(reversetext, case=False, regex=False) | master['MOVIE'].str.contains(text, case=False, regex=False)]
@@ -102,7 +107,7 @@ def start(message):
     else:
         bot.reply_to(message, final + "\n\nLast updated on: " + timestamp.text)
 
-
+#stay on alert
 @app.route('/' + TOKEN, methods=['POST'])
 def getMessage():
     bot.process_new_updates([telebot.types.Update.de_json(request.stream.read().decode("utf-8"))])
