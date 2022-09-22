@@ -12,6 +12,8 @@ timestamp = requests.get(tsurl)
 master = pd.read_csv(url, sep=',', names = ['RATING', 'DIRECTOR', 'MOVIE'])
 
 #initialize commands
+alltime = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/alltime.txt"
+alltimet = requests.get(alltime)
 dieci = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1910s.txt"
 diecit = requests.get(dieci)
 venti = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/best1920s.txt"
@@ -47,6 +49,10 @@ app = Flask(__name__)
 @bot.message_handler(commands=['start'])
 def start(message):
     bot.reply_to(message, "Please, type a movie (English title) OR a director to search ratings from scaruffi.com. Only movies from 1980 to present are listed. \nSearch is case insensitive. \n\nFor example, you can search: \nDavid Lynch \nallen \nwes Anderson \nthe great beauty \nChan-wook \n \nOr you can use commands like /best1980s, /best1970s, etc.. to retrieve the list of the best movies of a decade.\n\nDeveloper: @salvdelg. You can find the git on https://github.com/gammaray05/scarufficinema")
+
+@bot.message_handler(commands=['alltime'])
+def start(message):
+    bot.reply_to(message, alltimet.text)
 
 @bot.message_handler(commands=['best1910s'])
 def start(message):
