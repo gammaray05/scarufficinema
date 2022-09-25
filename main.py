@@ -2,7 +2,6 @@ from flask import Flask, request
 import requests
 import telebot
 import pandas as pd
-import urllib3
 import os
 
 #initialize resources
@@ -48,7 +47,7 @@ app = Flask(__name__)
 #handle commands
 @bot.message_handler(commands=['start'])
 def start(message):
-    bot.reply_to(message, "Please, type a movie (English title) OR a director to search ratings from scaruffi.com. Only movies from 1980 to present are listed. \nSearch is case insensitive. \n\nFor example, you can search: \nDavid Lynch \nallen \nwes Anderson \nthe great beauty \nChan-wook \n \nOr you can use commands like /best1980s, /best1970s, etc.. to retrieve the list of the best movies of a decade.\n\nDeveloper: @salvdelg. You can find the git on https://github.com/gammaray05/scarufficinema")
+    bot.reply_to(message, "Please, type a movie (English title) OR a director to search ratings from scaruffi.com. Only movies from 1980 to present are listed. \nSearch is case insensitive. \n\nFor example, you can search: \nDavid Lynch \nallen \nwes Anderson \nthe great beauty \nChan-wook \n \nOr you can use commands like /best1980s, /best1970s, etc.. to retrieve the list of the best movies of a decade.\n\nDeveloper: @salvdelg. You can find the code on https://github.com/gammaray05/scarufficinema")
 
 @bot.message_handler(commands=['alltime'])
 def start(message):
