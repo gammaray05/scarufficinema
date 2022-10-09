@@ -569,6 +569,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Carla Simon,Alcarras
 7.2, Lukas Dhont,Close
 7.2, Christian Tafdrup,Speak No Evil
+7.2, Todd Field,Tar
 7.1, Michael Cimino,Heaven's Gate
 7.1, Zbigniew Rybczynski,Steps (1980) [short]
 7.1, Irvin Kershner,The Empire Strikes Back (1980)
@@ -2163,10 +2164,8 @@ RATING,DIRECTOR,MOVIE
 7.0, Laura Samani,Piccolo Corpo/ Small Body
 7.0, Charline Bourgeois-Tacquet,Les amours d'Anais/ Anais in Love
 7.0, Thomas Daneskov,Wild Men
-7.0, Ruben Ostlund,Triangle Of Sadness
 7.0, Joanna Hogg,The Eternal Daughter
 7.0, Sebastien Marnier,The Origin of Evil
-7.0, Todd Field,Tar
 7.0, Carolina Cavalli,Amanda
 7.0, David Wagner,Eismayer
 7.0, Fyzal Boulifa,The Damned Dont Cry
@@ -2226,6 +2225,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Sam Mendes,Empire of Light
 7.0, Clement Virgo,Brother
 7.0, Sebastian Lelio,The Wonder
+7.0, Arthur Harari,"Onoda - 10,000 Nights in the Jungle"
 6.9, Theo Angelopoulos,Alexander the Great (1980)
 6.9, Rainer Fassbinder,Berlin Alexanderplatz (1980)
 6.9, Dusan Makavejev,Montenegro (1982)
@@ -2582,6 +2582,7 @@ RATING,DIRECTOR,MOVIE
 6.9, John Michael McDonagh,The Forgiven
 6.9, Will Sharpe,The Electrical Life of Louis Wain
 6.9, Mike Mills,C'mon C'mon
+6.9, Carlota Pereda,Piggy
 6.9, Mathieu Amalric,Hold Me Tight
 6.9, Claire Denis,Stars At Noon
 6.9, Max Walker-Silverman,A Love Song
@@ -3148,6 +3149,10 @@ RATING,DIRECTOR,MOVIE
 6.8, Elie Grappe,Olga
 6.8, Lena Dunham,Catherine Called Birdy
 6.8, Jennifer Kaytin Robinson,Do Revenge
+6.8, Parker Finn,Smile
+6.8, Kristina Buozyte & Bruno Samper,Vesper
+6.8, Dan Berk & Robert Olsen,Significant Other
+6.8, Michael Morris,To Leslie
 6.7, Woody Allen,Zelig (1983)
 6.7, Eric Rohmer,Les Nuits de Lune Pleine/ Full Moon in Paris (1984)
 6.7, Hayao Miyazaki,Kiki's Delivery Service (1989)
@@ -3493,6 +3498,7 @@ RATING,DIRECTOR,MOVIE
 6.6, Ruth Paxton,A Banquet
 6.6, Kate Dolan,You Are Not My Mother
 6.6, Noah Baumbach,White Noise
+6.6, Ruben Ostlund,Triangle Of Sadness
 6.6, Mounia Akl,Costa Brava Lebanon
 6.6, Marie Kreutzer,Corsage
 6.6, Saim Sadiq,Joyland
@@ -4435,6 +4441,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Oliver Hermanus,Living
 6.5, Vahid Jalilvand,Beyond The Wall
 6.5, Tom George,See How They Run
+6.5, Walter Hill,Dead for a Dollar
 6.4, Woody Allen,Stardust Memories (1980)
 6.4, Hsiao-Hsien Hou,The Green Green Grass of Home (1982)
 6.4, Woody Allen,Broadway Danny Rose (1984)
@@ -6393,7 +6400,6 @@ RATING,DIRECTOR,MOVIE
 6.0, Alejandro Gonzalez Inarritu,Bardo
 6.0, Gianni Amelio,Il Signore delle Formiche
 6.0, Roschdy Zem,Les Miens/ Our Ties
-6.0, Walter Hill,Dead for a Dollar
 6.0, Steve Bushemi,The Listener
 6.0, Andrew Dominik,Blonde
 6.0, Susanna Nicchiarelli,Chiara
@@ -6407,6 +6413,7 @@ RATING,DIRECTOR,MOVIE
 6.0, JD Dillard,Devotion
 6.0, Tobias Lindholm,The Good Nurse
 6.0, Peter Farrelly,The Greatest Beer Run Ever
+6.0, David Bruckner,Hellraiser
 5.9, Alan Rudolph,Breakfast of Champions (1998)
 5.9, Woody Allen,Celebrity (1998)
 5.9, Mike Van Diem,Character  (1998)
@@ -6575,6 +6582,7 @@ RATING,DIRECTOR,MOVIE
 5.8, Francois Ozon,Peter Von Kant
 5.8, Nicholas Stoller,Bros
 5.8, Sanaa Lathan,On the Come Up
+5.8, David Russell,Amsterdam
 5.7, Thom Fitzgerald,Hanging Garden (1998)
 5.7, Robert Bierman,A Merry War (1998)
 5.7, Paul Oremland,Like It Is (1998)
@@ -8574,6 +8582,8 @@ RATING,DIRECTOR,MOVIE
 5.0, Sally El Hosaini,The Swimmers
 5.0, Mark Mylod,The Menu
 5.0, Alex Lehmann,Meet Cute
+5.0, Ana Lily Amirpour,Mona Lisa and the Blood Moon
+5.0, Mike Barker,Luckiest Girl Alive
 4.9, Luis Galvao Teles,Elles
 4.9, Shane Meadows,A Room For Romeo Brass
 4.9, Thomas Lee,Supernova
@@ -9063,6 +9073,7 @@ RATING,DIRECTOR,MOVIE
 4.5, Robert Zemeckis,Pinocchio
 4.5, Hiroyasu Ishida,Drifting Home
 4.5, Michael Grandage,My Policeman
+4.5, Josh Gordon & Will Speck,"Lyle, Lyle, Crocodile"
 4.4, Mike Mitchell,Deuce Bigalow Male Gigolo
 4.4, Eric Weber,Suits
 4.4, Joan Chen,Autumn In New York
@@ -9805,6 +9816,8 @@ RATING,DIRECTOR,MOVIE
 4.0, Jeff Baena,Spin Me Round
 4.0, William Brent Bell,Orphan - First Kill
 4.0, Matt Sobel,Goodnight Mommy
+4.0, Anne Fletcher,Hocus Pocus 2
+4.0, Damon Thomas,My Best Friend's Exorcism
 3.9, Martin Owen,Killers Anonymous
 3.8, Scott Alexander & Larry Karaszewski,Screwed
 3.8, Daniel Lusko,Persecuted
