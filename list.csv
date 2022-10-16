@@ -347,6 +347,7 @@ RATING,DIRECTOR,MOVIE
 7.3, Jane Campion,The Power of the Dog
 7.3, Gonzalo Calzada,Nocturna
 7.3, Luca Guadagnino,Bones and All
+7.3, Chan-Wook Park,Haeojil Gyeolsim/ Decision To Leave
 7.2, Nicolas Roeg,Bad Timing (1980)
 7.2, Walter Hill,Long Riders (1980)
 7.2, John Cassavetes,Gloria (1980)
@@ -2174,7 +2175,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Abi Damaris Corbin,Breaking
 7.0, Hannah Marks,Don't Make Me Go
 7.0, Nana Mensah,Queen of Glory
-7.0, Chan-Wook Park,Haeojil Gyeolsim/ Decision To Leave
 7.0, Jean-Pierre Et Luc Dardenne,Tori And Lokita
 7.0, Charlotte Vandermeersch & Felix Van Groeningen,Le Otto Montagne
 7.0, Tarik Saleh,Boy From Heaven
@@ -2226,6 +2226,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Clement Virgo,Brother
 7.0, Sebastian Lelio,The Wonder
 7.0, Arthur Harari,"Onoda - 10,000 Nights in the Jungle"
+7.0, Chinonye Chukwu,Till
 6.9, Theo Angelopoulos,Alexander the Great (1980)
 6.9, Rainer Fassbinder,Berlin Alexanderplatz (1980)
 6.9, Dusan Makavejev,Montenegro (1982)
@@ -6414,6 +6415,8 @@ RATING,DIRECTOR,MOVIE
 6.0, Tobias Lindholm,The Good Nurse
 6.0, Peter Farrelly,The Greatest Beer Run Ever
 6.0, David Bruckner,Hellraiser
+6.0, Sarah Jones,Sell/Buy/Date
+6.0, Rodrigo Pla & Laura Santul,The Other Tom
 5.9, Alan Rudolph,Breakfast of Champions (1998)
 5.9, Woody Allen,Celebrity (1998)
 5.9, Mike Van Diem,Character  (1998)
@@ -7033,6 +7036,7 @@ RATING,DIRECTOR,MOVIE
 5.5, Hannes Halldorsson,Cop Secret
 5.5, Jay Chandrasekhar,Easter Sunday
 5.5, Thyrone Tommy,Learn to Swim
+5.5, Doron Paz & Yoav Paz,Plan A
 5.4, Neil Abramson,Ringmaster (1998)
 5.4, Steve Miner,Halloween: H2O (1998)
 5.4, Randall Wallace,Man With The Iron Mask  (1998)
@@ -9818,6 +9822,7 @@ RATING,DIRECTOR,MOVIE
 4.0, Matt Sobel,Goodnight Mommy
 4.0, Anne Fletcher,Hocus Pocus 2
 4.0, Damon Thomas,My Best Friend's Exorcism
+4.0, Karen Maine,Rosaline
 3.9, Martin Owen,Killers Anonymous
 3.8, Scott Alexander & Larry Karaszewski,Screwed
 3.8, Daniel Lusko,Persecuted
