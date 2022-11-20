@@ -4,7 +4,7 @@ RATING,DIRECTOR,MOVIE
 8.5, Bela Tarr,Werckmeister Harmoniak/ Werckmeister Harmonies
 8.4, Lars Von Trier,Riget/ Kingdom (1995)
 8.2, Theodoros Angelopoulos, O Melissokomos/ The Beekeeper /Il Volo (1986)
-8.2, John Woo,Dip Huet Gai Tau/ Bullet in the Head (1990)
+8.2, John Woo,Dip Huet Gai Tau/ Bullet in the Head
 8.2, Emir Kusturica,Underground (1995)
 8.2, Sion Sono,Love Exposure
 8.0, Brian DePalma,Blow Out (1981)
@@ -107,8 +107,8 @@ RATING,DIRECTOR,MOVIE
 7.5, Peter Greenaway,Belly of An Architect (1987)
 7.5, Krzysztof Kieslowski,Dekalog/ Decalogue IV (1988)
 7.5, Aki Kaurismaki, Leningrad Cowboys go America  (1989)
-7.5, Abel Ferrara, King of New York (1990)
-7.5, Yimou Zhang,Ju Dou (1990)
+7.5, Abel Ferrara, King of New York
+7.5, Yimou Zhang,Ju Dou
 7.5, Krzysztof Kieslowski,La Double Vie de Veronique/ The Double Life of Veronica (1991)
 7.5, Chen Kaige,Ba Wang Bie Ji/ Farewell my Concubine (1993)
 7.5, Jan Svankmajer,Lekce Faust/ Lesson Faust
@@ -253,7 +253,7 @@ RATING,DIRECTOR,MOVIE
 7.3, Pedro Almodovar, Mujeres al Borde de un Ataque de Nervios/ Women on the Verge of a Nervous Breakdown
 7.3, John Hughes,Uncle Buck (1989)
 7.3, Aki Kaurismaki, Tulitikkutehtaan Tytto/ Match Factory Girl  (1989)
-7.3, Abbas Kiarostami, Namayeh Nazdik/ Close-Up (1990)
+7.3, Abbas Kiarostami, Namayeh Nazdik/ Close-Up
 7.3, Luc Besson,La Femme Nikita (1991)
 7.3, Jean-Pierre Jeunet,Delicatessen
 7.3, Kar-Wai Wong,Days of Being Wild
@@ -381,6 +381,7 @@ RATING,DIRECTOR,MOVIE
 7.2, John Carpenter,They Live (1988)
 7.2, Patrice Leconte,Monsieur Hire  (1989)
 7.2, Michael Haneke,Der Siebente Kontinent/ The Seventh Continent  (1989)
+7.2, Nikita Mikhalkov,Urga/ Close to Eden
 7.2, Ridley Scott,Thelma and Louise
 7.2, Terry Gilliam,Fisher King (1991)
 7.2, Paul Verhoeven,Basic Instinct
@@ -597,7 +598,7 @@ RATING,DIRECTOR,MOVIE
 7.1, Spike Lee,Do the Right Thing (1989)
 7.1, Jim Jarmusch,Mystery Train  (1989)
 7.1, Hsiao-Hsien Hou,Beiqing Chengshi/ City of Sadness (1989)
-7.1, Tim Burton,Edward Scissorhands (1990)
+7.1, Tim Burton,Edward Scissorhands
 7.1, Yimou Zhang,Dahong Denglong Gaogao Gua/ Raise of the Red Lantern
 7.1, John Sayles,City of Hope (1991)
 7.1, Jean-Claude Lauzon,Leolo
@@ -1027,20 +1028,20 @@ RATING,DIRECTOR,MOVIE
 7.0, Joel Coen,Miller's Crossing
 7.0, Martin Scorsese,Good Fellas (1990)
 7.0, Pedro Almodovar,Atame/ Tie Me Up(1990)
-7.0, Gianni Amelio,Porte Aperte/ Open Doors (1990)
-7.0, Howard Franklin,Quick Change (1990)
-7.0, Mike Leigh,Life is Sweet (1990)
-7.0, Youssef Chahine,Iskandariya Kaman wa Kaman/ Alexandria Again and Again (1990)
-7.0, Kathryn Bigelow,Blue Steel (1990)
-7.0, Bertrand Tavernier,Daddy Nostalgia/ These Foolish Things (1990)
-7.0, Charles Burnett,To Sleep with Anger (1990)
-7.0, Jane Campion,Angel at my Table (1990)
-7.0, Barbet Schroeder,Reversal of Fortunes (1990)
-7.0, Penny Marshall,Awakenings (1990)
-7.0, Heinz Emigholz,Der Zynische Koerper/ The Holy Bunch (1990)
-7.0, Chris Columbus,Home Alone (1990)
-7.0, Richard Linklater,Slacker (1990)
-7.0, Nicolas Roeg,The Witches (1990)
+7.0, Gianni Amelio,Porte Aperte/ Open Doors
+7.0, Howard Franklin,Quick Change
+7.0, Mike Leigh,Life is Sweet
+7.0, Youssef Chahine,Iskandariya Kaman wa Kaman/ Alexandria Again and Again
+7.0, Kathryn Bigelow,Blue Steel
+7.0, Bertrand Tavernier,Daddy Nostalgia/ These Foolish Things
+7.0, Charles Burnett,To Sleep with Anger
+7.0, Jane Campion,Angel at my Table
+7.0, Barbet Schroeder,Reversal of Fortunes
+7.0, Penny Marshall,Awakenings
+7.0, Heinz Emigholz,Der Zynische Koerper/ The Holy Bunch
+7.0, Chris Columbus,Home Alone
+7.0, Richard Linklater,Slacker
+7.0, Nicolas Roeg,The Witches
 7.0, Agnieszka Holland,Europa Europa (1991)
 7.0, Alfonso Cuaron,Solo con Tu Pareja (1991)
 7.0, Jonathan Demme,The Silence of the Lambs
@@ -4165,6 +4166,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Woody Allen,Blue Jasmine
 6.5, Roberto Ando`,Viva la Liberta`/ Long Live Freedom
 6.5, Jean-Marc Vallee,Wild
+6.5, Nikita Mikhalkov,Sunstroke
 6.5, Tsui Hark,The Taking of Tiger Mountain
 6.5, Abel Ferrara,Welcome to New York
 6.5, Ken Loach,Jimmy's Hall
