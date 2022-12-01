@@ -41,40 +41,61 @@ TOKEN = os.environ["TOKEN"]
 URL = os.environ["URL"]
 
 bot = telebot.TeleBot(TOKEN)
+
 app = Flask(__name__)
 
 #handle commands
-@bot.message_handler(commands=['start', 'alltime', 'best1910s', 'best1920s', 'best1930s', 'best1940s', 'best1950s', 'best1960s', 'best1970s', 'best1980s', 'best1990s', 'best2000s', 'best2010s'])
-def handle_command(message):
-    command = message.text.split()[0][1:]  # Get the command from the message
+@bot.message_handler(commands=['start'])
+def start(message):
+    bot.reply_to(message, "Please, type a movie (English title) OR a director to search ratings from scaruffi.com. Only movies from 1980 to present are listed. \nSearch is case insensitive. \n\nFor example, you can search: \nDavid Lynch \nallen \nwes Anderson \nthe great beauty \nChan-wook \n \nOr you can use commands like /best1980s, /best1970s, etc.. to retrieve the list of the best movies of a decade.\n\nDeveloper: @salvdelg. You can find the code on https://github.com/gammaray05/scarufficinema")
 
-    if command == 'start':
-        bot.reply_to(message, "Please, type a movie (English title) OR a director to search ratings from scaruffi.com. Only movies from 1980 to present are listed. \nSearch is case insensitive. \n\nFor example, you can search: \nDavid Lynch \nallen \nwes Anderson \nthe great beauty \nChan-wook \n \nOr you can use commands like /best1980s, /best1970s, etc.. to retrieve the list of the best movies of a decade.\n\nDeveloper: @salvdelg. You can find the code on https://github.com/gammaray05/scarufficinema")
+@bot.message_handler(commands=['alltime'])
+def start(message):
+    bot.reply_to(message, alltimet.text)
 
-    elif command == 'alltime':
-        bot.reply_to(message, alltimet.text)
-    elif command == 'best1910s':
-        bot.reply_to(message, diecit.text)
-    elif command == 'best1920s':
-        bot.reply_to(message, ventit.text)
-    elif command == 'best1930s':
-        bot.reply_to(message, trentat.text)
-    elif command == 'best1940s':
-        bot.reply_to(message, quarantat.text)
-    elif command == 'best1950s':
-        bot.reply_to(message, cinquantat.text)
-    elif command == 'best1960s':
-        bot.reply_to(message, sessantat.text)
-    elif command == 'best1970s':
-        bot.reply_to(message, settantat.text)
-    elif command == 'best1980s':
-        bot.reply_to(message, ottantat.text)
-    elif command == 'best1990s':
-        bot.reply_to(message, novantat.text)
-    elif command == 'best2000s':
-        bot.reply_to(message, zerozerot.text)
-    elif command == 'best2010s':
-        bot.reply_to(message, zerodiecit.text)
+@bot.message_handler(commands=['best1910s'])
+def start(message):
+    bot.reply_to(message, diecit.text)
+
+@bot.message_handler(commands=['best1920s'])
+def start(message):
+    bot.reply_to(message, ventit.text)
+
+@bot.message_handler(commands=['best1930s'])
+def start(message):
+    bot.reply_to(message, trentat.text)
+
+@bot.message_handler(commands=['best1940s'])
+def start(message):
+    bot.reply_to(message, quarantat.text)
+
+@bot.message_handler(commands=['best1950s'])
+def start(message):
+    bot.reply_to(message, cinquantat.text)
+
+@bot.message_handler(commands=['best1960s'])
+def start(message):
+    bot.reply_to(message, sessantat.text)
+
+@bot.message_handler(commands=['best1970s'])
+def start(message):
+    bot.reply_to(message, settantat.text)
+
+@bot.message_handler(commands=['best1980s'])
+def start(message):
+    bot.reply_to(message, ottantat.text)
+
+@bot.message_handler(commands=['best1990s'])
+def start(message):
+    bot.reply_to(message, novantat.text)
+
+@bot.message_handler(commands=['best2000s'])
+def start(message):
+    bot.reply_to(message, zerozerot.text)
+
+@bot.message_handler(commands=['best2010s'])
+def start(message):
+    bot.reply_to(message, zerodiecit.text)
 
 #handle searching
 @bot.message_handler(func=lambda message: True, content_types=['text'])
@@ -82,16 +103,10 @@ def start(message):
     bot.reply_to(message, "Searching...")
     text = message.text
     reversetext = " ".join(text.split(" ")[::-1])
-
-# Select rows that match the search criteria
-    result = master.loc[
-    (master['DIRECTOR'].str.contains(text, case=False, regex=False)) | 
-    (master['DIRECTOR'].str.contains(reversetext, case=False, regex=False)) | 
-    (master['MOVIE'].str.contains(text, case=False, regex=False))
-]
-    result = result[['DIRECTOR', 'MOVIE']]
-    final = "\n".join([" - ".join(tup) for tup in result.values])
-
+    result = master[master['DIRECTOR'].str.contains(text, case=False, regex=False) | master['DIRECTOR'].str.contains(reversetext, case=False, regex=False) | master['MOVIE'].str.contains(text, case=False, regex=False)]
+    resultlist = result.values.T.tolist()
+    zippedlist = list(zip(*resultlist))
+    final = "\n".join([" - ".join(tup) for tup in zippedlist])
     if not final:
         bot.reply_to(message, "No results found. Check the title or the name. \n\nPlease:\n* Don't search for a director and a movie together\n* Use the English title of a movie\n* Remember that only movies from 1980 to present are listed\n* Use correctly the '-' if you're searching for directors with it in the name (e.g. 'Chan-Wook', 'Joon-ho').")
     else:
