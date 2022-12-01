@@ -103,7 +103,8 @@ def start(message):
     bot.reply_to(message, "Searching...")
     text = message.text
     reversetext = " ".join(text.split(" ")[::-1])
-    result = master[master['DIRECTOR'].str.contains(text, case=False, regex=False) | master['DIRECTOR'].str.contains(reversetext, case=False, regex=False) | master['MOVIE'].str.contains(text, case=False, regex=False)]
+    terms = [text, reversetext]
+    result = master[master['DIRECTOR'].isin(terms) | master['MOVIE'].isin(terms)]
     resultlist = result.values.T.tolist()
     zippedlist = list(zip(*resultlist))
     final = "\n".join([" - ".join(tup) for tup in zippedlist])
