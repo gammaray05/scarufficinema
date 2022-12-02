@@ -9,6 +9,8 @@ url="https://raw.githubusercontent.com/gammaray05/scarufficinema/master/list.csv
 tsurl = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/timestamp.txt"
 timestamp = requests.get(tsurl)
 master = pd.read_csv(url, sep=',', names = ['RATING', 'DIRECTOR', 'MOVIE'])
+master.to_pickle('data.pkl')
+df = pd.read_pickle('data.pkl')
 
 #initialize commands
 alltime = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/best%20by%20decades/alltime.txt"
@@ -103,7 +105,7 @@ def start(message):
     bot.reply_to(message, "Searching...")
     text = message.text
     reversetext = " ".join(text.split(" ")[::-1])
-    result = master[master['DIRECTOR'].str.contains(text, case=False, regex=False) | master['DIRECTOR'].str.contains(reversetext, case=False, regex=False) | master['MOVIE'].str.contains(text, case=False, regex=False)]
+    result = df[df['DIRECTOR'].str.contains(text, case=False, regex=False) | df['DIRECTOR'].str.contains(reversetext, case=False, regex=False) | df['MOVIE'].str.contains(text, case=False, regex=False)]
     resultlist = result.values.T.tolist()
     zippedlist = list(zip(*resultlist))
     final = "\n".join([" - ".join(tup) for tup in zippedlist])
