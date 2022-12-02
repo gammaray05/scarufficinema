@@ -116,7 +116,7 @@ def start(message):
     if not final:
         bot.reply_to(message, "No results found. Check the title or the name. \n\nPlease:\n* Don't search for a director and a movie together\n* Use the English title of a movie\n* Remember that only movies from 1980 to present are listed\n* Use correctly the '-' if you're searching for directors with it in the name (e.g. 'Chan-Wook', 'Joon-ho').")
     else:
-        bot.reply_to(message, final + "\n\nLast updated on: " + timestamp.text + +f"\n\nElapsed time: {elapsed_time:.6f} seconds")
+        bot.reply_to(message, final + "\n\nLast updated on: " + timestamp.text + f"\n\nElapsed time: {elapsed_time:.6f} seconds")
 
 #stay on alert
 @app.route('/' + TOKEN, methods=['POST'])
