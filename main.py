@@ -9,7 +9,7 @@ import time
 url="https://raw.githubusercontent.com/gammaray05/scarufficinema/master/list.csv"
 tsurl = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/timestamp.txt"
 timestamp = requests.get(tsurl)
-master = pd.read_csv(url, sep=',', header=0)
+master = pd.read_csv(url, sep=',', names = ['RATING', 'DIRECTOR', 'MOVIE'])
 master.to_pickle('data.pkl')
 df = pd.read_pickle('data.pkl')
 
@@ -110,7 +110,7 @@ def start(message):
     result = df[df['DIRECTOR'].str.contains(text, case=False, regex=False) | df['DIRECTOR'].str.contains(reversetext, case=False, regex=False) | df['MOVIE'].str.contains(text, case=False, regex=False)]
     resultlist = result.values.T.tolist()
     zippedlist = list(zip(*resultlist))
-    final = "\n".join([" - ".join(map(str, tup)) for tup in zippedlist])
+    final = "\n".join([" - ".join(tup) for tup in zippedlist])
     end_time = time.perf_counter()
     elapsed_time = end_time - start_time
     if not final:
