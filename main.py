@@ -3,6 +3,7 @@ import requests
 import telebot
 import pandas as pd
 import os
+import time
 
 #initialize resources
 url="https://raw.githubusercontent.com/gammaray05/scarufficinema/master/list.csv"
@@ -103,16 +104,19 @@ def start(message):
 @bot.message_handler(func=lambda message: True, content_types=['text'])
 def start(message):
     bot.reply_to(message, "Searching...")
+    start_time = time.perf_counter()
     text = message.text
     reversetext = " ".join(text.split(" ")[::-1])
     result = df[df['DIRECTOR'].str.contains(text, case=False, regex=False) | df['DIRECTOR'].str.contains(reversetext, case=False, regex=False) | df['MOVIE'].str.contains(text, case=False, regex=False)]
     resultlist = result.values.T.tolist()
     zippedlist = list(zip(*resultlist))
     final = "\n".join([" - ".join(tup) for tup in zippedlist])
+    end_time = time.perf_counter()
+    elapsed_time = end_time - start_time
     if not final:
         bot.reply_to(message, "No results found. Check the title or the name. \n\nPlease:\n* Don't search for a director and a movie together\n* Use the English title of a movie\n* Remember that only movies from 1980 to present are listed\n* Use correctly the '-' if you're searching for directors with it in the name (e.g. 'Chan-Wook', 'Joon-ho').")
     else:
-        bot.reply_to(message, final + "\n\nLast updated on: " + timestamp.text)
+        bot.reply_to(message, final + "\n\nLast updated on: " + timestamp.text + +f"\n\nElapsed time: {elapsed_time:.6f} seconds")
 
 #stay on alert
 @app.route('/' + TOKEN, methods=['POST'])
