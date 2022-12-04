@@ -87,7 +87,7 @@ RATING,DIRECTOR,MOVIE
 7.6, Pedro Costa,Colossal Youth
 7.6, Johnnie To,Mad Detective
 7.6, Leos Carax,Holy Motors
-7.6, Aleksei German,Trudno byt' Bogom/ Hard to Be a God (2013)
+7.6, Aleksei German,Trudno byt' Bogom/ Hard to Be a God
 7.6, Ama Lily Amirpour,Dokhtari dar sab Tanha be Xane Miravad/ A Girl Walks Home Alone at Night
 7.6, Joachim Trier,Thelma
 7.6, Anders Thomas Jensen,Retfaerdighedens Ryttere/ Riders of Justice
@@ -316,7 +316,6 @@ RATING,DIRECTOR,MOVIE
 7.3, Gerardo Naranjo,Miss Bala
 7.3, Miguel Gomes,Tabu
 7.3, Shane Carruth,Upstream Color
-7.3, Jane Campion,Top of the Lake
 7.3, Andrei Zvyagintsev,Leviathan
 7.3, Lav Diaz,Mula sa Kung Ano ang Noon/ From What Is Before
 7.3, Radu Jude,Aferim
@@ -740,6 +739,7 @@ RATING,DIRECTOR,MOVIE
 7.1, Kleber Mendonca Filho,Neighboring Sounds
 7.1, Michel Franco,Despues de Lucia/ After Lucia
 7.1, James Ponsoldt,The Spectacular Now
+7.1, Jane Campion,Top of the Lake
 7.1, Rithy Panh,L'Image Manquante
 7.1, Justine Triet,Act of Panic
 7.1, Fernando Coimbra,A Wolf at the Door
@@ -882,6 +882,7 @@ RATING,DIRECTOR,MOVIE
 7.1, Charlotte Colbert,She Will
 7.1, Fukada Koji,Love Life
 7.1, Jafar Panahi,No Bears
+7.1, Joanna Hogg,The Eternal Daughter
 7.0, Peng Ning,Kulian/ The Sun and the People aka Taiyang he Ren/ The Sun and the Man  (1980)
 7.0, Maurice Pialat,Loulou (1980)
 7.0, Ken Russell,Altererd States (1980)
@@ -1668,7 +1669,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Zaza Urushadze,Tangerine
 7.0, Claire Denis,Bastards
 7.0, Andrea Pallaoro,Medeas
-7.0, Jeethu Joseph,Drishyam (2013)
+7.0, Jeethu Joseph,Drishyam
 7.0, Tom Shoval,Youth
 7.0, Mati Diop,Mille Soleils
 7.0, Christian Schwochow,West
@@ -2178,7 +2179,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Charline Bourgeois-Tacquet,Les amours d'Anais/ Anais in Love
 7.0, Thomas Daneskov,Wild Men
 7.0, Lorenzo Vigas,La Caja/ The Box
-7.0, Joanna Hogg,The Eternal Daughter
 7.0, Chloe Okuno,Watcher
 7.0, Sangsoo Hong,Walk Up
 7.0, Sebastien Marnier,The Origin of Evil
@@ -2230,6 +2230,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Sebastian Lelio,The Wonder
 7.0, Chinonye Chukwu,Till
 7.0, Alejandro Loayza Grisi,Utama
+7.0, Rian Johnson,Glass Onion - A Knives Out Mystery
 6.9, Theo Angelopoulos,Alexander the Great (1980)
 6.9, Rainer Fassbinder,Berlin Alexanderplatz (1980)
 6.9, Dusan Makavejev,Montenegro (1982)
@@ -2910,7 +2911,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Alfonso Cuaron,Gravity
 6.8, Malgoska Szumowska,In the Name Of
 6.8, Jim Jarmusch,Only Lovers Left Alive
-6.8, Jeethu Joseph,Drishyam (2013)
+6.8, Jeethu Joseph,Drishyam
 6.8, Fatih Akin,The Cut
 6.8, Mona Fastvold,The Sleepwalker
 6.8, Vikramaditya Motwane,Queen (2014)
@@ -3158,6 +3159,8 @@ RATING,DIRECTOR,MOVIE
 6.8, Dan Berk & Robert Olsen,Significant Other
 6.8, Michael Morris,To Leslie
 6.8, Phyllis Nagy,Call Jane
+6.8, Maria Schrader,She Said
+6.8, Francis Lawrence,Slumberland
 6.7, Woody Allen,Zelig (1983)
 6.7, Eric Rohmer,Les Nuits de Lune Pleine/ Full Moon in Paris (1984)
 6.7, Hayao Miyazaki,Kiki's Delivery Service (1989)
@@ -3515,6 +3518,7 @@ RATING,DIRECTOR,MOVIE
 6.6, Steven Spielberg,The Fabelmans
 6.6, Valerie Buhagiar,Carmen
 6.6, Sarah Polley,Women Talking
+6.6, Sally El Hosaini,The Swimmers
 6.5, Agnieszka Holland,Fever (1980)
 6.5, Stanley Kubrick,Shining (1980)
 6.5, Walter Hill,48 Hrs (1982)
@@ -4138,9 +4142,9 @@ RATING,DIRECTOR,MOVIE
 6.5, Barry Levinson,The Bay
 6.5, Neil LaBute,Some Velvet Morning
 6.5, Jeff Nichols,Mud
-6.5, Eliza Hittman,It Felt Like Love (2014)
+6.5, Eliza Hittman,It Felt Like Love
 6.5, Sion Sono,Why Don't You Play in Hell?
-6.5, Roman Polanski,La Venus A la Fourrure/ Venus in Fur (2013)
+6.5, Roman Polanski,La Venus A la Fourrure/ Venus in Fur
 6.5, Jano Rosebiani,Chaplin of the Mountains
 6.5, Jano Rosebiani,One Candle Two Candles
 6.5, Robert Redford,Company You Keep
@@ -4453,6 +4457,8 @@ RATING,DIRECTOR,MOVIE
 6.5, Eric Appel,Weird: The Al Yankovic Story
 6.5, Rodrigo Garcia,Raymond & Ray
 6.5, Ryan Coogler,Black Panther - Wakanda Forever
+6.5, Elegance Bratton,The Inspection
+6.5, Andrew Bujalski,There There
 6.4, Woody Allen,Stardust Memories (1980)
 6.4, Hsiao-Hsien Hou,The Green Green Grass of Home (1982)
 6.4, Woody Allen,Broadway Danny Rose (1984)
@@ -6356,6 +6362,7 @@ RATING,DIRECTOR,MOVIE
 6.0, Kunle Afolayan,A Naija Christmas
 6.0, Agam Darshi,Donkeyhead
 6.0, Neil LaBute,Out of the Blue
+6.0, Laure de Clermont-Tonnerre,Lady Chatterleys Lover
 6.0, Fernando Leon de Aranoa,The Good Boss
 6.0, Scott Derrickson,The Black Phone
 6.0, Peggy Holmes,Luck
@@ -6433,6 +6440,10 @@ RATING,DIRECTOR,MOVIE
 6.0, Nora Twomey,My Father
 6.0, Francis Lawrence,Slumberland
 6.0, Emma Davie,The Oil Machine
+6.0, Mark Mylod,The Menu
+6.0, Claire Scanlon,The People We Hate at the Wedding
+6.0, Booker Mattison,The Sound of Christmas
+6.0, Charles Shyer,The Noel Diary
 5.9, Alan Rudolph,Breakfast of Champions (1998)
 5.9, Woody Allen,Celebrity (1998)
 5.9, Mike Van Diem,Character  (1998)
@@ -6599,7 +6610,6 @@ RATING,DIRECTOR,MOVIE
 5.8, Malachi Smyth,The Score
 5.8, Magdalena Lauritsch,Rubikon
 5.8, Francois Ozon,Peter Von Kant
-5.8, Nicholas Stoller,Bros
 5.8, Sanaa Lathan,On the Come Up
 5.8, David Russell,Amsterdam
 5.8, Darren Le Gallo,Sam & Kate
@@ -7054,6 +7064,7 @@ RATING,DIRECTOR,MOVIE
 5.5, Jay Chandrasekhar,Easter Sunday
 5.5, Thyrone Tommy,Learn to Swim
 5.5, Doron Paz & Yoav Paz,Plan A
+5.5, Don Hall,Strange World
 5.4, Neil Abramson,Ringmaster (1998)
 5.4, Steve Miner,Halloween: H2O (1998)
 5.4, Randall Wallace,Man With The Iron Mask  (1998)
@@ -8552,6 +8563,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Rick Jacobson,The Royal Treatment
 5.0, Danielle Arbid,Simple Passion
 5.0, David Blue Garcia,Texas Chainsaw Massacre
+5.0, Nicholas Stoller,Bros
 5.0, Kim Ki-duk,Call Of God
 5.0, Arnaud Desplechin,Brother And Sister
 5.0, Valeria Bruni Tedeschi,Forever Young
@@ -8600,7 +8612,6 @@ RATING,DIRECTOR,MOVIE
 5.0, Rodrigo Garcia,Raymond & Ray
 5.0, Sophie Kargman,Susie Searches
 5.0, Sally El Hosaini,The Swimmers
-5.0, Mark Mylod,The Menu
 5.0, Alex Lehmann,Meet Cute
 5.0, Ana Lily Amirpour,Mona Lisa and the Blood Moon
 5.0, Mike Barker,Luckiest Girl Alive
@@ -8670,6 +8681,7 @@ RATING,DIRECTOR,MOVIE
 4.8, Martin Campbell,Memory
 4.8, Paul Hoen,Zombies 3
 4.8, Ron Howard,Thirteen Lives
+4.8, Anton Cropper,Fantasy Football
 4.7, Bruce McCulloch,Superstar
 4.7, Irwin Winkler,At First Sight
 4.7, Brett Ratner,Family Man
@@ -9852,6 +9864,9 @@ RATING,DIRECTOR,MOVIE
 4.0, Jaume Collet-Serra,Black Adam
 4.0, Ol Parker,Ticket to Paradise
 4.0, Sean Anders,Spirited
+4.0, Adam Shankman,Disenchanted
+4.0, Bob Clark,A Christmas Story Christmas
+4.0, Gabriela Tagliavini,Christmas With You
 3.9, Martin Owen,Killers Anonymous
 3.8, Scott Alexander & Larry Karaszewski,Screwed
 3.8, Daniel Lusko,Persecuted
