@@ -193,7 +193,7 @@ RATING,DIRECTOR,MOVIE
 7.4, Fernando Meirelles,City of God
 7.4, Ken Loach,Sweet Sixteen
 7.4, Henrik Ruben Genz,En som Hodder/ Someone Like Hodder
-7.4, Takashi Miike,Gozu  (2003)
+7.4, Takashi Miike,Gozu
 7.4, Christian Petzold,Wolfsburg
 7.4, Kim Ki-duk,Binjip/ 3-Iron
 7.4, Cristi Puiu,Moartea Domnului Lazarescu/ The Death of Mr Lazarescu
@@ -1314,9 +1314,9 @@ RATING,DIRECTOR,MOVIE
 7.0, Ron Shelton,Hollywood Homicide
 7.0, Hector Babenco,Carandiru
 7.0, Rakhshan Bani-Etemad,Under The Skin of The City
-7.0, Jee-woon Kim,A Tale of Two Sisters (2003)
+7.0, Jee-woon Kim,A Tale of Two Sisters
 7.0, Sofia Coppola,Lost in Translation
-7.0, Alan Parker,The Life of David Gale (2003)
+7.0, Alan Parker,The Life of David Gale
 7.0, Katsuhito Ishii,Cha No Aji/ The Taste of Tea
 7.0, Edgar Wright,Shaun of the Dead (2004)
 7.0, Sekhar Kammula,Anand (2004)
@@ -1616,7 +1616,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Todd Solondz,Dark Horse
 7.0, Pawel Pawlikowski,The Woman in the Fifth
 7.0, Sarah Polley,Take This Waltz
-7.0, Paolo Sorrentino,This Must Be the Place
 7.0, Andrew Haigh,Weekend
 7.0, Dominik Graf,Don't Follow Me Around
 7.0, Gian Alfonso Pacinotti,L'Ultimo Terrestre
@@ -2074,7 +2073,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Ephraim Asili,The Inheritance
 7.0, Azazel Jacobs,French Exit
 7.0, C.W. Winter and Anders Edstrom,The Works and Days
-7.0, Luca Guadagnino,We are Who we are
 7.0, Lawrence Michael Levine,Black Bear
 7.0, Philippe Garrel,The Salt of Tears
 7.0, Steve McQueen,Mangrove
@@ -2244,6 +2242,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Agnieszka Smoczynska,The Silent Twins
 7.0, Max Walker-Silverman,A Love Song
 7.0, Ulrich Seidl,Rimini
+7.0, Matthew Warchus,Roald Dahl's Matilda the Musical
 6.9, Theo Angelopoulos,Alexander the Great (1980)
 6.9, Rainer Fassbinder,Berlin Alexanderplatz (1980)
 6.9, Dusan Makavejev,Montenegro (1982)
@@ -2566,6 +2565,7 @@ RATING,DIRECTOR,MOVIE
 6.9, Haifaa al-Mansour,The Perfect Candidate
 6.9, Jill Culton,Abominable
 6.9, Pedro Almodovar,Dolor y Gloria/ Pain and Glory
+6.9, Luca Guadagnino,We are Who we are
 6.9, Dea Kulumbegashvili,Beginning
 6.9, Damiano & Fabio D'Innocenzo,Favolacce
 6.9, Anthony Scott Burns,Come True
@@ -2614,7 +2614,6 @@ RATING,DIRECTOR,MOVIE
 6.9, Lise Akoka & Romane Gueret,Les Pires/ The Worst Ones
 6.9, Lola Quivoron,Rodeo
 6.9, Riley Keough & Gina Gammell,War Pony
-6.9, Hirokazu Kore-Eda,Broker
 6.9, Davy Chou,Return To Seoul
 6.9, Paul Mescal,Gods Creatures
 6.9, Fernando Guzzoni,Blanquita
@@ -4421,6 +4420,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Guillermo del Toro,Nightmare Alley
 6.5, Christian Schwochow,Munich - The Edge of War
 6.5, Jordan Peele,Nope
+6.5, Hirokazu Kore-Eda,Broker
 6.5, Tyler Perry,A Jazzman's Blues
 6.5, Terence Davies,Benediction
 6.5, Florian Zeller,The Son
@@ -5806,6 +5806,7 @@ RATING,DIRECTOR,MOVIE
 6.0, George Hickenlooper,Casino Jack
 6.0, Sam Taylor-Wood,Nowhere Boy
 6.0, Koen Mortier,Ex Drummer
+6.0, Paolo Sorrentino,This Must Be the Place
 6.0, Gus Van Sant,Restless
 6.0, Rick Alverson,New Jerusalem
 6.0, Chan-wook Park,Night Fishing
@@ -8596,6 +8597,7 @@ RATING,DIRECTOR,MOVIE
 5.0, Rick Jacobson,The Royal Treatment
 5.0, Danielle Arbid,Simple Passion
 5.0, David Blue Garcia,Texas Chainsaw Massacre
+5.0, Marc Forster,A Man Called Otto
 5.0, Oliver Hermanus,Living
 5.0, James Cameron,Avatar - The Way of Water
 5.0, Antoine Fuqua,Emancipation
