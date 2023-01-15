@@ -110,6 +110,7 @@ RATING,DIRECTOR,MOVIE
 7.5, Abel Ferrara, King of New York
 7.5, Yimou Zhang,Ju Dou
 7.5, Krzysztof Kieslowski,La Double Vie de Veronique/ The Double Life of Veronica (1991)
+7.5, Ridley Scott,Thelma and Louise
 7.5, Chen Kaige,Ba Wang Bie Ji/ Farewell my Concubine (1993)
 7.5, Jan Svankmajer,Lekce Faust/ Lesson Faust
 7.5, Theo Angelopulos,To Vlemma tou Odyssea/ Ulysses' Gaze  (1995)
@@ -186,6 +187,7 @@ RATING,DIRECTOR,MOVIE
 7.4, Wong Kar-wai,In the Mood For Love
 7.4, Wen Jiang,Guizi Laile/ Devils on the Doorstep (2000)
 7.4, Roy Andersson,Songs From the Second Floor
+7.4, Steven Soderbergh,Erin Brockovich
 7.4, Lav Diaz,Batang West Side (2001)
 7.4, Jean-Pierre Jeunet,Amelie
 7.4, Aki Kaurismaki,The Man Without a Past
@@ -384,7 +386,6 @@ RATING,DIRECTOR,MOVIE
 7.2, Patrice Leconte,Monsieur Hire  (1989)
 7.2, Michael Haneke,Der Siebente Kontinent/ The Seventh Continent  (1989)
 7.2, Nikita Mikhalkov,Urga/ Close to Eden
-7.2, Ridley Scott,Thelma and Louise
 7.2, Terry Gilliam,Fisher King (1991)
 7.2, Paul Verhoeven,Basic Instinct
 7.2, Jonathan Lynn,My Cousin Vinny (1992)
@@ -1093,7 +1094,6 @@ RATING,DIRECTOR,MOVIE
 7.0, John Smith,The Boys of St Vincent (1993)
 7.0, Johnny To,The Heroic Trio (1993)
 7.0, Henry Selick,The Nightmare Before Christmas (1993)
-7.0, Fred Schepisi,Six Degrees of Separation (1993)
 7.0, Wong Jing,City Hunter (1993)
 7.0, Nora Ephron,Sleepless in Seattle (1993)
 7.0, Andre Techine,Ma Saison Preferee/ My Favorite Season (1993)
@@ -1222,7 +1222,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Curtis Hanson,Wonder Boys
 7.0, Raul Ruiz,Combat d'Amour en Songe/ Love Torn in a Dream
 7.0, Robert Zemeckis,Cast Away
-7.0, Steven Soderbergh,Erin Brockovich
 7.0, Chang Tso-chi,The Best Of Times
 7.0, Naoyuki Tomomatsu,Suteishi/ Stacy
 7.0, Bahman Farman-Ara,"Smell of Camphor, Perfume of Jasmin"
@@ -2105,6 +2104,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Pak Ruslan,Three
 7.0, Sion Sono,Red Post on Escher Street
 7.0, Nana Mensah,Queen of Glory
+7.0, Gyorgy Palfi,Perpetuity
 7.0, Noah Dixon & Ori Segev,Poser
 7.0, Sebastian Meise,Great Freedom
 7.0, Andrew Gaynord,All My Friends Hate Me
@@ -2244,6 +2244,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Ulrich Seidl,Rimini
 7.0, Matthew Warchus,Roald Dahl's Matilda the Musical
 7.0, Gabriel Martins,Marte Um/ Mars One
+7.0, Kyle Edward Ball,Skinamarink
 6.9, Theo Angelopoulos,Alexander the Great (1980)
 6.9, Rainer Fassbinder,Berlin Alexanderplatz (1980)
 6.9, Dusan Makavejev,Montenegro (1982)
@@ -3023,6 +3024,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Woody Allen,Wonder Wheel
 6.8, Dome Karukoski,Tom of Finland
 6.8, Joseph Kahn,Bodied
+6.8, Gyorgy Palfi, His Master's Voice
 6.8, Claire Denis,High Life
 6.8, Zhang Yimou,Ying/ Shadow
 6.8, Sameh Zoabi,Tel Aviv on Fire
@@ -6481,6 +6483,7 @@ RATING,DIRECTOR,MOVIE
 6.0, Simon Sprackling,Poison Arrows
 6.0, Daryl Wein,Something from Tiffany's
 6.0, Kenji Kamiyama,Eternal 831
+6.0, Louis-Julien Petit,Kitchen Brigade
 5.9, Alan Rudolph,Breakfast of Champions (1998)
 5.9, Woody Allen,Celebrity (1998)
 5.9, Mike Van Diem,Character  (1998)
@@ -8659,6 +8662,8 @@ RATING,DIRECTOR,MOVIE
 5.0, Ali Abbasi,Holy Spider
 5.0, Jean-Marc Mineo,Last Resort
 5.0, Brett Donowho,The Old Way
+5.0, Gillian Jacobs,The Offering
+5.0, Jean-François Richet,Plane
 4.9, Luis Galvao Teles,Elles
 4.9, Shane Meadows,A Room For Romeo Brass
 4.9, Thomas Lee,Supernova
