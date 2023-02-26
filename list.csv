@@ -895,6 +895,8 @@ RATING,DIRECTOR,MOVIE
 7.1, S.S. Rajamouli,RRR
 7.1, Gangubai Kathiawadi,February
 7.1, Alexander Sokurov,Skazka/ Fairytale
+7.1, Sarah Polley,Women Talking
+7.1, Georgia Oakley,Blue Jean
 7.0, Peng Ning,Kulian/ The Sun and the People aka Taiyang he Ren/ The Sun and the Man  (1980)
 7.0, Maurice Pialat,Loulou (1980)
 7.0, Ken Russell,Altererd States (1980)
@@ -2107,6 +2109,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Pak Ruslan,Three
 7.0, Sion Sono,Red Post on Escher Street
 7.0, Nana Mensah,Queen of Glory
+7.0, Dean Camp,Marcel the Shell With Shoes On
 7.0, Eric Grave,A Plein Temps/ Full Time
 7.0, Dina Amer,You Resemble Me (2021)
 7.0, Aleem Khan,After Love
@@ -2191,6 +2194,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Xavier Giannoli,Illusions Perdues/ Lost Illusions
 7.0, Vincent LePort,Bruno Reidal/ Confessions of a Murderer
 7.0, Jean Luc Herbulot,Saloum
+7.0, Zhang Lu,Yanagawa
 7.0, Chloe Okuno,Watcher
 7.0, Sangsoo Hong,Walk Up
 7.0, Sebastien Marnier,The Origin of Evil
@@ -2591,6 +2595,7 @@ RATING,DIRECTOR,MOVIE
 6.9, Aaron Sorkin,The Trial of the Chicago 7
 6.9, Emerald Fennell,Promising Young Woman
 6.9, Philippe Lacote,Night of the Kings
+6.9, Robert Guediguian,Dancing the Twist in Bamako
 6.9, Enrico Casarosa,Luca
 6.9, Joachim Trier,The Worst Person in the World
 6.9, Ninja Thyberg,Pleasure
@@ -3181,7 +3186,6 @@ RATING,DIRECTOR,MOVIE
 6.8, Lucile Hadzihalilovic,Earwig
 6.8, Elie Grappe,Olga
 6.8, Lena Dunham,Catherine Called Birdy
-6.8, Sarah Polley,Women Talking
 6.8, Jennifer Kaytin Robinson,Do Revenge
 6.8, Parker Finn,Smile
 6.8, Kristina Buozyte & Bruno Samper,Vesper
@@ -3192,6 +3196,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Francis Lawrence,Slumberland
 6.8, Julian Higgins,God's Country
 6.8, Hlynur Palmason,Vanskabte Land/ Volaða Land/ Godland
+6.8, Joel Crawford & Januel Mercado,Puss in Boots - The Last Wish
 6.7, Woody Allen,Zelig (1983)
 6.7, Eric Rohmer,Les Nuits de Lune Pleine/ Full Moon in Paris (1984)
 6.7, Hayao Miyazaki,Kiki's Delivery Service (1989)
@@ -6328,7 +6333,9 @@ RATING,DIRECTOR,MOVIE
 6.0, Deepa Mehta,Funny Boy
 6.0, Paul Greengrass,News of the World
 6.0, Patrick Liu,Your Name Engraved Herein
+6.0, Lanie Zipoy,The Subject
 6.0, Milica Tomovic,Celts
+6.0, Annabel Verbeke,Four Seasons in a Day
 6.0, Yusuke Hirota,Poupelle of Chimney Town
 6.0, Sangsoo Hong,Dangsin-eolgul-apeseo/ In Front of Your Face
 6.0, Philip Stevens,Lapwing
@@ -6421,7 +6428,6 @@ RATING,DIRECTOR,MOVIE
 6.0, Damien Manivel,Magdala
 6.0, Kasi Lemmons,I Wanna Dance With Somebody
 6.0, Scott Cooper,The Pale Blue Eye
-6.0, Joel Crawford & Januel Mercado,Puss in Boots - The Last Wish
 6.0, Emer Reynolds,Joyride
 6.0, Bill Posley,Bitch Ass
 6.0, Guðmundur Arnar Guðmundsson,Beautiful Beings
@@ -6500,6 +6506,12 @@ RATING,DIRECTOR,MOVIE
 6.0, Kenji Kamiyama,Eternal 831
 6.0, Louis-Julien Petit,Kitchen Brigade
 6.0, Jaume Collet-Serra,Black Adam
+6.0, Corey Deshon,Daughter
+6.0, Mali Elfman,Next Exit
+6.0, Tom Malloy,Ask Me to Dance
+6.0, Gabriel Gislason,Attachment
+6.0, Nick Read,My Name Is Happy
+6.0, Rolf de Heer,The Survival of Kindness
 5.9, Alan Rudolph,Breakfast of Champions (1998)
 5.9, Woody Allen,Celebrity (1998)
 5.9, Mike Van Diem,Character  (1998)
