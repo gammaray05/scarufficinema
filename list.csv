@@ -570,7 +570,6 @@ RATING,DIRECTOR,MOVIE
 7.2, Dong-hoon Choi,Oegye+in 1bu/ Alienoid
 7.2, Emin Alper,Kurak Gunler/ Burning Days
 7.2, Mimi Cave,Fresh
-7.2, Cooper Raiff,Cha Cha Real Smooth
 7.2, Carla Simon,Alcarras
 7.2, Christian Tafdrup,Speak No Evil
 7.2, Quentin Dupieux,Incredible but True
@@ -877,6 +876,7 @@ RATING,DIRECTOR,MOVIE
 7.1, Ramon & Silvan Zuercher,Das Maedchen und die Spinne/ The Girl and the Spider
 7.1, Jean Luc Herbulot,Saloum
 7.1, Kogonada,After Yang
+7.1, Cooper Raiff,Cha Cha Real Smooth
 7.1, Lukas Dhont,Close
 7.1, Todd Field,Tar
 7.1, Owen Kline,Funny Pages
@@ -892,7 +892,6 @@ RATING,DIRECTOR,MOVIE
 7.1, Joanna Hogg,The Eternal Daughter
 7.1, Sophie Hyde,Good Luck to You Leo Grande
 7.1, Daniel Scheinert & Daniel Kwan,Everything Everywhere All at Once
-7.1, S.S. Rajamouli,RRR
 7.1, Gangubai Kathiawadi,February
 7.1, Alexander Sokurov,Skazka/ Fairytale
 7.1, Sarah Polley,Women Talking
@@ -2156,7 +2155,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Ainsley Gardiner & Briar Grace Smith,Cousins
 7.0, SK Dale,Till Death
 7.0, Steven Soderbergh,No Sudden Move
-7.0, Ryusuke Hamaguchi,Wheel of Fortune and Fantasy
 7.0, Alice Diop,We
 7.0, Denis Cote,Social Hygiene
 7.0, Jane Schoenbrun,We're All Going to the World's Fair
@@ -2180,7 +2178,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Qi Wang,The Bargain
 7.0, Alexandre Moratto,7 Prisoners
 7.0, Abel Ferrara,Zeros and Ones
-7.0, Wes Anderson,The French Dispatch
 7.0, Leonardo DiCostanzo,Ariaferma
 7.0, Clint Bentley,Jockey
 7.0, Jonas Poher Rasmussen,Flee
@@ -2195,6 +2192,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Vincent LePort,Bruno Reidal/ Confessions of a Murderer
 7.0, Jean Luc Herbulot,Saloum
 7.0, Zhang Lu,Yanagawa
+7.0, S.S. Rajamouli,RRR
 7.0, Chloe Okuno,Watcher
 7.0, Sangsoo Hong,Walk Up
 7.0, Sebastien Marnier,The Origin of Evil
@@ -2212,7 +2210,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Maryam Touzani,The Blue Caftan
 7.0, Panos Koutras,Dodo
 7.0, John Patton Ford,Emily the Criminal
-7.0, Jamie Dack,Palm Trees and Power Lines
 7.0, Steven Soderbergh,Kimi
 7.0, Josephine Decker,The Sky Is Everywhere
 7.0, Mitra Farahani,A Vendredi Robinson
@@ -2245,7 +2242,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Alejandro Loayza Grisi,Utama
 7.0, Alessandro Comodin,Gigi la Legge/ The Adventures of Gigi the Law
 7.0, Kristoffer Borgli,Syk Pike/ Sick of Myself
-7.0, Rian Johnson,Glass Onion - A Knives Out Mystery
 7.0, Mia Hansen-Love,One Fine Morning
 7.0, Marie Kreutzer,Corsage
 7.0, Agnieszka Smoczynska,The Silent Twins
@@ -2253,6 +2249,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Ulrich Seidl,Rimini
 7.0, Matthew Warchus,Roald Dahl's Matilda the Musical
 7.0, Gabriel Martins,Marte Um/ Mars One
+7.0, Alberto Vazquez,Unicorn Wars
 6.9, Theo Angelopoulos,Alexander the Great (1980)
 6.9, Rainer Fassbinder,Berlin Alexanderplatz (1980)
 6.9, Dusan Makavejev,Montenegro (1982)
@@ -2610,6 +2607,7 @@ RATING,DIRECTOR,MOVIE
 6.9, John Michael McDonagh,The Forgiven
 6.9, Will Sharpe,The Electrical Life of Louis Wain
 6.9, Mike Mills,C'mon C'mon
+6.9, Ji Huang & Ryuji Otsuka,Stonewalling
 6.9, Jerzy Skolimowski,Eo
 6.9, Carlota Pereda,Piggy
 6.9, Huang Ji & Ryuji Otsuka,Stonewalling
@@ -2628,7 +2626,6 @@ RATING,DIRECTOR,MOVIE
 6.9, Davy Chou,Return To Seoul
 6.9, Paul Mescal,Gods Creatures
 6.9, Fernando Guzzoni,Blanquita
-6.9, Owen Kline,Funny Pages
 6.9, Anthony Fabian,Mrs Harris Goes to Paris
 6.9, Sang-soo Hong,The Novelist's Film
 6.9, Jim Archer,Brian and Charles
@@ -2636,8 +2633,6 @@ RATING,DIRECTOR,MOVIE
 6.9, Fernando Guzzoni,Blanquita
 6.9, Gina Prince-Bythewood,The Woman King
 6.9, Diego Ongaro,Down With the King
-6.9, George Miller,Three Thousand Years Of Longing
-6.9, Dean Fleischer-Camp,Marcel the Shell With Shoes On
 6.9, Steven Spielberg,The Fabelmans
 6.8, Hsiao-Hsien Hou,The Boys from Fengkuei (1983)
 6.8, Wolfgang Petersen, Never Ending Story (1984)
@@ -2829,6 +2824,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Joe Wright,The Atonement
 6.8, Raul Ruiz,The Righteous Province/ La Recta Provincia
 6.8, Vincenzo Natali,Splice
+6.8, Susanne Bier,Things We Lost in the Fire (2008)
 6.8, Shimit Amin,Chak De! India (2008)
 6.8, Florian Gallenberger,John Rabe
 6.8, Nash Edgerton,The Square
@@ -4384,6 +4380,8 @@ RATING,DIRECTOR,MOVIE
 6.5, Clea DuVall,Happiest Season
 6.5, Ekwa Msangi,Farewell Amor
 6.5, Theodore Melf,The Starling
+6.5, Ryusuke Hamaguchi,Guzen to Sozo/ Wheel of Fortune and Fantasy
+6.5, Wes Anderson,The French Dispatch
 6.5, Xiaofeng Li,Back to the Wharf
 6.5, Kate Tsang,Marvelous and the Black Hole
 6.5, Kota Yoshida,Sexual Drive
@@ -4428,7 +4426,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Evgeny Ruman,Golden Voices
 6.5, Gillian Wallace Horvat,I Blame Society
 6.5, Eric Andre,Bad Trip
-6.5, Ryusuke Hamaguchi,Guzen to Sozo/ Wheel of Fortune and Fantasy
 6.5, John Ridley,Needle in a Timestack
 6.5, Seung-wan Ryoo,Escape From Mogadishu
 6.5, Tracey Deer,Beans
@@ -4440,6 +4437,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Guillermo del Toro,Nightmare Alley
 6.5, Christian Schwochow,Munich - The Edge of War
 6.5, Jordan Peele,Nope
+6.5, George Miller,Three Thousand Years Of Longing
 6.5, Hirokazu Kore-Eda,Broker
 6.5, Tyler Perry,A Jazzman's Blues
 6.5, Terence Davies,Benediction
@@ -4481,7 +4479,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Mariama Diallo,Master
 6.5, Malgorzata Szumowska,Infinite Storm
 6.5, Fanny Liatard and Jeremy Trouilh,Gagarine
-6.5, Srisaila Rajamouli,RRR
 6.5, Natalya Vorozhbit,Bad Roads
 6.5, Rick Dugdale,Zero Contact
 6.5, Nine Antico,Playlist
@@ -4502,6 +4499,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Andrew Bujalski,There There
 6.5, Guillermo del Toro,Pinocchio
 6.5, Damien Chazelle,Babylon
+6.5, Jamie Dack,Palm Trees and Power Lines
 6.4, Woody Allen,Stardust Memories (1980)
 6.4, Hsiao-Hsien Hou,The Green Green Grass of Home (1982)
 6.4, Woody Allen,Broadway Danny Rose (1984)
@@ -6412,14 +6410,12 @@ RATING,DIRECTOR,MOVIE
 6.0, Neil LaBute,Out of the Blue
 6.0, Robert Eggers,The Northman
 6.0, Mo McRae,A Lot of Nothing
-6.0, Jesse Eisenberg,When You Finish Saving the World
 6.0, Laure de Clermont-Tonnerre,Lady Chatterleys Lover
 6.0, Fernando Leon de Aranoa,The Good Boss
 6.0, Scott Derrickson,The Black Phone
 6.0, Peggy Holmes,Luck
 6.0, Jon Sherman,They/Them/Us
 6.0, Adil El Arbi & Bilall Fallah,Rebel
-6.0, Baz Luhrmann,Elvis
 6.0, Cedric Jimenez,Novembre
 6.0, Emmanuel Mouret,Chronique d'une Liaison Passagere/ Diary Of A Fleeting Affair
 6.0, Kirill Serebrennikov,Zhena Chaikovskogo/ Tchaïkovski's Wife
@@ -6457,7 +6453,6 @@ RATING,DIRECTOR,MOVIE
 6.0, Doroteya Droumeva,The Vagabonds
 6.0, Andrew Ahn,Fire Island
 6.0,  Mariano Cohn & Gaston Duprat,Official Competition
-6.0, Cooper Raiff,Cha Cha Real Smooth
 6.0, Antoneta Alamat Kusijanovic,Murina
 6.0, Olivia Newman,Where the Crawdads Sing
 6.0, Michael Lewen,Hello Goodbye and Everything in Between
@@ -6476,7 +6471,6 @@ RATING,DIRECTOR,MOVIE
 6.0, Steve Bushemi,The Listener
 6.0, Andrew Dominik,Blonde
 6.0, Susanna Nicchiarelli,Chiara
-6.0, Henry Selick,Wendell & Wild
 6.0, Lindsay MacKay,The Swearing Jar
 6.0, Lila Neugebauer,Causeway
 6.0, Mel Eslyn,Biosphere
@@ -7120,6 +7114,7 @@ RATING,DIRECTOR,MOVIE
 5.5, Matthias Schweighoefer,Army of Thieves
 5.5, George Clooney,The Tender Bar
 5.5, Jason Orley,I Want You Back
+5.5, Henry Selick,Wendell & Wild
 5.5, Mary Nighy,"Alice, Darling"
 5.5, Matt Carter,In From the Side
 5.5, Michel Hazanavicius,Final Cut
@@ -8680,7 +8675,6 @@ RATING,DIRECTOR,MOVIE
 5.0, Robert Budreau,Delias Gone
 5.0, Mukunda Michael Dewil,The Immaculate Room
 5.0, Ben Parker,Burial
-5.0, George Miller,Three Thousand Years of Longing
 5.0, Kevin Smith,Clerks III
 5.0, Marius Vaysberg,About Fate
 5.0, Rodrigo Garcia,Raymond & Ray
@@ -8748,7 +8742,6 @@ RATING,DIRECTOR,MOVIE
 4.8, JC Chandor,Triple Frontier
 4.8, Derrick Borte,American Dreamer
 4.8, Josh Trank,Capone
-4.8, Cooper Raiff,S#!%house
 4.8, Regina Welker & Nina Wels,Latte and the Magic Waterstone Review: A Hedgehogs Journey
 4.8, Richard Tanne,Chemical Hearts
 4.8, Yuval Adler,The Secrets We Keep
@@ -9186,7 +9179,6 @@ RATING,DIRECTOR,MOVIE
 4.5, Hiroyasu Ishida,Drifting Home
 4.5, Michael Grandage,My Policeman
 4.5, Josh Gordon & Will Speck,"Lyle, Lyle, Crocodile"
-4.5, Henry Selick,Wendell and Wild
 4.5, Paul Feig,The School for Good and Evil
 4.5, Janeen Damian,Falling for Christmas
 4.5, Chuck Russell,Paradise City
