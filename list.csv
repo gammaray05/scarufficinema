@@ -565,6 +565,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Mahamat-Saleh Haroun,Lingui
 7.2, Panah Panahi,Jaddeh Khaki/ Hit the Road
 7.2, Colm Bairaad,The Quiet Girl
+7.2, Ulrich Seidl,Rimini
 7.2, Michelle Garza Cervera,Huesera: The Bone Woman
 7.2, Robbie Banfitch,The Outwaters
 7.2, Dong-hoon Choi,Oegye+in 1bu/ Alienoid
@@ -572,7 +573,6 @@ RATING,DIRECTOR,MOVIE
 7.2, Mimi Cave,Fresh
 7.2, Carla Simon,Alcarras
 7.2, Christian Tafdrup,Speak No Evil
-7.2, Quentin Dupieux,Incredible but True
 7.2, Kyle Edward Ball,Skinamarink
 7.1, Michael Cimino,Heaven's Gate
 7.1, Zbigniew Rybczynski,Steps (1980) [short]
@@ -2062,6 +2062,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Chinonye Chukwu,Clemency
 7.0, Shatara Michelle Ford,Test Pattern
 7.0, Daniel Grou,Mafia Inc
+7.0, Anna Sofie Hartmann,Giraffe
 7.0, Dea Kulumbegashvili,Beginning
 7.0, Cooper Raiff,Shithouse
 7.0, Ivan Ostrochovsky,Sluzobnici/ Servants
@@ -2108,6 +2109,7 @@ RATING,DIRECTOR,MOVIE
 7.0, Pak Ruslan,Three
 7.0, Sion Sono,Red Post on Escher Street
 7.0, Nana Mensah,Queen of Glory
+7.0, Axelle Ropert,Petite Solange
 7.0, Dean Camp,Marcel the Shell With Shoes On
 7.0, Eric Grave,A Plein Temps/ Full Time
 7.0, Dina Amer,You Resemble Me (2021)
@@ -2192,7 +2194,11 @@ RATING,DIRECTOR,MOVIE
 7.0, Vincent LePort,Bruno Reidal/ Confessions of a Murderer
 7.0, Jean Luc Herbulot,Saloum
 7.0, Zhang Lu,Yanagawa
+7.0, Quentin Dupieux,Incroyable Mais Vrai/ Incredible but True
+7.0, Ursula Meier,La Ligne/ The Line
+7.0, Quentin Dupieux,Fumer Fait Tousser/ Smoking Causes Coughing
 7.0, S.S. Rajamouli,RRR
+7.0, Lisa Akoka and Romane Gueret,The Worst Ones
 7.0, Chloe Okuno,Watcher
 7.0, Sangsoo Hong,Walk Up
 7.0, Sebastien Marnier,The Origin of Evil
@@ -2214,7 +2220,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Josephine Decker,The Sky Is Everywhere
 7.0, Mitra Farahani,A Vendredi Robinson
 7.0, Peter Strickland,Flux Gourmet
-7.0, Quentin Dupieux,Incredible But True
 7.0, Anthony Hayes,Gold
 7.0, Alain Guiraudie,Nobody's Hero
 7.0, Kurdwin Ayub,Sonne
@@ -3057,6 +3062,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Kristoffer Nyholm,The Vanishing
 6.8, Isold Uggadottir,And Breathe Normally
 6.8, Gaspar Noe,Climax
+6.8, Agnieszka Smoczynska,Fugue
 6.8, Samantha Buck & Marie Schlingmann,Sister Aimee
 6.8, Zoya Akhtar,Gully Boy (2019)
 6.8, Cory Finley,Bad Education
@@ -3163,7 +3169,6 @@ RATING,DIRECTOR,MOVIE
 6.8, Kelly Reichardt,Showing Up
 6.8, Maksim Nakonechnyi,Bachennya Metelyka/ Butterfly Vision
 6.8, Dominik Moll,La Nuit Du 12
-6.8, Quentin Dupieux,Smoking Causes Coughing
 6.8, Oliver Hermanus,Living (remake of Ozu's Ikiru)
 6.8, Paul Solet,Clean
 6.8, Mikhael Hers,The Passengers of  the Night
@@ -4500,6 +4505,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Guillermo del Toro,Pinocchio
 6.5, Damien Chazelle,Babylon
 6.5, Jamie Dack,Palm Trees and Power Lines
+6.5, Francisca Alegria,La Vaca que Canto' una Cancion hacia el Futuro/ The Cow Who Sang a Song Into the Future
 6.4, Woody Allen,Stardust Memories (1980)
 6.4, Hsiao-Hsien Hou,The Green Green Grass of Home (1982)
 6.4, Woody Allen,Broadway Danny Rose (1984)
@@ -6352,6 +6358,7 @@ RATING,DIRECTOR,MOVIE
 6.0, Gitanjali Rao,Bombay Rose
 6.0, Pal Oie,The Tunnel
 6.0, Grear Patterson,Giants Being Lonely
+6.0, Wen Shipei,Are You Lonesome Tonight?
 6.0, Jeff Rosenberg,We Broke Up
 6.0, Samad Zarmandili,Beate
 6.0, Anthony Chen,Wet Season
