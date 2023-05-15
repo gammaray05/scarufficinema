@@ -320,6 +320,7 @@ RATING,DIRECTOR,MOVIE
 7.3, Gerardo Naranjo,Miss Bala
 7.3, Miguel Gomes,Tabu
 7.3, Shane Carruth,Upstream Color
+7.3, Alexander Payne,Nebraska (2013)
 7.3, Andrei Zvyagintsev,Leviathan
 7.3, Lav Diaz,Mula sa Kung Ano ang Noon/ From What Is Before
 7.3, Radu Jude,Aferim
@@ -525,6 +526,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Agnieszka Holland,Spoor
 7.2, Greg Zglinski,Animals
 7.2, Kantemir Balagov,Tesnota/ Closeness
+7.2, Doug Liman,The Wall
 7.2, Joel Potrykus,Relaxer
 7.2, Rick Alverson,The Mountain
 7.2, David Robert Mitchell,Under the Silver Lake
@@ -575,6 +577,7 @@ RATING,DIRECTOR,MOVIE
 7.2, Carla Simon,Alcarras
 7.2, Christian Tafdrup,Speak No Evil
 7.2, Kyle Edward Ball,Skinamarink
+7.2, Dmytro Sukholytkyy-Sobchuk,Pamfir
 7.1, Michael Cimino,Heaven's Gate
 7.1, Zbigniew Rybczynski,Steps (1980) [short]
 7.1, Irvin Kershner,The Empire Strikes Back (1980)
@@ -1783,7 +1786,6 @@ RATING,DIRECTOR,MOVIE
 7.0, Jake Paltrow,Young Ones
 7.0, Justin Simien,Dear White People
 7.0, Ruben Ostlund,Force Majeure
-7.0, Chad Stahelski,John Wick
 7.0, Daniel Ribeiro,The Way He Looks
 7.0, Chris Rock,Top Five
 7.0, Christopher Nolan,Interstellar
@@ -1917,10 +1919,8 @@ RATING,DIRECTOR,MOVIE
 7.0, Frederick Wiseman,Ex Libris
 7.0, Fatih Akin,Aus dem Nichts/ In the Fade
 7.0, Anahita Ghazvinizadeh,They
-7.0, Alexander Payne,Downsizing
 7.0, Sergei Loznitsa,A Gentle Creature
 7.0, Teresa Villaverde,Colo
-7.0, Doug Liman,The Wall
 7.0, Cate Shortland,Berlin Syndrome
 7.0, Trey-Edward Shults,It Comes at Night
 7.0, Miguel Arteta,Beatriz at Dinner
@@ -3011,9 +3011,9 @@ RATING,DIRECTOR,MOVIE
 6.8, Lav Diaz,A Lullaby to the Sorrowful Mystery
 6.8, Brady Corbet,The Childhood of a Leader
 6.8, Ken Loach,I Daniel Blake
-6.8, Robert Zemeckis,Allied
 6.8, Juho Kuosmanen,Hymyileva Mies/ Smiling Man/ The Happiest Day in the Life of Olli Maki
 6.8,  Scooter Corkle,Hollow in the Land
+6.8, Alexander Payne,Downsizing (2017)
 6.8, Shinichiro Ueda,Kamera o Tomeru na/ Don't Stop the Camera/ One Cut of the Dead (2017)
 6.8, Emmanuel Gras,Makala
 6.8, Laurent Cantet,L'Atelier/ The Workshop
@@ -3201,6 +3201,7 @@ RATING,DIRECTOR,MOVIE
 6.8, Julian Higgins,God's Country
 6.8, Hlynur Palmason,Vanskabte Land/ Volaða Land/ Godland
 6.8, Joel Crawford & Januel Mercado,Puss in Boots - The Last Wish
+6.8, Andrea Pallaoro,Monica
 6.7, Woody Allen,Zelig (1983)
 6.7, Eric Rohmer,Les Nuits de Lune Pleine/ Full Moon in Paris (1984)
 6.7, Hayao Miyazaki,Kiki's Delivery Service (1989)
@@ -3351,6 +3352,7 @@ RATING,DIRECTOR,MOVIE
 6.7, Nikole Beckwith,Together Together
 6.7, Max Barbakow,Palm Springs
 6.7, Mei Makino,Inbetween Girl
+6.7, Ashley McKenzie,Queens of the Qing Dynasty
 6.7, Jean-Pierre Jeunet,Bigbug
 6.7, Cora Bissett,Orphans
 6.7, Olivia Peace,Tahara
@@ -3362,6 +3364,7 @@ RATING,DIRECTOR,MOVIE
 6.7, Michael Bay,Ambulance
 6.7, Clio Barnard,Ali & Ava
 6.7, Maryam Touzani,The Blue Caftan
+6.7, Ali Abbasi,Holy Spider
 6.6, John Dahl,Rounders (1998)
 6.6, Abel Ferrara,Blackout  (1997)
 6.6, David Rabe,Hurlyburly (1998)
@@ -4285,6 +4288,7 @@ RATING,DIRECTOR,MOVIE
 6.5, Sarah Gavron,Suffragette
 6.5, Natalie Portman,A Tale of Love and Darkness
 6.5, Hideaki Anno & Shinji Higuchi,Shin Gojira/ Shin Godzilla
+6.5, Robert Zemeckis,Allied
 6.5, Agnieszka Smoczynska,The Lure
 6.5, Roberto Ando`,The Confessions
 6.5, Paul Negoescu,Doua Lozuri/ Two Lottery Tickets
@@ -4495,7 +4499,6 @@ RATING,DIRECTOR,MOVIE
 6.5, Anthony Russo & Joe Russo,The Gray Man
 6.5, Han-min Kim,Hansan - Rising Dragon
 6.5, Regis Roinsard,Waiting for Bojangles
-6.5, Andrea Pallaoro,Monica
 6.5, Oliver Hermanus,Living
 6.5, Vahid Jalilvand,Beyond The Wall
 6.5, Tom George,See How They Run
@@ -4785,7 +4788,6 @@ RATING,DIRECTOR,MOVIE
 6.3, Julie Delpy,My Zoe
 6.3, Paul Verhoeven,Benedetta
 6.3, Amartya Bhattacharyya,Adieu Godard
-6.3, Ali Abbasi,Holy Spider
 6.3, Halina Reijn,Bodies Bodies Bodies
 6.3, Olivia Wilde,Dont Worry Darling
 6.3, Alejandro Gonzalez Inarritu,Bardo
@@ -4867,7 +4869,6 @@ RATING,DIRECTOR,MOVIE
 6.2, Goro Miyazaki,From Up on Poppy Hill
 6.2, Sangsoo Hong,Our Sunhi
 6.2, Richard LeMay,Naked as We Came
-6.2, Alexander Payne,Nebraska
 6.2, Scott Cooper,Out of the Furnace
 6.2, Nenad Cicin-Sain,The Time Being
 6.2, Nicolas Lopez,Aftershock
@@ -6146,6 +6147,7 @@ RATING,DIRECTOR,MOVIE
 6.0, Rob Marshall,Into the Woods
 6.0, Ava DuVernay,Selma
 6.0, Rajkumar Hirani,PK
+6.0, Chad Stahelski,John Wick
 6.0, Eytan Fox,Cupcakes
 6.0, Harmony Korine,The Legend of Cambo
 6.0, Robin Pront,The Ardennes
@@ -7201,6 +7203,7 @@ RATING,DIRECTOR,MOVIE
 5.4, Roger Michell,Blackbird
 5.4, Aaron Sorkin,Being the Ricardos
 5.4, Julia Hart,Hollywood Stargirl
+5.4, Tom Huang,Dealing With Dad
 5.4, Robin Abrams & Marc Bruni,Trevor The Musical
 5.3, Samo Hung,Mr Nice Guy  (1998)
 5.3, Kevin Rodney Sullivan,How Stella Got Her Groove Back (1998)
