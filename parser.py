@@ -8,7 +8,6 @@ import os
 from datetime import datetime
 from bs4 import BeautifulSoup, NavigableString, Tag
 
-#defining git pushing function
 def git_push():
     try:
         os.system('cmd /c "git add ."')
@@ -26,7 +25,9 @@ with open("timestamp.txt", "w") as file:
     file.write(timestamp)
 
 #urls list
-urls = ['https://www.scaruffi.com/cinema/best80.html','https://www.scaruffi.com/cinema/best81.html','https://www.scaruffi.com/cinema/best82.html','https://www.scaruffi.com/cinema/best83.html','https://www.scaruffi.com/cinema/best84.html','https://www.scaruffi.com/cinema/best85.html','https://www.scaruffi.com/cinema/best86.html','https://www.scaruffi.com/cinema/best87.html','https://www.scaruffi.com/cinema/best88.html','https://www.scaruffi.com/cinema/best89.html','https://www.scaruffi.com/cinema/best90.html','https://www.scaruffi.com/cinema/best91.html','https://www.scaruffi.com/cinema/best92.html','https://www.scaruffi.com/cinema/best93.html','https://www.scaruffi.com/cinema/best94.html','https://www.scaruffi.com/cinema/best95.html','https://www.scaruffi.com/cinema/best96.html','https://www.scaruffi.com/cinema/best97.html','https://www.scaruffi.com/cinema/best98.html', 'https://www.scaruffi.com/cinema/best99.html', 'https://www.scaruffi.com/cinema/best00.html', 'https://www.scaruffi.com/cinema/best01.html', 'https://www.scaruffi.com/cinema/best02.html', 'https://www.scaruffi.com/cinema/best03.html', 'https://www.scaruffi.com/cinema/best04.html', 'https://www.scaruffi.com/cinema/best05.html', 'https://www.scaruffi.com/cinema/best06.html', 'https://www.scaruffi.com/cinema/best07.html', 'https://www.scaruffi.com/cinema/best08.html', 'https://www.scaruffi.com/cinema/best09.html', 'https://www.scaruffi.com/cinema/best10.html', 'https://www.scaruffi.com/cinema/best11.html', 'https://www.scaruffi.com/cinema/best12.html', 'https://www.scaruffi.com/cinema/best13.html','https://www.scaruffi.com/cinema/best14.html', 'https://www.scaruffi.com/cinema/best15.html', 'https://www.scaruffi.com/cinema/best16.html', 'https://www.scaruffi.com/cinema/best17.html', 'https://www.scaruffi.com/cinema/best18.html', 'https://www.scaruffi.com/cinema/best19.html', 'https://www.scaruffi.com/cinema/best20.html', 'https://www.scaruffi.com/cinema/best21.html', 'https://www.scaruffi.com/cinema/best22.html']
+base_url = 'https://www.scaruffi.com/cinema/best'
+urls = [base_url + str(i).zfill(2) + '.html' for i in range(80, 100)] + [base_url + str(i).zfill(2) + '.html' for i in range(0, 25)]
+
 
 # csv writer function
 def append_list_as_row(file_name, list_of_elem):
