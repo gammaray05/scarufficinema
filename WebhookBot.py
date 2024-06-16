@@ -4,8 +4,6 @@ import telebot
 import pandas as pd
 import urllib3
 import os
-import numpy as np
-np.bool = np.bool_
 
 url="https://raw.githubusercontent.com/gammaray05/scarufficinema/master/list.csv"
 tsurl = "https://raw.githubusercontent.com/gammaray05/scarufficinema/master/timestamp.txt"
