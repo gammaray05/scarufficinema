@@ -1,5 +1,5 @@
 beautifulsoup4==4.11.1
-Flask==2.2.2
+Flask==2.3.2
 lxml==4.9.1
 pandas==1.0.3
 pyTelegramBotAPI==4.7.0
